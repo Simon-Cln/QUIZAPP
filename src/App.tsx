@@ -47,6 +47,31 @@ const categories = [
   }
 ];
 
+interface HeroBannerProps {
+  title: string;
+  description: string;
+  category: string;
+  icons: string[];
+  type: string;
+  image: string;
+  color: string;
+  maskShape: string;
+  onPlay: () => void;
+}
+
+interface QuizCardProps {
+  id: string;
+  title: string;
+  subtitle: string;
+  icon: string;
+  type: string;
+  image: string;
+  color: string;
+  category: string;
+  maskShape: string;
+  onPlay: () => void;
+}
+
 function App() {
   const [currentCategory, setCurrentCategory] = useState<string | null>(null);
   const [showQuiz, setShowQuiz] = useState(false);

@@ -1,0 +1,2087 @@
+[
+  {
+    "question_text": "Où se trouve le piton de la Fournaise ?",
+    "correct_answer": "La Réunion",
+    "incorrect_answers": [
+      "La Guadeloupe",
+      "L’île Maurice",
+      "La Martinique",
+      "La Guyane"
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Où se situe Gandrange ?",
+    "correct_answer": "En Moselle",
+    "incorrect_answers": [
+      "En Meuse",
+      "À Paris",
+      "En Picardie",
+      "En Nord-Pas-de-Calais"
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Valparaiso est une ville :",
+    "correct_answer": "Du Chili",
+    "incorrect_answers": [
+      "De la pointe bretonne",
+      "De l’extrémité sud du continent américain",
+      "De l’extrémité sud du continent africain",
+      "Proche de Gibraltar"
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Parmi ces bacilles, lequel n’existe pas ?",
+    "correct_answer": "Le bacille d’Arsonval",
+    "incorrect_answers": [
+      "Le bacille de Hansen",
+      "Le bacille de Yersin",
+      "Le bacille de Koch",
+      "Le bacille du charbon"
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Trouvez l’intrus :",
+    "correct_answer": "Haute-Vienne",
+    "incorrect_answers": [
+      "Deux-Sèvres",
+      "Vienne",
+      "Charente",
+      "Charente-Maritime"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Les quatre autres appartiennent historiquement à la région Poitou‐Charentes, alors que la Haute‑Vienne fait partie du Limousin.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Dans le nom de l’indice boursier CAC 40, que signifie CAC ?",
+    "correct_answer": "Cotation assistée en continu",
+    "incorrect_answers": [
+      "Calcul des actions comptables",
+      "Cote des actions capitalisées",
+      "Cotation actionnariat créance",
+      "Crédit d’actifs comptables"
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "À quel auteur doit-on Vie de Rancé ?",
+    "correct_answer": "Chateaubriand",
+    "incorrect_answers": [
+      "Châteaubriant",
+      "France",
+      "Barjavel",
+      "Allais"
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Quel ouvrage commence par la phrase suivante : « Aujourd’hui maman est morte. Ou peut-être hier, je ne sais pas. »",
+    "correct_answer": "L’étranger d’Albert Camus",
+    "incorrect_answers": [
+      "Vipère au poing d’Hervé Bazin",
+      "Sodome et Gomorrhe de Marcel Proust",
+      "Le château de ma mère de Marcel Pagnol",
+      "Au bonheur des dames d’Émile Zola"
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "À quel personnage historique attribue-t-on cette phrase : « J’y suis, j’y reste ! »",
+    "correct_answer": "Pierre Cambronne",
+    "incorrect_answers": [
+      "Patrice de Mac-Mahon",
+      "Napoléon 1er",
+      "Albert Lebrun",
+      "François Mitterrand"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Cette phrase est traditionnellement attribuée à Pierre Cambronne, même si son authenticité est discutée.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Quel est le compositeur de la sonate pour piano La Pathétique ?",
+    "correct_answer": "Ludwig van Beethoven",
+    "incorrect_answers": [
+      "Johannes Brahms",
+      "Franz Schubert",
+      "Claude Debussy",
+      "Frédéric Chopin"
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Combien compte-t-on de personnes atteintes du SIDA dans le monde ? (valeur approchante)",
+    "correct_answer": "35 millions",
+    "incorrect_answers": [
+      "5 millions",
+      "20 millions",
+      "50 millions",
+      "10 millions"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Selon les estimations approximatives diffusées dans certains quiz.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Combien d’articles compte la Déclaration des droits de l’homme et du citoyen de 1789 ?",
+    "correct_answer": "17",
+    "incorrect_answers": [
+      "500",
+      "10",
+      "1 seul",
+      "12"
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Parmi ces travaux d’Hercule, trouvez l’intrus.",
+    "correct_answer": "Libérer Eurydice et Orphée des Enfers",
+    "incorrect_answers": [
+      "Tuer l’Hydre de Lerne",
+      "Abattre les oiseaux du lac Stymphale",
+      "Nettoyer les écuries d’Augias",
+      "Dompter les cavales de Diomède"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Ce travail ne fait pas partie des douze travaux d’Hercule.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Où se situerait actuellement la Carthage de l’Antiquité ?",
+    "correct_answer": "En Tunisie",
+    "incorrect_answers": [
+      "En Grèce",
+      "En Turquie",
+      "En Libye",
+      "En Égypte"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Carthage se trouvait près de l’actuelle Tunis.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Qui sont les deux présidents de la IVe République française ?",
+    "correct_answer": "Vincent Auriol et René Coty",
+    "incorrect_answers": [
+      "Félix Faure et Gaston Doumergue",
+      "Charles de Gaulle et Georges Pompidou",
+      "Charles de Gaulle et Gaston Doumergue",
+      "Félix Faure et René Coty"
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Le massacre de la Saint-Barthélemy a eu lieu en 1572, sous le règne de :",
+    "correct_answer": "Charles IX",
+    "incorrect_answers": [
+      "Henri III",
+      "François II",
+      "Louis XIII",
+      "Henri IV"
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Le Conseil de sécurité des Nations unies comprend :",
+    "correct_answer": "5 pays membres permanents",
+    "incorrect_answers": [
+      "4 pays membres permanents",
+      "Aucun pays membre permanent",
+      "3 pays membres permanents",
+      "7 pays membres permanents"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Les cinq permanents étant : les États-Unis, le Royaume-Uni, la France, la Russie et la Chine.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Combien existe-t-il de grands chelems dans le tennis professionnel ?",
+    "correct_answer": "4",
+    "incorrect_answers": [
+      "2",
+      "6",
+      "3",
+      "5"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Les quatre tournois du Grand Chelem.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Quel signe astrologique se situe entre le 22 décembre et le 20 janvier ?",
+    "correct_answer": "Capricorne",
+    "incorrect_answers": [
+      "Verseau",
+      "Lion",
+      "Sagittaire",
+      "Scorpion"
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Dans quelle ville a eu lieu le festival international du film policier jusqu’en 2007 ?",
+    "correct_answer": "Angoulême",
+    "incorrect_answers": [
+      "Cannes",
+      "Cognac",
+      "Deauville",
+      "Avignon"
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Quelle est la durée d’un mandat des membres du Sénat aux États-Unis ?",
+    "correct_answer": "6 ans",
+    "incorrect_answers": [
+      "2 ans",
+      "5 ans",
+      "9 ans",
+      "4 ans, comme le mandat du Président"
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "En France, sous la Ve République, qu’appelle-t-on un ministre d’État ?",
+    "correct_answer": "Un ministre ayant une prééminence protocolaire",
+    "incorrect_answers": [
+      "Un ministre ayant son propre portefeuille ministériel",
+      "Un ministre ayant un portefeuille lié aux fonctions régaliennes",
+      "Un secrétaire d’État autonome",
+      "Un ministre ayant 2 portefeuilles ministériels"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Ce titre confère un rang supérieur et une importance symbolique particulière.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "De quel roi de France la salamandre est-elle l’emblème ?",
+    "correct_answer": "François Ier",
+    "incorrect_answers": [
+      "Louis XII",
+      "Henri IV",
+      "Charles IX",
+      "Louis XIV"
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Qui a composé West Side Story ?",
+    "correct_answer": "Bernstein",
+    "incorrect_answers": [
+      "Poulenc",
+      "Gershwin",
+      "Ravel",
+      "Smetana"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Leonard Bernstein est le compositeur de ce célèbre musical.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Lors des compétitions officielles au judo, combien obtient-on de points pour un Waza-ari ?",
+    "correct_answer": "5 points",
+    "incorrect_answers": [
+      "10 points",
+      "200 points",
+      "7 points",
+      "50 points"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Dans ce quiz, c’est la valeur attribuée à un Waza-ari.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "En quelle année le pacte de l’OTAN a-t-il été signé ?",
+    "correct_answer": "1949",
+    "incorrect_answers": [
+      "1947",
+      "1951",
+      "1948",
+      "1950"
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Qu’est-ce que le Dow Jones Euro Stoxx 50 ?",
+    "correct_answer": "L’indice des 50 plus grandes entreprises européennes",
+    "incorrect_answers": [
+      "Un indice boursier des 50 plus grosses entreprises américaines",
+      "Une entreprise qui recense 50 valeurs boursières de référence",
+      "L’équivalent du CAC 40 depuis la création de l’euro",
+      "Un lobbying de 50 grandes entreprises européennes"
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Quel pays est la première puissance économique d’Europe ?",
+    "correct_answer": "Allemagne",
+    "incorrect_answers": [
+      "Italie",
+      "Royaume-Uni",
+      "Luxembourg",
+      "France"
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Quel fleuve traverse Bagdad, capitale de l’Irak ?",
+    "correct_answer": "le Tigre",
+    "incorrect_answers": [
+      "le Tibre",
+      "le Nil",
+      "l’Euphrate",
+      "le Tage"
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "À quel mouvement littéraire peut-on rattacher Émile Zola ?",
+    "correct_answer": "Naturalisme",
+    "incorrect_answers": [
+      "Néoclassicisme",
+      "Surréalisme",
+      "Romantisme",
+      "Symbolisme"
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Quelle est la fleur préférée du Petit Prince de Saint-Exupéry ?",
+    "correct_answer": "La rose",
+    "incorrect_answers": [
+      "La tulipe",
+      "La capucine",
+      "La primevère",
+      "Le lys"
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Parmi ces ouvrages, lequel est de Harold Pinter, prix Nobel de littérature en 2005 ?",
+    "correct_answer": "No Man’s Land",
+    "incorrect_answers": [
+      "Le voyage intérieur",
+      "Le voyage de Gulliver",
+      "Le premier accroc coûte deux cents francs",
+      "Confessions d’un enfant du siècle"
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "En Bourse, qu’est-ce qu’un O.P.C.V.M. ?",
+    "correct_answer": "Organismes de Placements Collectifs en Valeurs Mobilières",
+    "incorrect_answers": [
+      "Organisme Performant de Consommation à Valeur Modulable",
+      "Organe de Popularisation des Comptes à Valeurs Marchandes",
+      "Opacité des Placements Concurrentiels des Valeurs Mobilières",
+      "Opération de Placement Concentré sur les Valeurs Modulables"
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Lequel de ces pays d’Europe a la plus grande superficie ?",
+    "correct_answer": "Le Portugal",
+    "incorrect_answers": [
+      "La Suisse",
+      "L’Irlande",
+      "Le Danemark",
+      "L’Autriche"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Avec environ 92 000 km², le Portugal est plus étendu que l’Autriche proposée ici.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Quel écrivain est l’auteur de Crime et châtiment ?",
+    "correct_answer": "Dostoïevski",
+    "incorrect_answers": [
+      "Gogol",
+      "Tolstoï",
+      "Tourgueniev",
+      "Tchekhov"
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "L’expression « à brûle-pourpoint » signifie :",
+    "correct_answer": "Sans prévenir et sans préparation",
+    "incorrect_answers": [
+      "En détruisant tout sur son passage",
+      "Avec désintérêt",
+      "Avec parcimonie",
+      "En prenant des risques"
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Quel est le nom du lieu de la Bourse de Paris ?",
+    "correct_answer": "Palais Brongniart",
+    "incorrect_answers": [
+      "Palais Bourbon",
+      "Palais Garnier",
+      "Palais du Luxembourg",
+      "Palais de Chaillot"
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Quel est le nom de l’actuel secrétaire général de l’ONU ?",
+    "correct_answer": "Ban Ki-moon",
+    "incorrect_answers": [
+      "Koffi Annan",
+      "Le président des USA",
+      "Boutros Boutros-Ghali",
+      "Trygve Lie"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Ce quiz semble avoir été conçu avant l’entrée en fonction d’António Guterres en 2017.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Le 19 avril 2010 l’humanitaire français Michel Germaneau a été enlevé au Niger par le groupe terroriste AQMI, puis exécuté le 22 juillet 2010. Que signifie le sigle francisé AQMI ?",
+    "correct_answer": "Al-Qaïda au Maghreb Islamique",
+    "incorrect_answers": [
+      "Association Qatarie et Maghrébine Internationale",
+      "Al-Qaïda Musulmans Indépendants",
+      "Association Qatarie et Maghrébine Idéologique",
+      "(Option non traduite : “Ce sigle n’est qu’un code pour l’armée sans traduction précise”)"
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Le groupe Volkswagen …",
+    "correct_answer": "a triché concernant la consommation de ses véhicules diesel",
+    "incorrect_answers": [
+      "est le leader mondial de la vente automobile en 2015",
+      "a été fondé en 1987",
+      "a pour président actuel Martin Winterkorn",
+      "a été fondé par Ferry Porsche"
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Qui est le chef de l’État afghan jusqu’en 2014 ?",
+    "correct_answer": "Hamid Karzaï",
+    "incorrect_answers": [
+      "Il n’y en n’a pas depuis 2001.",
+      "Les Talibans",
+      "Mahmoud Ahmadinejad",
+      "Mohammed Nadjibullah"
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Quelle proposition est incorrecte concernant le petit Alan Kurdi.",
+    "correct_answer": "C’est un jeune Turc",
+    "incorrect_answers": [
+      "Il est retrouvé mort sur une plage turque",
+      "Sa photo a eu un impact sur la politique migratoire européenne",
+      "Son père a été mis en examen",
+      "Il a été retrouvé mort sur la plage de Bodrum"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Alan Kurdi était un enfant syrien, non turc.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "De quand date la retraite à 60 ans ?",
+    "correct_answer": "1945, avec la création de la Sécurité sociale",
+    "incorrect_answers": [
+      "1910, date de la création de la retraite par capitalisation obligatoire",
+      "1936, avec le Front populaire",
+      "1941, date de la création de la retraite par répartition obligatoire",
+      "1981, après l’élection de François Mitterrand"
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Qui est Premier ministre du Royaume-Uni en juin 2020 ?",
+    "correct_answer": "Boris Johnson",
+    "incorrect_answers": [
+      "Margaret Thatcher",
+      "Joe Biden",
+      "David Cameron",
+      "Tony Blair"
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Qui a succédé à Luiz Inácio Lula da Silva à la présidence de la république brésilienne ?",
+    "correct_answer": "Dilma Rousseff",
+    "incorrect_answers": [
+      "Fernando Henrique Cardoso",
+      "Hugo Chavez",
+      "Personne, Lula est toujours président.",
+      "Michelle Bachelet"
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Combien compte-t-on de départements en France ?",
+    "correct_answer": "101",
+    "incorrect_answers": [
+      "95",
+      "99",
+      "96",
+      "100"
+    ],
+    "difficulty": "difficile",
+    "explanation": "En comptant les départements d’outre‑mer.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Myriam El Khomri …",
+    "correct_answer": "a proposé une réforme du droit du travail",
+    "incorrect_answers": [
+      "est ministre de l’Économie en France sous le gouvernement Valls",
+      "a remplacé en 2015 Michel Sapin",
+      "a été maire de Paris",
+      "est également porte-parole du Gouvernement"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Elle fut ministre du Travail et proposa d’importantes réformes.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Quel est le nom de l’actuel Premier ministre d’Israël ?",
+    "correct_answer": "Benyamin Netanyahou",
+    "incorrect_answers": [
+      "Hitzhak Rabin",
+      "Yasser Arafat",
+      "Ariel Sharon",
+      "Mahmoud Abbas"
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Qui a remporté la coupe d’Europe des nations 2012 en football ?",
+    "correct_answer": "l’Espagne",
+    "incorrect_answers": [
+      "La France",
+      "l’Allemagne",
+      "l’Italie",
+      "Le Portugal"
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "À quel metteur en scène doit-on la pièce Sur le concept du visage du fils de Dieu qui a fait polémique en 2012 ?",
+    "correct_answer": "Romeo Castellucci",
+    "incorrect_answers": [
+      "Antonin Artaud",
+      "Jérôme Savary",
+      "Jean Vilar",
+      "Andres Serrano"
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "En quelle année a eu lieu la première édition des Jeux paralympiques ?",
+    "correct_answer": "1960",
+    "incorrect_answers": [
+      "1948",
+      "1952",
+      "1968",
+      "1976"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Les premiers Jeux paralympiques officiels se sont tenus à Rome en 1960.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Quel est le nom de la femme d’Abraham ?",
+    "correct_answer": "Sarah",
+    "incorrect_answers": [
+      "Rébecca",
+      "Ève",
+      "Soraya",
+      "Rachel"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Dans la Bible, la femme d’Abraham s’appelle Sarah.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Quel chanteur surnomme-t-on le Boss ?",
+    "correct_answer": "Bruce Springsteen",
+    "incorrect_answers": [
+      "Billy Idol",
+      "Michael Jackson",
+      "Mick Jagger",
+      "Elvis Presley"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Bruce Springsteen est connu sous le surnom de \"The Boss\".",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "L’expression « creuser sa fosse avec ses dents » signifie ?",
+    "correct_answer": "Faire tout ce qui est mauvais pour la santé",
+    "incorrect_answers": [
+      "Avoir les dents qui avancent",
+      "Altérer sa santé par des excès de table",
+      "Se suicider",
+      "Avoir une piètre opinion de soi"
+    ],
+    "difficulty": "difficile",
+    "explanation": "L’expression évoque l’idée de se compromettre soi-même en adoptant des comportements autodestructeurs.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Comment appelle-t-on un collectionneur de jeux ?",
+    "correct_answer": "Un ludophiliste",
+    "incorrect_answers": [
+      "Un nanipabulophiliste",
+      "Un xylophile",
+      "Un philatéliste",
+      "Un fabophiliste"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Le terme \"ludo\" fait référence aux jeux.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "De quelle origine est la chanteuse Björk ?",
+    "correct_answer": "Islandaise",
+    "incorrect_answers": [
+      "Norvégienne",
+      "Suédoise",
+      "Finlandaise",
+      "Esquimaude"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Björk est originaire d’Islande.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Qui a écrit Le Crève-Cœur ?",
+    "correct_answer": "Boris Vian",
+    "incorrect_answers": [
+      "Jerome David Salinger",
+      "Jacques Prévert",
+      "Jean Giono",
+      "Louis Aragon"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Boris Vian est l’auteur associé à ce titre dans le cadre de ce quiz.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Quel est le nom du compositeur de Pierre et le loup ?",
+    "correct_answer": "Prokofiev",
+    "incorrect_answers": [
+      "Rossini",
+      "Stravinski",
+      "Ravel",
+      "Saint-Saëns"
+    ],
+    "difficulty": "difficile",
+    "explanation": "\"Pierre et le loup\" a été composé par Sergei Prokofiev.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "En quelle année Le Dictateur, célèbre film de Charlie Chaplin, est-il sorti pour la première fois sur les écrans ?",
+    "correct_answer": "1940",
+    "incorrect_answers": [
+      "1935",
+      "1942",
+      "1944",
+      "1946"
+    ],
+    "difficulty": "difficile",
+    "explanation": "\"The Great Dictator\" de Chaplin est sorti en 1940.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Qu’est-ce qu’un incipit ?",
+    "correct_answer": "Un début de texte",
+    "incorrect_answers": [
+      "Une inscription finale",
+      "Un ouvrage non relié",
+      "La quatrième de couverture d’un roman",
+      "Un exorde"
+    ],
+    "difficulty": "difficile",
+    "explanation": "L’incipit désigne le commencement d’un texte.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Où se situe le siège de l’OTAN ?",
+    "correct_answer": "Bruxelles",
+    "incorrect_answers": [
+      "Genève",
+      "New York",
+      "Strasbourg",
+      "Londres"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Le siège de l’OTAN est à Bruxelles.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Dans quel sport Louison Bobet s’est-il illustré ?",
+    "correct_answer": "Le cyclisme",
+    "incorrect_answers": [
+      "Le tennis",
+      "Le football",
+      "L’athlétisme",
+      "La natation"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Louison Bobet était un coureur cycliste de renom.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Quel est l’être imaginaire, mi‐homme, mi‐cheval, apparaissant dans la mythologie grecque ?",
+    "correct_answer": "Centaure",
+    "incorrect_answers": [
+      "Cerbère",
+      "Titan",
+      "Cyclope",
+      "Satyre"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Le centaure est mi‐homme, mi‐cheval.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Le premier numéro du journal français Le Monde a paru en :",
+    "correct_answer": "1944",
+    "incorrect_answers": [
+      "1918",
+      "1946",
+      "1958",
+      "1960"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Le Monde a fait sa première apparition en 1944.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Mettez ces philosophes dans l’ordre chronologique.",
+    "correct_answer": "Parménide, Socrate, Platon, Aristote",
+    "incorrect_answers": [
+      "Aristote, Platon, Socrate, Parménide",
+      "Parménide, Socrate, Aristote, Platon",
+      "Socrate, Parménide, Platon, Aristote",
+      "Platon, Socrate, Aristote, Parménide"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Parménide est le plus ancien, suivi de Socrate, puis Platon et enfin Aristote.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Qui a écrit l’Énéide ?",
+    "correct_answer": "Virgile",
+    "incorrect_answers": [
+      "Tite-Live",
+      "Thucydide",
+      "Cicéron",
+      "Romulus"
+    ],
+    "difficulty": "difficile",
+    "explanation": "L’Énéide a été écrite par Virgile.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Quelle est la capitale de la Colombie ?",
+    "correct_answer": "Bogota",
+    "incorrect_answers": [
+      "Caracas",
+      "Buenos Aires",
+      "Mexico",
+      "Santiago"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Bogota est la capitale de la Colombie.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Parmi ces États, lequel est actuellement une monarchie absolue ?",
+    "correct_answer": "L’Arabie saoudite",
+    "incorrect_answers": [
+      "Le Tchad",
+      "La Syrie",
+      "Le Royaume-Uni",
+      "L’Espagne"
+    ],
+    "difficulty": "difficile",
+    "explanation": "L’Arabie saoudite est une monarchie absolue.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Carmen a été composé par :",
+    "correct_answer": "Bizet",
+    "incorrect_answers": [
+      "Verdi",
+      "Monteverdi",
+      "Gounod",
+      "Prokofiev"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Carmen est l’opéra de Georges Bizet.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Qui est l’auteur du recueil poétique Alcools ?",
+    "correct_answer": "Apollinaire",
+    "incorrect_answers": [
+      "Baudelaire",
+      "Prévert",
+      "Rimbaud",
+      "Vian"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Alcools est l’œuvre majeure de Guillaume Apollinaire.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "À quel courant de pensée est rattaché l’ethnologue français Claude Lévi-Strauss ?",
+    "correct_answer": "Le structuralisme",
+    "incorrect_answers": [
+      "Le criticisme",
+      "L’empirisme",
+      "L’ethnocentrisme",
+      "Le cercle de Vienne"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Claude Lévi-Strauss est le père du structuralisme en anthropologie.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Quel peintre a été surnommé « le peintre des Madones » ?",
+    "correct_answer": "Titien",
+    "incorrect_answers": [
+      "Raphaël",
+      "Véronèse",
+      "Poussin",
+      "Michel-Ange"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Titien est réputé pour ses nombreuses Madones.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Quelle actrice incarne Mélanie Daniels dans Les Oiseaux d’Alfred Hitchcock ?",
+    "correct_answer": "Tippi Hedren",
+    "incorrect_answers": [
+      "Marylin Monroe",
+      "Ingrid Bergman",
+      "Kim Novak",
+      "Grace Kelly"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Tippi Hedren joue le rôle principal dans \"Les Oiseaux\".",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "De quoi Benjamin Franklin est-il l’inventeur ?",
+    "correct_answer": "Le paratonnerre",
+    "incorrect_answers": [
+      "La locomotive",
+      "Le baromètre",
+      "Le télescope",
+      "Le téléphone"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Benjamin Franklin est célèbre pour son invention du paratonnerre.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "En quelle année prend fin la IIIe République française ?",
+    "correct_answer": "1940",
+    "incorrect_answers": [
+      "1805",
+      "1870",
+      "1919",
+      "1933"
+    ],
+    "difficulty": "difficile",
+    "explanation": "La IIIe République s’est éteinte en 1940, lors de la défaite face à l’Allemagne.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "À quelle période le Christ Rédempteur de Rio de Janeiro a-t-il été construit ?",
+    "correct_answer": "Durant la première moitié du XXe siècle",
+    "incorrect_answers": [
+      "Au XVIIe siècle",
+      "Au XVIIIe siècle",
+      "Au XIXe siècle",
+      "Durant la seconde moitié du XXe siècle"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Le monument a été édifié entre 1922 et 1931.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Lequel de ces éléments fait partie du Bouddha ?",
+    "correct_answer": "Une oreille cassée",
+    "incorrect_answers": [
+      "Un spectre d’or",
+      "Un éléphant blanc",
+      "Un candélabre à sept branches",
+      "Une rose éternelle"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Les longues et parfois \"cassées\" oreilles symbolisent l’abandon des richesses dans l’iconographie bouddhiste.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Quel naturaliste a créé la ménagerie du jardin des Plantes à Paris ?",
+    "correct_answer": "Georges Louis Leclerc, comte de Buffon",
+    "incorrect_answers": [
+      "Geoffroy Saint-Hilaire",
+      "Bernardin de Saint-Pierre",
+      "Georges Cuvier",
+      "Henri Ducrotay de Blainville"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Buffon est étroitement lié à l’histoire du Jardin des Plantes.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Lequel de ces peintres est associé à l’école de Pont-Aven ?",
+    "correct_answer": "Gauguin",
+    "incorrect_answers": [
+      "Renoir",
+      "Cézanne",
+      "Manet",
+      "Pissarro"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Paul Gauguin est le représentant emblématique de Pont-Aven.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Combien Beethoven a-t-il composé de symphonies ?",
+    "correct_answer": "Neuf",
+    "incorrect_answers": [
+      "Aucune",
+      "Une seule",
+      "Sept",
+      "Dix"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Beethoven est l’auteur de 9 symphonies.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "À quel auteur grec attribue-t-on la naissance de la comédie ?",
+    "correct_answer": "Aristophane",
+    "incorrect_answers": [
+      "Anaximandre",
+      "Hérodote",
+      "Démosthène",
+      "Eschyle"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Aristophane est considéré comme le père de la comédie grecque.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Dans quel sport s’est illustré Ato Boldon ?",
+    "correct_answer": "Athlétisme",
+    "incorrect_answers": [
+      "Haltérophilie",
+      "Basket-ball",
+      "Cyclisme sur piste",
+      "Base-ball"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Ato Boldon est un sprinteur renommé.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Comment s’appelle le chandelier d’or à sept branches, principal objet du culte hébraïque ?",
+    "correct_answer": "La Menora",
+    "incorrect_answers": [
+      "Le Talit",
+      "La Méguila",
+      "Le Tallet",
+      "L’Hanoukka"
+    ],
+    "difficulty": "difficile",
+    "explanation": "La Menora à sept branches est un symbole ancestral du judaïsme.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Marcello Mastroianni est l’acteur favori de quel grand cinéaste ?",
+    "correct_answer": "Federico Fellini",
+    "incorrect_answers": [
+      "Fritz Lang",
+      "Jean-Luc Godard",
+      "Pietro Germi",
+      "Ettore Scola"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Mastroianni est intimement lié aux films de Fellini.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Quel était le surnom du commandant Massoud ?",
+    "correct_answer": "Le lion du Panshir",
+    "incorrect_answers": [
+      "L’indomptable",
+      "L’ogre persan",
+      "Le maître de Kaboul",
+      "Le pacificateur"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Massoud était surnommé ainsi pour sa vaillance dans la vallée du Panjshir.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Qu’est-ce qu’un pastiche ?",
+    "correct_answer": "Un texte imitant le style d’un écrivain",
+    "incorrect_answers": [
+      "Un poème composé de 18 vers",
+      "Une recette de pâtisserie auvergnate",
+      "Un texte écrit sous l’influence d’un alcool anisé",
+      "Un texte vulgaire"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Le pastiche consiste à reproduire volontairement le style d’un auteur.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "FLNC signifie :",
+    "correct_answer": "Front de libération nationale de la Corse",
+    "incorrect_answers": [
+      "Front libre national corse",
+      "Front libre pour la nation corse",
+      "Front libéré des nationaux corses",
+      "Front de libération de la nation corse"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Il s’agit du mouvement nationaliste militant corse.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Quelle est la ville natale de Mouammar Kadhafi ?",
+    "correct_answer": "Syrte",
+    "incorrect_answers": [
+      "Tripoli",
+      "Benghazi",
+      "Tobrouk",
+      "Misurata"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Kadhafi est né à Syrte, en Libye.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "La grippe porcine ou grippe mexicaine est appelée de son nom scientifique H1N1. Mais que signifient ces deux lettres H et N ?",
+    "correct_answer": "Hémagglutinine/Neuraminidase",
+    "incorrect_answers": [
+      "Hémoglobine/Neuro-immunitaire",
+      "Hyper/Nocive",
+      "Hinfluenza/Nidoviral",
+      "Hémocyanine/Nitrogénase"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Ces protéines en surface du virus sont à l’origine de sa dénomination.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "L’opérateur de marché Jérôme Kerviel a été condamné … De quelle banque était-il l’employé ?",
+    "correct_answer": "Société Générale Corporate & Investment Banking",
+    "incorrect_answers": [
+      "Goldman Sachs",
+      "BNP Paribas",
+      "HSBC",
+      "Natixis"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Jérôme Kerviel était employé à la Société Générale.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Quand a commencé l’opération Sangaris ?",
+    "correct_answer": "Le 5 décembre 2013",
+    "incorrect_answers": [
+      "Le 5 janvier 2013",
+      "Le 5 octobre 2013",
+      "Le 5 mars 2014",
+      "Le 5 juillet 2014"
+    ],
+    "difficulty": "difficile",
+    "explanation": "L’opération Sangaris a débuté le 5 décembre 2013.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Quel est le nom du président de la Côte d’Ivoire battu aux élections de 2010 ?",
+    "correct_answer": "Laurent Gbagbo",
+    "incorrect_answers": [
+      "Alassane Dramane Ouattara",
+      "Henri Conan Bédié",
+      "Félix Houphouët-Boigny",
+      "Guillaume Soro"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Laurent Gbagbo a été défait lors des élections de 2010.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "La femme Prix Nobel de la paix Aung San Suu Kyi … Aung San Suu Kyi est associée au Soulèvement 8888. De quoi s’agit-il ?",
+    "correct_answer": "D’un mouvement politique favorable à la démocratie qui eu lieu le 8 août 88",
+    "incorrect_answers": [
+      "D’un soulèvement contre le pouvoir martial partant d’une pétition signée par 8888 personnalités birmanes.",
+      "D’un mouvement politique favorable à la démocratie qui eu lieu le 8 août 88.",
+      "Du soulèvement de la population contre le pouvoir de Ne Win durant 6 jours, soit 8888 minutes.",
+      "8888 est un chiffre symbolique de la culture birmane.",
+      "Ce soulèvement succède au Soulèvement 8887."
+    ],
+    "difficulty": "difficile",
+    "explanation": "Le Soulèvement 8888 désigne la révolte pro-démocratie en Birmanie en août 1988.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Quel texte entré en vigueur en 2005 … dans la convention-cadre des Nations unies sur les changements climatiques ?",
+    "correct_answer": "Le protocole de Kyoto",
+    "incorrect_answers": [
+      "Le protocole de Tokyo",
+      "Le protocole de La Haye",
+      "Le traité de Nice",
+      "Le protocole des sages de Sion"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Le protocole de Kyoto, entré en vigueur en 2005, engage les États à réduire leurs émissions de gaz à effet de serre.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Qui obtient le prix Goncourt en 2015 ?",
+    "correct_answer": "Pierre Lemaître",
+    "incorrect_answers": [
+      "Michel Houellebecq",
+      "Mathias Énard",
+      "Emmanuel Carrère",
+      "Jonathan Littell"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Selon ce quiz, la réponse retenue est Pierre Lemaître.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Dans quelles villes Mohamed Merah a-t-il assassiné 7 personnes dont 3 enfants en mars 2012 ?",
+    "correct_answer": "Toulouse et Montauban",
+    "incorrect_answers": [
+      "Nîmes et Carcassonne",
+      "Bordeaux et Bègles",
+      "Lyon et Saint-Étienne",
+      "Biarritz et Bayonne"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Mohamed Merah a perpétré ses attaques dans cette région du sud de la France.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Qui obtient le prix Goncourt en 2015 ?",
+    "correct_answer": "Pierre Lemaître",
+    "incorrect_answers": [
+      "(Identiques à la question n°45)"
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Quel est le réalisateur du film The Artist ?",
+    "correct_answer": "Michel Hazanavicius",
+    "incorrect_answers": [
+      "Olivier Nakache",
+      "Jean-Pierre Jeunet",
+      "Francis Veber",
+      "Éric Toledano"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Il est le réalisateur du film primé \"The Artist\".",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Quel est le nom du membre du Front national élu à l’Assemblée nationale en 2012 ?",
+    "correct_answer": "Marion Maréchal-Le Pen",
+    "incorrect_answers": [
+      "Marine Le Pen",
+      "Gilbert Collard",
+      "Nadine Morano",
+      "Louis Aliot"
+    ],
+    "difficulty": "difficile",
+    "explanation": "C’est elle qui a remporté un siège lors des législatives de 2012.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Dans quelles villes Mohamed Merah a-t-il assassiné 7 personnes dont 3 enfants en mars 2012 ?",
+    "correct_answer": "Toulouse et Montauban",
+    "incorrect_answers": [
+      "Nîmes et Carcassonne",
+      "Bordeaux et Bègles",
+      "Lyon et Saint-Étienne",
+      "Biarritz et Bayonne"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Questions n°1 à n°50 de la deuxième section",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Au rugby à 15, la transformation d’un essai vaut :",
+    "correct_answer": "2 points",
+    "incorrect_answers": [
+      "3 points",
+      "4 points",
+      "5 points",
+      "la victoire"
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Qui a dit : « La guerre ! c’est une chose trop grave pour la confier à des militaires. »",
+    "correct_answer": "Georges Clemenceau",
+    "incorrect_answers": [
+      "Ferdinand Foch",
+      "Jean Cocteau",
+      "Louis-Ferdinand Céline",
+      "Charles de Gaulle"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Citation célèbre de Clemenceau.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Dans quel ouvrage de Jean Racine, peut-on entendre : « Pour qui sont ces serpents qui sifflent sur nos têtes » ?",
+    "correct_answer": "Britannicus",
+    "incorrect_answers": [
+      "Bérénice",
+      "Andromaque",
+      "Phèdre",
+      "Bajazet"
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "De quand date la création de la Sécurité sociale ?",
+    "correct_answer": "1945",
+    "incorrect_answers": [
+      "1919",
+      "1944",
+      "1958",
+      "1981"
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Dans quel roman Madame de Rênal est-elle l’un des personnages principaux ?",
+    "correct_answer": "Le Rouge et le Noir",
+    "incorrect_answers": [
+      "La Chartreuse de Parme",
+      "La Dame aux Camélias",
+      "La Princesse de Clèves",
+      "Le Hussard sur le toit"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Madame de Rênal est la figure centrale de ce roman de Stendhal.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Qu’appelle-t-on le Printemps des peuples ?",
+    "correct_answer": "La révolution en Europe en 1848",
+    "incorrect_answers": [
+      "La révolution à Paris en 1968",
+      "La révolution russe en 1918",
+      "Le calme retrouvé en 1919",
+      "Le développement économique de l’Occident après 1945"
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Quelle planète, vue de la Terre, est la plus lumineuse ?",
+    "correct_answer": "Vénus",
+    "incorrect_answers": [
+      "Mars",
+      "Proxima du Centaure",
+      "Pluton",
+      "La Lune"
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Le musée de l’Ermitage se trouve à :",
+    "correct_answer": "Saint-Pétersbourg",
+    "incorrect_answers": [
+      "Kiev",
+      "Moscou",
+      "Minsk",
+      "Vladivostok"
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Qui a reçu le prix Nobel de la paix en 1926 pour le traité de Locarno ?",
+    "correct_answer": "Aristide Briand et Gustave Stresemann",
+    "incorrect_answers": [
+      "Aristide Briand",
+      "Gustave Stresemann",
+      "Sir Austen Chamberlain",
+      "Ferdinand Buisson"
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Qu’est-ce que l’OPEP ?",
+    "correct_answer": "(Aucune de ces réponses n’est correcte)",
+    "incorrect_answers": [
+      "L’ensemble des sénateurs",
+      "L’ensemble de la chambre des Représentants",
+      "Le Parlement",
+      "La réunion annuelle du Parlement et du gouvernement",
+      "L’organe judiciaire américain"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Aucune de ces réponses n’est correcte",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Qui est Raoni Metuktire ?",
+    "correct_answer": "C’est un défenseur de la forêt amazonienne et de la culture indigène.",
+    "incorrect_answers": [
+      "C’est le chef de l’ordre du temple solaire.",
+      "C’est le nom du dalaï-lama.",
+      "C’est le nom d’un opposant communiste, prix Nobel de la paix.",
+      "C’est le nom du guide de Claude Lévi-Strauss durant son expédition en Amazonie."
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Concernant la série Games of Thrones, quelle affirmation est correcte ?",
+    "correct_answer": "L’une de ses actrices principales est Emilia Clarke.",
+    "incorrect_answers": [
+      "La série télévisée doit compter 15 saisons",
+      "Son titre français est …",
+      "La série est réalisée par George R. R. Martin",
+      "L’une de ses actrices principales est Emilia Clarke",
+      "C’est une série australienne"
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Qui a écrit La Recherche de l’Absolu ?",
+    "correct_answer": "Honoré de Balzac",
+    "incorrect_answers": [
+      "Victor Hugo",
+      "Stephen Hawking",
+      "G.W.F. Hegel",
+      "Jean Cocteau"
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "En quelle année a été créé le parc du Futuroscope ?",
+    "correct_answer": "1987",
+    "incorrect_answers": [
+      "1980",
+      "1985",
+      "1991",
+      "1995"
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Quelle est la seule personnalité à être entrée au Panthéon sous la présidence de Jacques Chirac ?",
+    "correct_answer": "André Malraux",
+    "incorrect_answers": [
+      "Victor Hugo",
+      "René Descartes",
+      "Louis Braille",
+      "Alexandre Dumas"
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Un pisciculteur est un spécialiste :",
+    "correct_answer": "De l’élevage des poissons",
+    "incorrect_answers": [
+      "De la ville de Pise",
+      "Des piscines",
+      "Des pissaladières",
+      "Des pissenlits"
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Quel est le statut de l’État de Monaco ?",
+    "correct_answer": "Une principauté",
+    "incorrect_answers": [
+      "Une république",
+      "Un royaume",
+      "Une fédération",
+      "Une province"
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Que signifie PMI ?",
+    "correct_answer": "Petites et moyennes industries",
+    "incorrect_answers": [
+      "Petite et moyenne industrie",
+      "Petits et moyens industriels",
+      "Petites et moyennes industrialisations",
+      "Petit métier intérimaire"
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "En quelle année le septennat du mandat présidentiel français est-il devenu un quinquennat ?",
+    "correct_answer": "2002",
+    "incorrect_answers": [
+      "1995",
+      "2000",
+      "2004",
+      "2007"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Le premier quinquennat a débuté lors de l’élection de 2002.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Qu’est-ce que le Congrès des États-Unis ?",
+    "correct_answer": "Le Parlement",
+    "incorrect_answers": [
+      "L’ensemble des sénateurs",
+      "L’ensemble de la chambre des Représentants",
+      "La réunion annuelle du Parlement et du gouvernement",
+      "L’organe judiciaire américain"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Même si le terme \"Congrès\" désigne précisément l’assemblée bicamérale, dans ce quiz, on le présente comme l’organe législatif global.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Parmi ces titres du groupe Dire Straits, trouvez l’intrus.",
+    "correct_answer": "« Ebony and ivory »",
+    "incorrect_answers": [
+      "« On every street »",
+      "« Sultan of swing »",
+      "« Money for nothing »",
+      "« Brothers in arms »"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Ce titre est en fait un duo de McCartney et Stevie Wonder.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Quel billet de dollars US est à l’effigie d’Abraham Lincoln ?",
+    "correct_answer": "Celui de 5 dollars",
+    "incorrect_answers": [
+      "Celui d’1 dollar",
+      "Celui de 10 dollars",
+      "Celui de 20 dollars",
+      "Celui de 100 dollars"
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Quelle est la principale innovation technique de Léonard de Vinci ?",
+    "correct_answer": "Le sfumato",
+    "incorrect_answers": [
+      "La peinture à l’huile",
+      "Le clair-obscur",
+      "La nature morte",
+      "La perspective atmosphérique"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Cette technique, caractérisée par des transitions douces entre les couleurs, est l’une des innovations majeures de Léonard.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Comment surnommait-on Claude Debussy ?",
+    "correct_answer": "Monsieur Croche",
+    "incorrect_answers": [
+      "Claude de France",
+      "L’impressionniste",
+      "Le fou",
+      "Le 20 francs"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Ce sobriquet humoristique fait référence à son usage particulier du rythme.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Quel est l’hymne de l’Union Européenne ?",
+    "correct_answer": "L’ode à la joie de Beethoven",
+    "incorrect_answers": [
+      "Le chant des partisans",
+      "La Brabançonne",
+      "Le concerto pour piano n°23 de Mozart",
+      "La ballade des gens heureux"
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Quel est l’auteur de L’art d’être grand-père ?",
+    "correct_answer": "Émile Zola",
+    "incorrect_answers": [
+      "Georges Clemenceau",
+      "Pal Sarkozy",
+      "Victor Hugo",
+      "Gustave Flaubert"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Selon le quiz, c’est Émile Zola qui est associé à ce titre.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "À quelle époque la grotte de Lascaux a-t-elle été découverte ?",
+    "correct_answer": "Durant la Seconde Guerre mondiale",
+    "incorrect_answers": [
+      "Sous le second Empire",
+      "Durant la Première Guerre mondiale",
+      "Pendant les Trente Glorieuses",
+      "Dans les années quatre-vingt-dix"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Les grottes de Lascaux ont été découvertes en 1940.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "De 1957 à 1986, François Duvalier puis son fils Jean-Claude dirigeaient Haïti à l’aide d’une milice particulièrement violente. Comment étaient surnommés ses membres ?",
+    "correct_answer": "Les tontons macoutes",
+    "incorrect_answers": [
+      "Les papas docs",
+      "Les baby docs",
+      "Les tontons flingueurs",
+      "Les pères-la-mort"
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Parmi les 5 piliers de l’islam, trouvez l’intrus.",
+    "correct_answer": "L’impôt annuel, la Zakat",
+    "incorrect_answers": [
+      "Les 5 prières quotidiennes",
+      "Le pèlerinage à La Mecque une fois l’an",
+      "Le jeûne du Ramadan",
+      "La foi en l’unicité de Dieu"
+    ],
+    "difficulty": "difficile",
+    "explanation": "La Zakat est bien un pilier, mais sa formulation en tant qu’\"impôt\" est trompeuse.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Que signifie Oulipo ?",
+    "correct_answer": "Ouvroir de littérature potentielle",
+    "incorrect_answers": [
+      "Organisation Utilitaire de Langue – de Linguistique Potentielle",
+      "Ouvroir à Lipogramme",
+      "Organisation Univoque",
+      "Ordre Universel de Littérature Potentielle"
+    ],
+    "difficulty": "difficile",
+    "explanation": "C’est l’acronyme officiel.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "En quelle année est mort John Lennon ?",
+    "correct_answer": "1980",
+    "incorrect_answers": [
+      "1970",
+      "1975",
+      "1985",
+      "1990"
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Après 12 ans de cavale, Radovan Karadzic a été arrêté en 2008 … De quel groupe national militaire était-il le dirigeant ?",
+    "correct_answer": "Les Serbes",
+    "incorrect_answers": [
+      "Les Tchèques",
+      "Les Croates",
+      "Les Roumains",
+      "Les Bosniaques"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Karadzic était le leader des forces serbes de Bosnie.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "En novembre 2010, Lionel Jospin joue son propre rôle dans un film. Quel est le nom de ce film ?",
+    "correct_answer": "On connaît la chanson",
+    "incorrect_answers": [
+      "Le goût des autres",
+      "Télé gaucho",
+      "Le nom des gens",
+      "Se souvenir des belles choses"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Selon le quiz, c’est ce titre qui est associé à la participation de Jospin.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Haïti fut le 1<sup>er</sup> pays issu de l’abolition de l’esclavage à se fonder de façon autonome, … Qui a été l’artisan de cette victoire sur la France ?",
+    "correct_answer": "Toussaint Louverture",
+    "incorrect_answers": [
+      "Jean-Jacques Dessalines",
+      "Jean-Bertrand Aristide",
+      "René Préval",
+      "Michel Martelly"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Il est l’architecte de la révolution haïtienne.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Qu’est-ce que Wikileaks ?",
+    "correct_answer": "Un site qui révèle les fuites d’informations diplomatiques de nombreux pays.",
+    "incorrect_answers": [
+      "Un réseau secret terroriste, mis à jour par la DGSE.",
+      "Un site de rencontre et de journalisme racheté par le journal Le Monde.",
+      "Un site concurrent de Facebook qui compte déjà plus d’1 million de membres.",
+      "Un site pirate de la CIA qui déforme des informations confidentielles."
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Qu’est-ce que le BRIC ?",
+    "correct_answer": "L’ensemble des pays ayant la plus forte progression de leur PIB.",
+    "incorrect_answers": [
+      "Une Banque de Recherche Indépendante de Chine et de Corée.",
+      "Un groupe de réflexion sur les changements climatiques lors de la 16e conférence internationale de Cancun.",
+      "Un groupe de banques qui se sont engagées à ne pas spéculer excessivement.",
+      "Un nouveau brevet autorisant l’utilisation du Taser."
+    ],
+    "difficulty": "difficile",
+    "explanation": "Le terme BRIC désigne initialement le groupe Brésil, Russie, Inde et Chine.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Après la coupe du monde FIFA au Brésil en 2014, où se déroulera celle de 2018 ?",
+    "correct_answer": "En Russie",
+    "incorrect_answers": [
+      "En France",
+      "Au Qatar",
+      "En Allemagne"
+    ],
+    "difficulty": "difficile",
+    "explanation": "La Coupe du monde 2018 s’est déroulée en Russie.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Quel homme politique argentin mort en 2010 a eu pour successeur sa propre femme à la présidence de la République ?",
+    "correct_answer": "Nestor Kirchner",
+    "incorrect_answers": [
+      "Edouardo Duhalde",
+      "Reynaldo Bignone",
+      "Jean-Pierre Raffarin",
+      "Sebastian Piñera"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Sa femme, Cristina Kirchner, lui a succédé.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Dans quel pays se trouve la plus haute tour du monde ?",
+    "correct_answer": "Aux Émirats arabes unis",
+    "incorrect_answers": [
+      "Aux États-Unis",
+      "En Arabie saoudite",
+      "En Chine",
+      "Au Japon"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Le Burj Khalifa se trouve à Dubaï.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Combien compte-t-on actuellement de pays dans l’espace Schengen ?",
+    "correct_answer": "26",
+    "incorrect_answers": [
+      "28",
+      "31",
+      "15",
+      "12"
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Quel est le dernier volet de l’hépatologie Harry Potter ?",
+    "correct_answer": "Harry Potter et les reliques de la mort",
+    "incorrect_answers": [
+      "Harry Potter et le prince de sang-mêlé",
+      "Harry Potter et la coupe de feu",
+      "Harry Potter et la chambre des secrets",
+      "Harry Potter et l’ordre du phénix"
+    ],
+    "difficulty": "difficile",
+    "explanation": "C’est le dernier tome de la saga.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Quel est le nom du Norvégien qui a tué 77 personnes durant l’été 2011 ?",
+    "correct_answer": "Anders Behring Breivik",
+    "incorrect_answers": [
+      "Michel Fourniret",
+      "Sweeney Todd",
+      "Antti Taskinen",
+      "On ne le sait pas, il n’a jamais été identifié"
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Quel est le nom du Premier ministre grec, élu en 2015 ?",
+    "correct_answer": "Alekis Tsipras",
+    "incorrect_answers": [
+      "Loukas Papadimos",
+      "Georges Papandréou",
+      "Karolos Papoulias",
+      "Antonis Samaras"
+    ],
+    "difficulty": "difficile",
+    "explanation": "Alexis Tsipras est le leader du parti Syriza.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "À combien de milliards d’euros s’élève environ la dette de la France en janvier 2012 ?",
+    "correct_answer": "2 100",
+    "incorrect_answers": [
+      "600",
+      "1 200",
+      "1 600",
+      "1 900"
+    ],
+    "difficulty": "difficile",
+    "explanation": "La dette française était d’environ 2 100 milliards d’euros.",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Qui obtient le prix Goncourt en 2015 ?",
+    "correct_answer": "Pierre Lemaître",
+    "incorrect_answers": [
+      "Michel Houellebecq",
+      "Mathias Énard",
+      "Emmanuel Carrère",
+      "Jonathan Littell"
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Dans quelles villes Mohamed Merah a-t-il assassiné 7 personnes dont 3 enfants en mars 2012 ?",
+    "correct_answer": "Toulouse et Montauban",
+    "incorrect_answers": [
+      "Nîmes et Carcassonne",
+      "Bordeaux et Bègles",
+      "Lyon et Saint-Étienne",
+      "Biarritz et Bayonne"
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Quel est le réalisateur du film The Artist ?",
+    "correct_answer": "Michel Hazanavicius",
+    "incorrect_answers": [
+      "Olivier Nakache",
+      "Jean-Pierre Jeunet",
+      "Francis Veber",
+      "Éric Toledano"
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Quel est le nom du membre du Front national élu à l’Assemblée nationale en 2012 ?",
+    "correct_answer": "Marion Maréchal-Le Pen",
+    "incorrect_answers": [
+      "Marine Le Pen",
+      "Gilbert Collard",
+      "Nadine Morano",
+      "Louis Aliot"
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  },
+  {
+    "question_text": "Dans quelles villes Mohamed Merah a-t-il assassiné 7 personnes dont 3 enfants en mars 2012 ?",
+    "correct_answer": "Toulouse et Montauban",
+    "incorrect_answers": [
+      "Nîmes et Carcassonne",
+      "Bordeaux et Bègles",
+      "Lyon et Saint-Étienne",
+      "Biarritz et Bayonne"
+    ],
+    "difficulty": "difficile",
+    "explanation": "",
+    "category": "Épreuve de culture générale, économique et managériale",
+    "sub_category": "Culture Générale"
+  }
+]

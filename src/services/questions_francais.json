@@ -1,0 +1,1622 @@
+[
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Un festival/des festivaux",
+      "Un amiral/des amirals",
+      "Un éditorial/des éditorials",
+      "Un mistral/des mistrals",
+      "Un madrigal/des madrigals"
+    ],
+    "explanation": "La réponse correcte est ': Un mistral/des mistrals'.",
+    "question": "Quelle est la seule correspondance singulier/pluriel correcte ?",
+    "correct_answer": ": Un mistral/des mistrals"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Le plexiglass",
+      "Le business",
+      "Le stress",
+      "Le fitness",
+      "Un mess"
+    ],
+    "explanation": "La forme correcte est ': Le plexiglass'. Les autres options comportent des erreurs d'orthographe.",
+    "question": "Quel mot est incorrect ?",
+    "correct_answer": ": Le plexiglass"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "C’est toi et moi qui est invité.",
+      "C’est toi et moi qui sont invités.",
+      "C’est toi et moi qui suis invité.",
+      "C’est toi et moi qui êtes invités.",
+      "C’est toi et moi qui sommes invités."
+    ],
+    "explanation": "La réponse correcte est ': C’est toi et moi qui sont invités.'.",
+    "question": "Il faut dire :",
+    "correct_answer": ": C’est toi et moi qui sont invités."
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Je n’ai pas le temps de te répondre.",
+      "Ce poids est très lourd.",
+      "Le puits est très profond.",
+      "Notre champs mesure un hectare.",
+      "Notre corps est sensible au froid."
+    ],
+    "explanation": "La forme correcte est ': Notre champs mesure un hectare.'. Les autres options comportent des erreurs d'orthographe.",
+    "question": "Parmi ces propositions, laquelle est incorrecte ?",
+    "correct_answer": ": Notre champs mesure un hectare."
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Une redingotte",
+      "Une menotte",
+      "Une bouillote",
+      "Une échalote",
+      "Une biscotte"
+    ],
+    "explanation": "La forme correcte est ': Une redingotte'. Les autres options comportent des erreurs d'orthographe.",
+    "question": "Parmi ces mots, lequel est mal orthographié ?",
+    "correct_answer": ": Une redingotte"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Robuste/fragile",
+      "Animé/inanimé",
+      "Vice/vertu",
+      "Prodigalité/avarice",
+      "Innocence/candeur"
+    ],
+    "explanation": "La réponse correcte est ': Innocence/candeur'.",
+    "question": "Parmi ces couples d’antonymes, trouvez l’intrus :",
+    "correct_answer": ": Innocence/candeur"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Onomatopée",
+      "Assonance",
+      "Allitération",
+      "Métonymie",
+      "Amphibologie"
+    ],
+    "explanation": "La réponse correcte est ': Allitération'.",
+    "question": "« Pour qui sont ces serpents qui sifflent sur nos têtes » : cette célèbre phrase de Racine est une :",
+    "correct_answer": ": Allitération"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "tu auras fini ton travail ».",
+      "tu eus fini ton travail ».",
+      "tu aie fini ton travail ».",
+      "tu finisses ton travail ».",
+      "tu aies fini ton travail »."
+    ],
+    "explanation": "La réponse correcte est ': tu auras fini ton travail ».'.",
+    "question": "Trouvez la suite correcte de ce début de phrase : « Je viendrai te voir, après que… »",
+    "correct_answer": ": tu auras fini ton travail »."
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Au moment où l’auteur évoque l’égarement de l’individu dans le labyrinthe de la ville.",
+      "Au moment où l’auteur parle des rêves oubliés de chaque rencontre avec des éléments nouveaux.",
+      "Au moment où l’auteur aborde les souvenirs presque oubliés d’une rencontre avec autrui.",
+      "Au moment où l’auteur relate le souvenir d’une rencontre d’une certaine personne avec Freud.",
+      "Aux productions artistiques de certains peintres sur les thèmes chers à Freud."
+    ],
+    "explanation": "La réponse correcte est ': Au moment où l’auteur évoque l’égarement de l’individu dans le labyrinthe de la ville.'.",
+    "question": "Où y a-t-il une référence au titre de l’article ?",
+    "correct_answer": ": Au moment où l’auteur évoque l’égarement de l’individu dans le labyrinthe de la ville."
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Une danse slave",
+      "Un lévrier",
+      "Un théâtre de Moscou",
+      "Une sorte de serpillière",
+      "Un arbre décoratif"
+    ],
+    "explanation": "La réponse correcte est ': Un lévrier'.",
+    "question": "Qu’est-ce qu’un barzoï ?",
+    "correct_answer": ": Un lévrier"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Deux-millions-neuf-cents-quatre-vingt-neuf",
+      "Deux millions neuf cents quatre vingts neuf",
+      "Deux millions neuf cent quatre-vingt-neuf",
+      "Deux millions neuf cent quatre vingt neuf",
+      "Deux million neuf cent quatre-vingt-neuf"
+    ],
+    "explanation": "La réponse correcte est ': Deux millions neuf cent quatre-vingt-neuf'.",
+    "question": "Comment écrit-on en toutes lettres le nombre 2 000 989 ?",
+    "correct_answer": ": Deux millions neuf cent quatre-vingt-neuf"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Plainte",
+      "Pleinte",
+      "Pleinthe",
+      "Plinte",
+      "Plinthe"
+    ],
+    "explanation": "La réponse correcte est ': Plinthe'.",
+    "question": "La baguette que l’on place au bas d’un mur est une…",
+    "correct_answer": ": Plinthe"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Vous maudisez la terre entière.",
+      "Vous maudites la terre entière.",
+      "Vous maudissez la terre entière.",
+      "Vous maudisissez la terre entière.",
+      "Vous maudîtes la terre entière."
+    ],
+    "explanation": "La réponse correcte est ': Vous maudissez la terre entière.'.",
+    "question": "Dans quelle phrase le verbe est-il bien conjugué au présent de l’indicatif ?",
+    "correct_answer": ": Vous maudissez la terre entière."
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Il les a présenté.",
+      "Elle a appréciée cette bonne nouvelle.",
+      "A-t-elle reçue sa lettre ?",
+      "Marie a joué cette mélodie.",
+      "Je lui ai dite cette vérité."
+    ],
+    "explanation": "La réponse correcte est ': Marie a joué cette mélodie.' selon les règles de grammaire française.",
+    "question": "Dans quelle phrase le participe passé est-il bien accordé ?",
+    "correct_answer": ": Marie a joué cette mélodie."
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Intelligemment",
+      "Intelligement",
+      "Intelligeament",
+      "Intelligeamment",
+      "Intelligamment"
+    ],
+    "explanation": "La réponse correcte est ': Intelligemment'.",
+    "question": "L’adverbe qui correspond à l’adjectif intelligent est…",
+    "correct_answer": ": Intelligemment"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Fortuné",
+      "Indigent",
+      "Opulent",
+      "Fertile",
+      "Luxueux"
+    ],
+    "explanation": "La réponse correcte est ': Indigent'.",
+    "question": "Parmi ces mots, lequel n’est pas synonyme de riche ?",
+    "correct_answer": ": Indigent"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Servir",
+      "Bleuir",
+      "Roussir",
+      "Punir",
+      "Frémir"
+    ],
+    "explanation": "La réponse correcte est ': Punir'.",
+    "question": "Trouvez l’intrus :",
+    "correct_answer": ": Punir"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Marco Polo parcourira la Mongolie.",
+      "Marco Polo parcourrait la Mongolie.",
+      "Marco Polo parcoura la Mongolie.",
+      "Marco Polo parcourirai la Mongolie.",
+      "Marco Polo parcourra la Mongolie."
+    ],
+    "explanation": "La réponse correcte est ': Marco Polo parcourira la Mongolie.'.",
+    "question": "Quelle phrase correspond à « Marco Polo parcourt la Mongolie » au futur simple de l’indicatif ?",
+    "correct_answer": ": Marco Polo parcourira la Mongolie."
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Marie et Pierre sont parti.",
+      "Marie et Pierre sont partits.",
+      "Marie et Pierre sont parties.",
+      "Marie et Pierre sont partis.",
+      "Marie et Pierre sont partie."
+    ],
+    "explanation": "La réponse correcte est ': Marie et Pierre sont partis.'.",
+    "question": "Quelle phrase est correcte ?",
+    "correct_answer": ": Marie et Pierre sont partis."
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "L’indicatif futur antérieur",
+      "Le subjonctif plus-que-parfait",
+      "L’indicatif présent composé",
+      "L’impératif passé",
+      "Le subjonctif passé"
+    ],
+    "explanation": "La réponse correcte est ': L’indicatif présent composé'.",
+    "question": "Parmi ces temps, lequel n’existe pas ?",
+    "correct_answer": ": L’indicatif présent composé"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Fluet/fluète",
+      "Discret/discrète",
+      "Inquiet/inquiète",
+      "Désuet/désuète",
+      "Concret/concrète"
+    ],
+    "explanation": "La forme correcte est ': Fluet/fluète'. Les autres options comportent des erreurs d'orthographe.",
+    "question": "Quelle est la correspondance masculin/féminin incorrecte ?",
+    "correct_answer": ": Fluet/fluète"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Tu portes sa chemise.",
+      "Ça n’a rien à voir. notre inconscient.",
+      "Nous voyons, çà et là des cerfs-volants.",
+      "Le ça est, chez Freud, la part la plus profonde de",
+      "Il pense que çà n’est pas le problème."
+    ],
+    "explanation": "La forme correcte est ': Ça n’a rien à voir. notre inconscient.'. Les autres options comportent des erreurs d'orthographe.",
+    "question": "Quelle phrase est incorrecte ?",
+    "correct_answer": ": Ça n’a rien à voir. notre inconscient."
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Colon/côlon",
+      "Cote/côte",
+      "Jeune/jeûne",
+      "Mur/mûr",
+      "Mite/mîte"
+    ],
+    "explanation": "La forme correcte est ': Mite/mîte'. Les autres options comportent des erreurs d'orthographe.",
+    "question": "Dans quelle proposition y a-t-il un mot mal orthographié ?",
+    "correct_answer": ": Mite/mîte"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Un paire",
+      "Un globule",
+      "Un céréale",
+      "Un mine",
+      "Un acné"
+    ],
+    "explanation": "La réponse correcte est ': Un globule'.",
+    "question": "Dans quelle proposition le genre du nom est-il correct ?",
+    "correct_answer": ": Un globule"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Un mot de sens contraire",
+      "Un mot qui a une prononciation proche d’un autre mot",
+      "Un mot qui désigne un nom de famille",
+      "Un mot qui désigne les habitants d’un lieu",
+      "Un mot dont le sens est inclus dans celui d’un autre terme plus général"
+    ],
+    "explanation": "La réponse correcte est ': Un mot qui a une prononciation proche d’un autre mot'.",
+    "question": "Qu’est-ce qu’un paronyme ?",
+    "correct_answer": ": Un mot qui a une prononciation proche d’un autre mot"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Fiévreux/fiévreuse",
+      "Vieux/vieuse",
+      "Capricieux/capricieuse",
+      "Mielleux/mielleuse",
+      "Précieux/précieuse"
+    ],
+    "explanation": "La forme correcte est ': Vieux/vieuse'. Les autres options comportent des erreurs d'orthographe.",
+    "question": "Parmi ces associations suivantes, laquelle est incorrecte ?",
+    "correct_answer": ": Vieux/vieuse"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "« Cueille le jour »",
+      "« La carpe du jour »",
+      "« Profite, comme la carpe, du jour »",
+      "« À chaque jour sa peine »",
+      "« Profite de la carpe du jour »"
+    ],
+    "explanation": "La réponse correcte est ': « Cueille le jour »'.",
+    "question": "L’expression latine carpe diem signifie :",
+    "correct_answer": ": « Cueille le jour »"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Une recette de cuisine",
+      "Mouvement d’agitation intense",
+      "Autorité naturelle d’un leader",
+      "Projet secret visant un adversaire politique",
+      "Succession de hasards"
+    ],
+    "explanation": "La réponse correcte est ': Mouvement d’agitation intense'.",
+    "question": "Qu’est-ce qu’un maelström ?",
+    "correct_answer": ": Mouvement d’agitation intense"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Un octosyllabe",
+      "Un décasyllabe",
+      "Un dodécasyllabe",
+      "Un hémistiche",
+      "Un heptasyllabe"
+    ],
+    "explanation": "La réponse correcte est ': Un dodécasyllabe'.",
+    "question": "Un vers de douze syllabes peut être un alexandrin mais aussi :",
+    "correct_answer": ": Un dodécasyllabe"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Je crainds",
+      "Nous craignions",
+      "Il craignit",
+      "Je craindrai",
+      "Crains"
+    ],
+    "explanation": "La réponse correcte est ': Je crainds'.",
+    "question": "Parmi ces propositions de conjugaison du verbe craindre, laquelle est erronée ?",
+    "correct_answer": ": Je crainds"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Ce sont les choristes que j’ai entendus chanter.",
+      "Les amis que j’aurais aimé voir.",
+      "Les voitures que j’ai vu brûler.",
+      "Les histoires que j’ai entendu raconter.",
+      "L’attitude que j’ai préférée prendre."
+    ],
+    "explanation": "La forme correcte est ': Les voitures que j’ai vu brûler.'. Les autres options comportent des erreurs d'orthographe.",
+    "question": "Parmi les propositions suivantes, laquelle est incorrecte ?",
+    "correct_answer": ": Les voitures que j’ai vu brûler."
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Rappelle-moi-le",
+      "Rappelle-m’en",
+      "Rappelle-moi-s’en",
+      "Rappelle-le-me",
+      "Rappelle-le-moi"
+    ],
+    "explanation": "La réponse correcte est ': Rappelle-le-moi'.",
+    "question": "Il faut dire :",
+    "correct_answer": ": Rappelle-le-moi"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Où suis-je ?",
+      "Ou allé-je ?",
+      "Où vais-je ?",
+      "Où mangé-je ?",
+      "Où cours-je ?"
+    ],
+    "explanation": "La forme correcte est ': Où mangé-je ?'. Les autres options comportent des erreurs d'orthographe.",
+    "question": "Quelle inversion verbe/sujet est incorrecte ?",
+    "correct_answer": ": Où mangé-je ?"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Une redingotte",
+      "Une menotte",
+      "Une bouillote",
+      "Une échalote",
+      "Une biscotte"
+    ],
+    "explanation": "La forme correcte est ': Une redingotte'. Les autres options comportent des erreurs d'orthographe.",
+    "question": "Parmi ces mots, lequel est incorrect ?",
+    "correct_answer": ": Une redingotte"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Courageux",
+      "Gentil",
+      "Pleutre",
+      "Héroïque",
+      "Bonhomme"
+    ],
+    "explanation": "La réponse correcte est ': Gentil'.",
+    "question": "Parmi ces mots, lequel ne peut être synonyme de l’adjectif brave ?",
+    "correct_answer": ": Gentil"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Onomatopée",
+      "Assonance",
+      "Allitération",
+      "Métonymie",
+      "Amphibologie"
+    ],
+    "explanation": "La réponse correcte est ': Allitération'.",
+    "question": "« Pour qui sont ces serpents qui sifflent sur nos têtes » : cette célèbre phrase de Racine est une :",
+    "correct_answer": ": Allitération"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "tu auras fini ton travail ».",
+      "tu eus fini ton travail ».",
+      "tu aie fini ton travail ».",
+      "tu finisses ton travail ».",
+      "tu aies fini ton travail »."
+    ],
+    "explanation": "La réponse correcte est ': tu auras fini ton travail ».'.",
+    "question": "Trouvez la suite correcte de ce début de phrase : « Je viendrai te voir, après que… »",
+    "correct_answer": ": tu auras fini ton travail »."
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Des petits-enfants",
+      "Des chauves-souris",
+      "Des petits-déjeuners",
+      "Des pousses-pousses",
+      "Des petits-fours"
+    ],
+    "explanation": "La forme correcte est ': Des pousses-pousses'. Les autres options comportent des erreurs d'orthographe.",
+    "question": "Parmi ces mots, lequel est mal orthographié ?",
+    "correct_answer": ": Des pousses-pousses"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Robuste/fragile",
+      "Animé/inanimé",
+      "Vice/vertu",
+      "Prodigalité/avarice",
+      "Innocence/candeur"
+    ],
+    "explanation": "La réponse correcte est ': Innocence/candeur'.",
+    "question": "Parmi ces couples d’antonymes, trouvez l’intrus :",
+    "correct_answer": ": Innocence/candeur"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Un festival/des festivaux",
+      "Un amiral/des amirals",
+      "Un éditorial/des éditorials",
+      "Un mistral/des mistrals",
+      "Un madrigal/des madrigals"
+    ],
+    "explanation": "La réponse correcte est ': Un mistral/des mistrals'.",
+    "question": "Quelle est la seule correspondance singulier/pluriel correcte ?",
+    "correct_answer": ": Un mistral/des mistrals"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Le plexiglass",
+      "Le business",
+      "Le stress",
+      "Le fitness",
+      "Un mess"
+    ],
+    "explanation": "La forme correcte est ': Le plexiglass'. Les autres options comportent des erreurs d'orthographe.",
+    "question": "Quel mot est incorrect ?",
+    "correct_answer": ": Le plexiglass"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "C’est toi et moi qui est invité.",
+      "C’est toi et moi qui sont invités.",
+      "C’est toi et moi qui suis invité.",
+      "C’est toi et moi qui êtes invités.",
+      "C’est toi et moi qui sommes invités."
+    ],
+    "explanation": "La réponse correcte est ': C’est toi et moi qui sont invités.'.",
+    "question": "Il faut dire :",
+    "correct_answer": ": C’est toi et moi qui sont invités."
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Je n’ai pas le temps de te répondre.",
+      "Ce poids est très lourd.",
+      "Le puits est très profond.",
+      "Notre champs mesure un hectare.",
+      "Notre corps est sensible au froid."
+    ],
+    "explanation": "La forme correcte est ': Notre champs mesure un hectare.'. Les autres options comportent des erreurs d'orthographe.",
+    "question": "Parmi ces propositions, laquelle est incorrecte ?",
+    "correct_answer": ": Notre champs mesure un hectare."
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Principalement du regard que les autres individus portent sur eux.",
+      "De la peur de perdre une partie de leur personnalité pour se conformer aux avis des autres.",
+      "De ne pas être performant aux niveaux professionnel et personnel par rapport aux autres.",
+      "De la peur que les autres n’aient pas une image ou opinion parfaite de leurs traits de personnalité.",
+      "De la part infantile de leur personnalité qui peut les discréditer aux yeux des autres."
+    ],
+    "explanation": "La réponse correcte est ': Principalement du regard que les autres individus portent sur eux.'.",
+    "question": "Comment l’angoisse peut-elle naître chez les individus ?",
+    "correct_answer": ": Principalement du regard que les autres individus portent sur eux."
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "La « peur absolue » naît avec le premier « non » exprimé par le bébé.",
+      "La question que soulève une partie du texte est de savoir si l’autre est une invention ou une découverte.",
+      "Le « non » consiste en la racine des découvertes scientifiques.",
+      "La question que se pose le philosophe Hegel est de savoir si l’autre est une découverte ou une invention.",
+      "La période du « non » des bébés correspond au moment où l’autre est découvert."
+    ],
+    "explanation": "La réponse correcte est ': La « peur absolue » naît avec le premier « non » exprimé par le bébé.'.",
+    "question": "Quelle est l’affirmation exacte ?",
+    "correct_answer": ": La « peur absolue » naît avec le premier « non » exprimé par le bébé."
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "L’individu est mené, pour la première fois, vers l’invention de l’autre lorsqu’il poursuit ses études.",
+      "L’individu n’est jamais ou rarement amené à inventer l’autre.",
+      "L’individu donne une fausse image de lui, ce qui le conduit à être inventé par les autres.",
+      "L’individu invente l’autre dès le premier « non » lorsqu’il imite ses parents interdicteurs.",
+      "L’individu découvre l’autre avant de l’inventer."
+    ],
+    "explanation": "La réponse correcte est ': L’individu invente l’autre dès le premier « non » lorsqu’il imite ses parents interdicteurs.'.",
+    "question": "Comment l’individu est-il conduit à l’invention de l’autre ?",
+    "correct_answer": ": L’individu invente l’autre dès le premier « non » lorsqu’il imite ses parents interdicteurs."
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Comme étant la face cachée de toute violence.",
+      "Il est faux, selon l’auteur, de dire que la peur de l’autre est liée à un changement vrai et réussi.",
+      "Toutes les propositions sont fausses.",
+      "La violence n’est pas liée à la peur de l’autre.",
+      "Aucune de ces propositions n’est incorrecte."
+    ],
+    "explanation": "La réponse correcte est ': Comme étant la face cachée de toute violence.'.",
+    "question": "Comment l’auteur définit-il la peur de l’autre ?",
+    "correct_answer": ": Comme étant la face cachée de toute violence."
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Ne pas découvrir l’autre par peur de le décevoir.",
+      "Les relations qu’entretenaient Freud et Lacan.",
+      "Enseigner comment rencontrer l’autre dès l’enfance.",
+      "L’art de connaître l’autre par le biais de la politique.",
+      "Aux productions artistiques de certains peintres sur les thèmes chers à Freud."
+    ],
+    "explanation": "La réponse correcte est ': Ne pas découvrir l’autre par peur de le décevoir.'.",
+    "question": "Quelle illusion l’auteur évoque-t-il dans le texte ?",
+    "correct_answer": ": Ne pas découvrir l’autre par peur de le décevoir."
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Un travail qu’ont réalisé les psychiatres Freud et Lacan.",
+      "Un risque existentiel qu’ont toujours pris Freud et Lacan.",
+      "Le travail de toute une vie que les psychiatres Freud et Lacan ont tenté d’inculquer à leurs élèves.",
+      "Un risque existentiel qu’ont rarement pris Freud et Lacan.",
+      "Un risque que tous les psychiatres de l’époque de Freud ont pris."
+    ],
+    "explanation": "La réponse correcte est ': Un risque existentiel qu’ont toujours pris Freud et Lacan.'.",
+    "question": "Selon l’auteur, écouter les autres constitue :",
+    "correct_answer": ": Un risque existentiel qu’ont toujours pris Freud et Lacan."
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Un festival/des festivaux",
+      "Un amiral/des amirals",
+      "Un éditorial/des éditorials",
+      "Un mistral/des mistrals",
+      "Un madrigal/des madrigals"
+    ],
+    "explanation": "La réponse correcte est ': Un mistral/des mistrals'.",
+    "question": "Quelle est la seule correspondance singulier/pluriel correcte ?",
+    "correct_answer": ": Un mistral/des mistrals"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Le plexiglass",
+      "Le business",
+      "Le stress",
+      "Le fitness",
+      "Un mess"
+    ],
+    "explanation": "La forme correcte est ': Le plexiglass'. Les autres options comportent des erreurs d'orthographe.",
+    "question": "Quel mot est incorrect ?",
+    "correct_answer": ": Le plexiglass"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "C’est toi et moi qui est invité.",
+      "C’est toi et moi qui sont invités.",
+      "C’est toi et moi qui suis invité.",
+      "C’est toi et moi qui êtes invités.",
+      "C’est toi et moi qui sommes invités."
+    ],
+    "explanation": "La réponse correcte est ': C’est toi et moi qui sont invités.'.",
+    "question": "Il faut dire :",
+    "correct_answer": ": C’est toi et moi qui sont invités."
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Je n’ai pas le temps de te répondre.",
+      "Ce poids est très lourd.",
+      "Le puits est très profond.",
+      "Notre champs mesure un hectare.",
+      "Notre corps est sensible au froid."
+    ],
+    "explanation": "La forme correcte est ': Notre champs mesure un hectare.'. Les autres options comportent des erreurs d'orthographe.",
+    "question": "Parmi ces propositions, laquelle est incorrecte ?",
+    "correct_answer": ": Notre champs mesure un hectare."
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Une redingotte",
+      "Une menotte",
+      "Une bouillote",
+      "Une échalote",
+      "Une biscotte"
+    ],
+    "explanation": "La forme correcte est ': Une redingotte'. Les autres options comportent des erreurs d'orthographe.",
+    "question": "Parmi ces mots, lequel est mal orthographié ?",
+    "correct_answer": ": Une redingotte"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Robuste/fragile",
+      "Animé/inanimé",
+      "Vice/vertu",
+      "Prodigalité/avarice",
+      "Innocence/candeur"
+    ],
+    "explanation": "La réponse correcte est ': Innocence/candeur'.",
+    "question": "Parmi ces couples d’antonymes, trouvez l’intrus :",
+    "correct_answer": ": Innocence/candeur"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Onomatopée",
+      "Assonance",
+      "Allitération",
+      "Métonymie",
+      "Amphibologie"
+    ],
+    "explanation": "La réponse correcte est ': Allitération'.",
+    "question": "« Pour qui sont ces serpents qui sifflent sur nos têtes » : cette célèbre phrase de Racine est une :",
+    "correct_answer": ": Allitération"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "tu auras fini ton travail ».",
+      "tu eus fini ton travail ».",
+      "tu aie fini ton travail ».",
+      "tu finisses ton travail ».",
+      "tu aies fini ton travail »."
+    ],
+    "explanation": "La réponse correcte est ': tu auras fini ton travail ».'.",
+    "question": "Trouvez la suite correcte de ce début de phrase : « Je viendrai te voir, après que… »",
+    "correct_answer": ": tu auras fini ton travail »."
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Au moment où l’auteur évoque l’égarement de l’individu dans le labyrinthe de la ville.",
+      "Au moment où l’auteur parle des rêves oubliés de chaque rencontre avec des éléments nouveaux.",
+      "Au moment où l’auteur aborde les souvenirs presque oubliés d’une rencontre avec autrui.",
+      "Au moment où l’auteur relate le souvenir d’une rencontre d’une certaine personne avec Freud.",
+      "Aux productions artistiques de certains peintres sur les thèmes chers à Freud."
+    ],
+    "explanation": "La réponse correcte est ': Au moment où l’auteur évoque l’égarement de l’individu dans le labyrinthe de la ville.'.",
+    "question": "Où y a-t-il une référence au titre de l’article ?",
+    "correct_answer": ": Au moment où l’auteur évoque l’égarement de l’individu dans le labyrinthe de la ville."
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Style et Figures de style",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Allitération",
+      "Oxymore",
+      "Hyperbole",
+      "Métonymie",
+      "Anaphore"
+    ],
+    "explanation": "La réponse correcte est ': Oxymore'.",
+    "question": "Dans la phrase « Le silence assourdissant régnait dans la salle », quelle figure de style est utilisée ?",
+    "correct_answer": ": Oxymore"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Expressif",
+      "Taciturne",
+      "Réservé",
+      "Discret",
+      "Abrupt"
+    ],
+    "explanation": "La réponse correcte est ': Expressif'.",
+    "question": "Quel est le synonyme le plus approprié du mot « éloquent » ?",
+    "correct_answer": ": Expressif"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Monter en haut",
+      "Descendre en bas",
+      "Avancer en avant",
+      "Reporter au lendemain",
+      "Toutes ces expressions"
+    ],
+    "explanation": "La réponse correcte est ': Toutes ces expressions'.",
+    "question": "Lequel des exemples suivants constitue un pléonasme ?",
+    "correct_answer": ": Toutes ces expressions"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Les fleurs qu’elle a cueillies",
+      "Les lettres que j’ai écrites",
+      "Les idées qu’il a exprimé",
+      "Les chansons qu’ils ont chantées",
+      "Les histoires qu’elle a racontées"
+    ],
+    "explanation": "La réponse correcte est ': Les idées qu’il a exprimé' selon les règles de grammaire française.",
+    "question": "Parmi les propositions suivantes, laquelle contient une erreur d’accord du participe passé ?",
+    "correct_answer": ": Les idées qu’il a exprimé"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Style et Figures de style",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Le verbe « voulais »",
+      "Le verbe « pourrais »",
+      "Le verbe « réussir »",
+      "Aucun de ces verbes",
+      "Les deux « voulais » et « pourrais »"
+    ],
+    "explanation": "La réponse correcte est ': Le verbe « pourrais »'.",
+    "question": "Dans la phrase « Si tu le voulais, tu pourrais réussir », quel temps verbal figure au conditionnel ?",
+    "correct_answer": ": Le verbe « pourrais »"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Il faut qu’il parte maintenant sinon il va rater son train.",
+      "Il faut qu’il parte maintenant, sinon il va manquer son train.",
+      "Il faut qu’il parte maintenant, sinon il va rater son train.",
+      "Il faut qu’il part maintenant sinon il va rater son train.",
+      "Il faut qu’il part maintenant, sinon il va manquer son train."
+    ],
+    "explanation": "La réponse correcte est ': Il faut qu’il parte maintenant, sinon il va rater son train.'.",
+    "question": "Parmi les propositions suivantes, laquelle est correctement rédigée ?",
+    "correct_answer": ": Il faut qu’il parte maintenant, sinon il va rater son train."
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Adjectif",
+      "Adverbe",
+      "Nom",
+      "Conjonction",
+      "Préposition"
+    ],
+    "explanation": "La réponse correcte est ': Adverbe'.",
+    "question": "Dans la phrase « Il court rapidement », quelle est la fonction grammaticale du mot « rapidement » ?",
+    "correct_answer": ": Adverbe"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Enfants",
+      "Joyeusement",
+      "Dans",
+      "Parc",
+      "Aucune de ces réponses"
+    ],
+    "explanation": "La réponse correcte est ': Joyeusement'.",
+    "question": "Dans la phrase « Les enfants jouaient joyeusement dans le parc », quel adverbe modifie le verbe ?",
+    "correct_answer": ": Joyeusement"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Je meurs de faim",
+      "Il a une mémoire d’éléphant",
+      "Elle est d’une beauté renversante",
+      "Il a couru comme le vent",
+      "Toutes sont des hyperboles"
+    ],
+    "explanation": "La réponse correcte est ': Il a couru comme le vent'.",
+    "question": "Laquelle des propositions suivantes n’est PAS une hyperbole ?",
+    "correct_answer": ": Il a couru comme le vent"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Conditionnel passé",
+      "Plus-que-parfait",
+      "Futur antérieur",
+      "Passé simple",
+      "Subjonctif plus-que-parfait"
+    ],
+    "explanation": "La réponse correcte est ': Conditionnel passé'.",
+    "question": "Quel temps verbal est employé dans la phrase « Si j’avais su, je serais venu » ?",
+    "correct_answer": ": Conditionnel passé"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Répéter le même mot ou groupe de mots au début de phrases successives",
+      "Inverser l’ordre habituel des mots",
+      "Employer un terme de comparaison",
+      "Évoquer une opposition",
+      "Utiliser une allitération"
+    ],
+    "explanation": "La réponse correcte est ': Répéter le même mot ou groupe de mots au début de phrases successives'.",
+    "question": "L’anaphore consiste à :",
+    "correct_answer": ": Répéter le même mot ou groupe de mots au début de phrases successives"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Agité",
+      "Tempétueux",
+      "Troublé",
+      "Tourmenté",
+      "Fâché"
+    ],
+    "explanation": "La réponse correcte est ': Agité'.",
+    "question": "Quel est l’antonyme le plus adapté de l’adjectif « serein » ?",
+    "correct_answer": ": Agité"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Elle",
+      "Lui",
+      "Se fâcha",
+      "Contre lui",
+      "Sans raison"
+    ],
+    "explanation": "La réponse correcte est ': Elle'.",
+    "question": "Dans la phrase « Elle se fâcha contre lui sans raison apparente », quel est le sujet ?",
+    "correct_answer": ": Elle"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Exagérer une réalité",
+      "Minimiser une réalité pour mieux la mettre en relief",
+      "Contraster deux idées",
+      "Répéter un son",
+      "Inverser l’ordre des éléments"
+    ],
+    "explanation": "La réponse correcte est ': Minimiser une réalité pour mieux la mettre en relief'.",
+    "question": "L’emploi d’une litote consiste à :",
+    "correct_answer": ": Minimiser une réalité pour mieux la mettre en relief"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Reproduire fidèlement les paroles d’un personnage",
+      "Résumer les pensées d’un personnage",
+      "Donner une opinion personnelle",
+      "Inverser le point de vue du narrateur",
+      "Introduire un dialogue"
+    ],
+    "explanation": "La réponse correcte est ': Résumer les pensées d’un personnage'.",
+    "question": "Dans un texte narratif, le recours au discours indirect permet de :",
+    "correct_answer": ": Résumer les pensées d’un personnage"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Les arbres majestueux",
+      "Un paysage enchante",
+      "Une ambiance féerique",
+      "Des moments inoubliables",
+      "Une mélodie envoûtante"
+    ],
+    "explanation": "La réponse correcte est ': Un paysage enchante' selon les règles de grammaire française.",
+    "question": "Parmi les propositions suivantes, laquelle est un exemple d’erreur grammaticale (accord) ?",
+    "correct_answer": ": Un paysage enchante"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Translucide",
+      "Limpide",
+      "Foncé",
+      "Obscur",
+      "Terne"
+    ],
+    "explanation": "La réponse correcte est ': Limpide'.",
+    "question": "Quel mot est l’antonyme de « opaque » ?",
+    "correct_answer": ": Limpide"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Métaphore",
+      "Hyperbole",
+      "Personnification",
+      "Antithèse",
+      "Litote"
+    ],
+    "explanation": "La réponse correcte est ': Métaphore'.",
+    "question": "Dans la phrase « Le temps file à toute allure », l’expression « file à toute allure » est un exemple de :",
+    "correct_answer": ": Métaphore"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Une certitude",
+      "Un souhait ou une incertitude",
+      "Un ordre",
+      "Une comparaison",
+      "Une description objective"
+    ],
+    "explanation": "La réponse correcte est ': Un souhait ou une incertitude'.",
+    "question": "L’emploi du subjonctif dans une phrase sert principalement à exprimer :",
+    "correct_answer": ": Un souhait ou une incertitude"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Marquer une opposition ou une conséquence",
+      "Renforcer l’émotion",
+      "Décrire une scène",
+      "Introduire une anecdote",
+      "Varier le style"
+    ],
+    "explanation": "La réponse correcte est ': Marquer une opposition ou une conséquence'.",
+    "question": "Les connecteurs logiques tels que « cependant » et « par conséquent » servent à :",
+    "correct_answer": ": Marquer une opposition ou une conséquence"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Soutenu",
+      "Familier",
+      "Populaire",
+      "Archaïque",
+      "Neutre"
+    ],
+    "explanation": "La réponse correcte est ': Soutenu'.",
+    "question": "Dans la phrase « C’est absolument formidable ! », quel registre de langue est utilisé ?",
+    "correct_answer": ": Soutenu"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Complément d’objet direct",
+      "Complément circonstanciel de temps",
+      "Complément d’agent",
+      "Complément du nom",
+      "Attribut du sujet"
+    ],
+    "explanation": "La réponse correcte est ': Complément circonstanciel de temps'.",
+    "question": "Dans la phrase « Après avoir mangé, ils se sont promenés dans le parc », quel est le rôle du groupe « après avoir mangé » ?",
+    "correct_answer": ": Complément circonstanciel de temps"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Complément d’objet direct",
+      "Complément circonstanciel de manière",
+      "Complément d’agent",
+      "Adjectif",
+      "Sujet"
+    ],
+    "explanation": "La réponse correcte est ': Complément circonstanciel de manière'.",
+    "question": "Dans la phrase « Il a crié si fort que tout le quartier l’a entendu », quel est le rôle de « si fort » ?",
+    "correct_answer": ": Complément circonstanciel de manière"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Ayant fini son travail, il est allé se promener.",
+      "Fini son travail, il est allé se promener.",
+      "Finissant son travail, il est allé se promener.",
+      "Ayant finie son travail, il est allé se promener.",
+      "Finis son travail, il est allé se promener."
+    ],
+    "explanation": "La réponse correcte est ': Ayant fini son travail, il est allé se promener.'.",
+    "question": "Laquelle des propositions suivantes emploie correctement le participe présent ?",
+    "correct_answer": ": Ayant fini son travail, il est allé se promener."
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Adverbe",
+      "Adjectif qualificatif",
+      "Nom commun",
+      "Complément d’objet direct",
+      "Conjonction"
+    ],
+    "explanation": "La réponse correcte est ': Adjectif qualificatif'.",
+    "question": "Dans l’expression « la douce mélodie », quel est le rôle du mot « douce » ?",
+    "correct_answer": ": Adjectif qualificatif"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Organiser les idées",
+      "Introduire des citations",
+      "Décrire des personnages",
+      "Montrer l’orthographe",
+      "Alléger le style"
+    ],
+    "explanation": "La réponse correcte est ': Organiser les idées'.",
+    "question": "Quel est le rôle principal d’un connecteur logique dans un texte ?",
+    "correct_answer": ": Organiser les idées"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Remettre systématiquement au lendemain",
+      "Travailler avec rigueur",
+      "Avancer rapidement",
+      "Refuser de travailler",
+      "Organiser son temps"
+    ],
+    "explanation": "La réponse correcte est ': Remettre systématiquement au lendemain'.",
+    "question": "Dans la phrase « Il a l’habitude de procrastiner », que signifie « procrastiner » ?",
+    "correct_answer": ": Remettre systématiquement au lendemain"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Calme",
+      "Agité",
+      "Impétueux",
+      "Violent",
+      "Ardent"
+    ],
+    "explanation": "La réponse correcte est ': Calme'.",
+    "question": "Quel est l’opposé de l’adjectif « tempétueux » ?",
+    "correct_answer": ": Calme"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Métaphore",
+      "Personnification",
+      "Comparaison",
+      "Hyperbole",
+      "Litote"
+    ],
+    "explanation": "La réponse correcte est ': Métaphore'.",
+    "question": "Dans « Les mots résonnaient dans l’âme des auditeurs », quel procédé est employé ?",
+    "correct_answer": ": Métaphore"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Complément circonstanciel de temps",
+      "Complément du verbe",
+      "Attribut du sujet",
+      "Sujet",
+      "Apposé"
+    ],
+    "explanation": "La réponse correcte est ': Complément circonstanciel de temps'.",
+    "question": "Dans la phrase « Après avoir lu le texte, il en ressortit une leçon essentielle », le groupe « après avoir lu le texte » est un :",
+    "correct_answer": ": Complément circonstanciel de temps"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "« Il faut manger pour vivre, et non vivre pour manger. »",
+      "« Rien n’est si vieux que le monde, rien n’est si nouveau que l’avenir. »",
+      "« L’union fait la force. »",
+      "« Il pleut des cordes. »",
+      "« Je vis, je meurs, je meurs, je vis. »"
+    ],
+    "explanation": "La réponse correcte est ': « Il faut manger pour vivre, et non vivre pour manger. »'.",
+    "question": "Lequel des éléments suivants est un exemple de chiasme ?",
+    "correct_answer": ": « Il faut manger pour vivre, et non vivre pour manger. »"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Adjectif",
+      "Adverbe",
+      "Nom",
+      "Conjonction",
+      "Préposition"
+    ],
+    "explanation": "La réponse correcte est ': Adverbe'.",
+    "question": "Dans la phrase « Elle parle rapidement », « rapidement » est de quelle nature grammaticale ?",
+    "correct_answer": ": Adverbe"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Hyperbole",
+      "Litote",
+      "Métonymie",
+      "Antithèse",
+      "Euphémisme"
+    ],
+    "explanation": "La réponse correcte est ': Hyperbole'.",
+    "question": "Lequel des mots suivants désigne une exagération volontaire ?",
+    "correct_answer": ": Hyperbole"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Décrire une action",
+      "Personnifier les étoiles",
+      "Exprimer une comparaison",
+      "Introduire un dialogue",
+      "Montrer une opposition"
+    ],
+    "explanation": "La réponse correcte est ': Décrire une action'.",
+    "question": "Dans la phrase « Les étoiles scintillaient dans le ciel nocturne », quel est le rôle de « scintillaient » ?",
+    "correct_answer": ": Décrire une action"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Comparaison",
+      "Métaphore",
+      "Hyperbole",
+      "Antithèse",
+      "Litote"
+    ],
+    "explanation": "La réponse correcte est ': Comparaison'.",
+    "question": "Dans l’expression « Il se tient comme un roc », quel procédé stylistique est utilisé ?",
+    "correct_answer": ": Comparaison"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Organiser les idées",
+      "Introduire des citations",
+      "Décrire des personnages",
+      "Montrer l’orthographe",
+      "Alléger le style"
+    ],
+    "explanation": "La réponse correcte est ': Organiser les idées'.",
+    "question": "Quel est le rôle principal d’un connecteur logique dans un texte ?",
+    "correct_answer": ": Organiser les idées"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Verbe",
+      "Adjectif",
+      "Adverbe de fréquence",
+      "Préposition",
+      "Conjonction"
+    ],
+    "explanation": "La réponse correcte est ': Adverbe de fréquence'.",
+    "question": "Dans la phrase « Je n’ai jamais vu une telle beauté », « jamais » est un :",
+    "correct_answer": ": Adverbe de fréquence"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Qui disparaît progressivement",
+      "Qui est constant",
+      "Qui est abondant",
+      "Qui est solide",
+      "Qui est brillant"
+    ],
+    "explanation": "La réponse correcte est ': Qui disparaît progressivement'.",
+    "question": "Que signifie « évanescent » ?",
+    "correct_answer": ": Qui disparaît progressivement"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Les enfants ont joués dans le jardin.",
+      "Les enfants ont joué dans le jardin.",
+      "Les enfants ont jouées dans le jardin.",
+      "Les enfants jouaient dans le jardin.",
+      "Les enfants jouaient dans le jardin, ils ont joué."
+    ],
+    "explanation": "La réponse correcte est ': Les enfants ont joué dans le jardin.'.",
+    "question": "Laquelle des phrases suivantes est correctement formulée ?",
+    "correct_answer": ": Les enfants ont joué dans le jardin."
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Clairvoyant",
+      "Ignorant",
+      "Indifférent",
+      "Stupide",
+      "Confus"
+    ],
+    "explanation": "La réponse correcte est ': Clairvoyant'.",
+    "question": "Le synonyme de « perspicace » est :",
+    "correct_answer": ": Clairvoyant"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Des hypothèses non vérifiées",
+      "Des opinions sûres",
+      "Des faits établis",
+      "Des observations scientifiques",
+      "Des sentiments profonds"
+    ],
+    "explanation": "La réponse correcte est ': Des hypothèses non vérifiées'.",
+    "question": "Dans l’expression « se perdre en conjectures », « conjectures » désigne :",
+    "correct_answer": ": Des hypothèses non vérifiées"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Hyperbole",
+      "Litote",
+      "Oxymore",
+      "Métaphore",
+      "Allitération"
+    ],
+    "explanation": "La réponse correcte est ': Litote'.",
+    "question": "Lequel des procédés suivants consiste à minimiser l’expression d’une réalité ?",
+    "correct_answer": ": Litote"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Douce",
+      "Insouciante",
+      "Les deux",
+      "Aucun",
+      "Seulement « douce »"
+    ],
+    "explanation": "La réponse correcte est ': Les deux'.",
+    "question": "Dans la phrase « Il se souvient de son enfance, douce et insouciante », quels adjectifs qualifient le nom « enfance » ?",
+    "correct_answer": ": Les deux"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Verbe",
+      "Adjectif",
+      "Adverbe",
+      "Complément du nom",
+      "Conjonction"
+    ],
+    "explanation": "La réponse correcte est ': Adverbe'.",
+    "question": "Dans la phrase « Elle a visiblement réussi son examen », quel est le rôle de « visiblement » ?",
+    "correct_answer": ": Adverbe"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Éphémère",
+      "Durable",
+      "Fugace",
+      "Temporaire",
+      "Passager"
+    ],
+    "explanation": "La réponse correcte est ': Durable'.",
+    "question": "Quel est le synonyme de « pérenne » ?",
+    "correct_answer": ": Durable"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Pourtant",
+      "Malgré",
+      "Il",
+      "Les",
+      "Persévère"
+    ],
+    "explanation": "La réponse correcte est ': Pourtant'.",
+    "question": "Dans la phrase « Pourtant, il persévère malgré les difficultés », quel mot marque l’opposition ?",
+    "correct_answer": ": Pourtant"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Adjectif",
+      "Adverbe",
+      "Nom",
+      "Préposition",
+      "Conjonction"
+    ],
+    "explanation": "La réponse correcte est ': Adverbe'.",
+    "question": "Dans la phrase « Les montagnes se dressaient majestueusement », quel est le rôle de « majestueusement » ?",
+    "correct_answer": ": Adverbe"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Style et Figures de style",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Anaphore",
+      "Parallélisme",
+      "Cliché",
+      "Chiasme",
+      "Oxymore"
+    ],
+    "explanation": "La réponse correcte est ': Cliché'.",
+    "question": "Lequel des termes suivants n’est pas une figure de style ?",
+    "correct_answer": ": Cliché"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Poser la question centrale et orienter la réflexion",
+      "Donner la conclusion",
+      "Résumer les arguments",
+      "Décrire des exemples",
+      "Fournir des citations"
+    ],
+    "explanation": "La réponse correcte est ': Poser la question centrale et orienter la réflexion'.",
+    "question": "Dans une dissertation, la problématique sert à :",
+    "correct_answer": ": Poser la question centrale et orienter la réflexion"
+  },
+  {
+    "category": "Expression française",
+    "subcategory": "Grammaire et Orthographe",
+    "difficulty": "medium",
+    "incorrect_answers": [
+      "Métaphore",
+      "Hyperbole",
+      "Litote",
+      "Antithèse",
+      "Personnification"
+    ],
+    "explanation": "La réponse correcte est ': Métaphore'.",
+    "question": "Dans l’expression « l’ombre de ses doutes », le mot « ombre » est employé comme :",
+    "correct_answer": ": Métaphore"
+  }
+]

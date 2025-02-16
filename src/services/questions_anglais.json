@@ -1,0 +1,4082 @@
+[
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "Ingredients",
+      "Rest",
+      "Vegetables",
+      "Accessories"
+    ],
+    "question": "Christmas Day was not the same without roast turkey and all the … .",
+    "correct_answer": "Trimmings",
+    "subcategory": "Conjunctions and Linking Words",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Trimmings'. This shows how to properly connect ideas in English."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "We",
+      "Us",
+      "Our",
+      "Ourselves"
+    ],
+    "question": "If you need to borrow a computer for your presentation, just let us know and we’ll lend you one of … .",
+    "correct_answer": "Ours",
+    "subcategory": "Conjunctions and Linking Words",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Ours'. This shows how to properly connect ideas in English."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "At",
+      "By",
+      "With",
+      "From"
+    ],
+    "question": "The candidate said that he intended to stick … his unorthodox style.",
+    "correct_answer": "To",
+    "subcategory": "Modal Verbs",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'To'. This illustrates the proper use of modal verbs to express possibility, permission, or obligation."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "Dawn",
+      "Sunset",
+      "Evening",
+      "Solstice"
+    ],
+    "question": "I’ve lived in this part of the country for three years and the season which is most beautiful is … when the trees turn beautiful orange and red colours.",
+    "correct_answer": "Fall",
+    "subcategory": "Conjunctions and Linking Words",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Fall'. This shows how to properly connect ideas in English."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "Stunned",
+      "Stunner",
+      "Stuns",
+      "Stars"
+    ],
+    "question": "She looked … on the red carpet.",
+    "correct_answer": "Stunning",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Stunning'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "Shrine",
+      "Sharp",
+      "Strap",
+      "Shore"
+    ],
+    "question": "There was not a … of evidence against him.",
+    "correct_answer": "Shred",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Shred'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "Anyone",
+      "Somewhere",
+      "In",
+      "Whereas"
+    ],
+    "question": "Some of the employees received as much as a 14 per cent salary increase, while … in the public sector pay rises were capped at 2 per cent.",
+    "correct_answer": "Elsewhere",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Elsewhere'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "United",
+      "Sober",
+      "Dark",
+      "Pastel"
+    ],
+    "question": "In general … colours do not go down well in the workplace, except perhaps on a Friday.",
+    "correct_answer": "Gaudy",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Gaudy'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "From",
+      "Ago",
+      "When",
+      "By"
+    ],
+    "question": "… 1996, Candice has voted for the Republican candidate in presidential elections.",
+    "correct_answer": "Since",
+    "subcategory": "Modal Verbs",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Since'. This illustrates the proper use of modal verbs to express possibility, permission, or obligation."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "Shoved",
+      "Scraped",
+      "Strapped",
+      "Skewed"
+    ],
+    "question": "The changes to the company’s internal rules were … after the legal department said they contravened employment law.",
+    "correct_answer": "Scrapped",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Scrapped'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "Ramping",
+      "Soaring",
+      "Romping",
+      "Boring"
+    ],
+    "question": "During the holiday season in many seaside resorts the casinos do a … trade day and night.",
+    "correct_answer": "Roaring",
+    "subcategory": "Conjunctions and Linking Words",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Roaring'. This shows how to properly connect ideas in English."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "Enjoying",
+      "Rejoining",
+      "Denying",
+      "Complying"
+    ],
+    "question": "The three … properties were owned by a local businessman.",
+    "correct_answer": "Adjoining",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Adjoining'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "Many",
+      "Lot",
+      "Further",
+      "Several"
+    ],
+    "question": "… of the new computer infrastructure has been put in place to avoid the risk of hacking by our competitors.",
+    "correct_answer": "Much",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Much'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "Low",
+      "Lowest",
+      "Lowered",
+      "Lowering"
+    ],
+    "question": "Investment analysts have said that the latest results for the Xion Corporation are much … than expected.",
+    "correct_answer": "Lower",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Lower'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "Left",
+      "Leave",
+      "Leaves",
+      "Leaver"
+    ],
+    "question": "… the port on the final leg of their voyage, the passengers were able to see the sun setting over the great citadel.",
+    "correct_answer": "Leaving",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Leaving'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "Arriving",
+      "Later",
+      "Arrival",
+      "Becoming"
+    ],
+    "question": "There was to be a major clampdown on spending in the … months.",
+    "correct_answer": "Coming",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Coming'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "Be attend",
+      "Is attending",
+      "Has attended",
+      "Had been attend"
+    ],
+    "question": "She flew into the port today to join events to mark the anniversary, which … by eight persons.",
+    "correct_answer": "Are being attended",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Are being attended'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "Required",
+      "Involved",
+      "Expected",
+      "Allowed"
+    ],
+    "question": "Insurance industry experts are … that drivers who work for Internet taxi operators may not be fully covered in the event of an accident.",
+    "correct_answer": "Concerned",
+    "subcategory": "Modal Verbs",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Concerned'. This illustrates the proper use of modal verbs to express possibility, permission, or obligation."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "However",
+      "When",
+      "If",
+      "Although"
+    ],
+    "question": "Mr. Chow was very impressed by the CV of the first of the candidates and … he couldn’t bring himself to overlook her lack of relevant experience.",
+    "correct_answer": "Yet",
+    "subcategory": "Modal Verbs",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Yet'. This illustrates the proper use of modal verbs to express possibility, permission, or obligation."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "Hold out",
+      "Hold in",
+      "Hold out for",
+      "Hold under"
+    ],
+    "question": "In difficult periods our company tries to … the principles of its founder, Johan Keist.",
+    "correct_answer": "Hold on to",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Hold on to'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "Harder",
+      "Hardly",
+      "Hardest",
+      "Hardness"
+    ],
+    "question": "The director of studies said that during this period leading up to the exams, his students should be prepared to work extremely … if they want to achieve good grades.",
+    "correct_answer": "Hard",
+    "subcategory": "Modal Verbs",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Hard'. This illustrates the proper use of modal verbs to express possibility, permission, or obligation."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "Must",
+      "May",
+      "Should",
+      "Could"
+    ],
+    "question": "Trading on the International Stock Exchange … be temporarily halted yesterday on account of a computer software problem.",
+    "correct_answer": "Had to",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Had to'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "Genial",
+      "General",
+      "Grumpy",
+      "Generous"
+    ],
+    "question": "After a prolonged aperitif the guests were in a … mood when they sat down for dinner.",
+    "correct_answer": "Glum",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Glum'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "Shade",
+      "Fold",
+      "Shine",
+      "Fad"
+    ],
+    "question": "The memory would … in time.",
+    "correct_answer": "Fade",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Fade'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "Requirements",
+      "Facilities",
+      "Necessities",
+      "Features"
+    ],
+    "question": "Mr. Simm’s personal assistant will be making all the necessary … for his trip to the Far East next month.",
+    "correct_answer": "Arrangements",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Arrangements'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "Draining",
+      "Drama",
+      "Drudgery",
+      "Dramatics"
+    ],
+    "question": "The change in her appearance was … .",
+    "correct_answer": "Dramatic",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Dramatic'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "Devoid",
+      "Deviated",
+      "Delved",
+      "Doted"
+    ],
+    "question": "He … his time and energy to the community.",
+    "correct_answer": "Devoted",
+    "subcategory": "Conjunctions and Linking Words",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Devoted'. This shows how to properly connect ideas in English."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "Crammed",
+      "Crushed",
+      "Created",
+      "Cried"
+    ],
+    "question": "She … the baby in her arms.",
+    "correct_answer": "Cradled",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Cradled'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "Complain",
+      "Complaining",
+      "Compliant",
+      "Compel"
+    ],
+    "question": "They lodged a … at the local council.",
+    "correct_answer": "Complaint",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Complaint'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "Chances",
+      "Changes",
+      "Choices",
+      "Chargers"
+    ],
+    "question": "She pleaded guilty to the … and was sentenced to six months in prison.",
+    "correct_answer": "Charges",
+    "subcategory": "Conjunctions and Linking Words",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Charges'. This shows how to properly connect ideas in English."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "A plan to reduce water pollution",
+      "A plan to protect wildlife in the rivers of India and Bangladesh",
+      "A project to irrigate land in the north of India",
+      "The impact of drought and flooding on the Indian economy"
+    ],
+    "question": "What is the article mainly about?",
+    "correct_answer": "An initiative to change the natural course of some Indian rivers",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'An initiative to change the natural course of some Indian rivers'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "To build new dams on the Ganges river",
+      "To pump water from underground sources",
+      "To move populations to different locations",
+      "To flood large areas of farmland"
+    ],
+    "question": "According to the journalist, what is the Indian government proposing?",
+    "correct_answer": "To create new waterways to connect some rivers",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'To create new waterways to connect some rivers'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "It is not supported by India’s Prime Minister Narendra Modi",
+      "It does not have sufficient funding",
+      "Environmental activists have damaged critical equipment",
+      "Construction work has been delayed by bad weather"
+    ],
+    "question": "What reason is given to explain why the project has not yet started?",
+    "correct_answer": "It has not yet been authorized by the environment ministry",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'It has not yet been authorized by the environment ministry'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "It will bring water to areas where there is a shortage",
+      "It will make water supply more reliable",
+      "It will make more drinking water available during the summer",
+      "It will alleviate India’s water problems"
+    ],
+    "question": "Which of the following is NOT presented as a potential benefit of the proposed water project?",
+    "correct_answer": "It will facilitate the transportation of goods by river",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'It will facilitate the transportation of goods by river'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "Local populations have had to relocate",
+      "Health services have been restricted",
+      "Water has had to be transported by rail",
+      "Children have been unable to attend school"
+    ],
+    "question": "Which of the following is NOT mentioned as a consequence of the lack of rainfall in India?",
+    "correct_answer": "The population has fallen",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'The population has fallen'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "Most of the preparatory work had been done by previous Prime Ministers",
+      "It does not have the support of all government ministries",
+      "It was an original idea of Prime Minister Modi",
+      "It will take ten years to complete"
+    ],
+    "question": "According to the article, what is true about the Indian water project?",
+    "correct_answer": "It was first proposed by Prime Minister Modi’s predecessors",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'It was first proposed by Prime Minister Modi’s predecessors'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "Expanded",
+      "Postponed",
+      "Accelerated",
+      "Cancelled/Withdrawn"
+    ],
+    "question": "According to the scientific community in India, the water project should be:",
+    "correct_answer": "Audited",
+    "subcategory": "Modal Verbs",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Audited'. This illustrates the proper use of modal verbs to express possibility, permission, or obligation."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "Underestimating the water flow in some Indian rivers",
+      "Using inaccurate maps of India’s river system",
+      "Taking too much time to conduct background research",
+      "Exaggerating the environmental impacts on wildlife"
+    ],
+    "question": "What does Dr. Latha Anantha accuse the Indian government of doing?",
+    "correct_answer": "Ignoring the wider impact of the water project",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Ignoring the wider impact of the water project'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "It was poorly engineered",
+      "It was built after India became independent",
+      "It was never completed",
+      "It was built before 1850"
+    ],
+    "question": "What is stated about the Mullaperiyar Dam?",
+    "correct_answer": "It led to conflicts developing between different areas of India",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'It led to conflicts developing between different areas of India'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "It will have no impact on Bangladesh",
+      "It respects Bangladesh’s water rights",
+      "It will be beneficial for Bangladesh",
+      "It will alleviate drought in Bangladesh"
+    ],
+    "question": "What does Nazrul Islam imply about the Indian water project?",
+    "correct_answer": "It could affect the amount of water flowing to Bangladesh",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'It could affect the amount of water flowing to Bangladesh'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "Afterwards",
+      "Immediately",
+      "Often",
+      "Always"
+    ],
+    "question": "The adverb “shortly” in paragraph 2 could best be replaced by:",
+    "correct_answer": "Soon",
+    "subcategory": "Modal Verbs",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Soon'. This illustrates the proper use of modal verbs to express possibility, permission, or obligation."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "Promise",
+      "Revise",
+      "Devise",
+      "Exercise"
+    ],
+    "question": "A synonym for the verb “oversee” in paragraph 5 is:",
+    "correct_answer": "Supervise",
+    "subcategory": "Vocabulary",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Supervise'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "Damages",
+      "Reduces",
+      "Changes",
+      "Destroys"
+    ],
+    "question": "The expression “creates havoc” in paragraph 5 is closest in meaning to:",
+    "correct_answer": "Devastates",
+    "subcategory": "Idioms and Expressions",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Devastates'. This is a common English expression or idiom."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "Concerned",
+      "Continued",
+      "Convinced",
+      "Constructed"
+    ],
+    "question": "The expression “toyed with” in paragraph 9 could best be replaced by:",
+    "correct_answer": "Considered",
+    "subcategory": "Modal Verbs",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Considered'. This illustrates the proper use of modal verbs to express possibility, permission, or obligation."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "Lively",
+      "Life",
+      "Liveable",
+      "Living"
+    ],
+    "question": "The word “livelihoods” in paragraph 10 could best be replaced by:",
+    "correct_answer": "Lives",
+    "subcategory": "Modal Verbs",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Lives'. This illustrates the proper use of modal verbs to express possibility, permission, or obligation."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "A) I suggest that he goes to the doctor.",
+      "B) I suggest that he go to the doctor.",
+      "C) I suggest that he is going to the doctor.",
+      "D) I suggest that he will go to the doctor.",
+      "E) I suggest that he has gone to the doctor."
+    ],
+    "question": "Choose the sentence that best uses the subjunctive mood.",
+    "correct_answer": "I suggest that he go to the doctor.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'I suggest that he go to the doctor.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "A) appalled",
+      "B) dismayed",
+      "C) undaunted",
+      "D) despondent",
+      "E) disheartened"
+    ],
+    "question": "Fill in the blank: \"Despite the storm, the crew remained __________, confident that the vessel would withstand the tempest.\"",
+    "correct_answer": "undaunted",
+    "subcategory": "Conjunctions and Linking Words",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'undaunted'. This shows how to properly connect ideas in English."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "A) It is an adverb modifying \"arrived.\"",
+      "B) It is a subordinating conjunction.",
+      "C) It is an interjection.",
+      "D) It is an adjective.",
+      "E) It is a preposition."
+    ],
+    "question": "In the sentence \"Hardly had she arrived when the meeting began,\" what is the function of the word \"hardly\"?",
+    "correct_answer": "It is an adverb modifying \"arrived.\"",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'It is an adverb modifying \"arrived.\"'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "A) I don’t need no help.",
+      "B) I don’t need any help.",
+      "C) I need no help.",
+      "D) I need some help.",
+      "E) I require no help."
+    ],
+    "question": "Which of the following sentences contains a double negative?",
+    "correct_answer": "I don’t need no help.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'I don’t need no help.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "A) She was happier than her sister.",
+      "B) She was more happy than her sister.",
+      "C) She was happiest than her sister.",
+      "D) She was as happy as her sister.",
+      "E) She was less happy than her sister."
+    ],
+    "question": "Correct the error in: \"She was more happier than her sister.\"",
+    "correct_answer": "She was happier than her sister.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'She was happier than her sister.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "A) Metaphor",
+      "B) Simile",
+      "C) Hyperbole",
+      "D) Alliteration",
+      "E) Personification"
+    ],
+    "question": "Identify the figure of speech in the sentence: \"Time is a thief that steals our moments.\"",
+    "correct_answer": "Personification",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Personification'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "A) He accepted the offer.",
+      "B) He took on the challenge.",
+      "C) He managed the project.",
+      "D) He completed the task.",
+      "E) He provided the information."
+    ],
+    "question": "Which sentence best uses a phrasal verb?",
+    "correct_answer": "He took on the challenge.",
+    "subcategory": "Idioms and Expressions",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'He took on the challenge.'. This is a common English expression or idiom."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "A) Subject–verb agreement error",
+      "B) Misuse of preposition",
+      "C) Punctuation error",
+      "D) Incorrect article",
+      "E) No error"
+    ],
+    "question": "In the sentence \"The manager, along with his team, were present at the meeting,\" identify the error.",
+    "correct_answer": "Subject–verb agreement error",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Subject–verb agreement error'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "A) I like tea, and I like coffee too.",
+      "B) I like tea, but I do not like coffee.",
+      "C) I like tea, and coffee is also good.",
+      "D) I like tea; coffee is my favorite.",
+      "E) I like tea because I like coffee."
+    ],
+    "question": "Select the sentence that best expresses contrast.",
+    "correct_answer": "I like tea, but I do not like coffee.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'I like tea, but I do not like coffee.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "A) For instance",
+      "B) Like",
+      "C) Such as",
+      "D) For example",
+      "E) Namely"
+    ],
+    "question": "In formal writing, which phrase is most appropriate to introduce an example?",
+    "correct_answer": "For example",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'For example'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "A) They have painted the house.",
+      "B) The house has been painted by them.",
+      "C) They painted the house.",
+      "D) The house painted by them.",
+      "E) They are painting the house."
+    ],
+    "question": "Choose the sentence that correctly uses the passive voice.",
+    "correct_answer": "The house has been painted by them.",
+    "subcategory": "Active/Passive Voice",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'The house has been painted by them.'. This demonstrates the proper construction of active/passive voice."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "A) Neither the teacher nor the students were aware of the change.",
+      "B) Neither the teacher nor the students is aware of the change.",
+      "C) Neither the teacher nor the students are aware of the change.",
+      "D) Both teacher and students were aware of the change.",
+      "E) The teacher and the students were unaware of the change."
+    ],
+    "question": "Correct the error in: \"Neither the teacher nor the students was aware of the change.\"",
+    "correct_answer": "Neither the teacher nor the students are aware of the change.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Neither the teacher nor the students are aware of the change.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "A) Scarce",
+      "B) Omnipresent",
+      "C) Rare",
+      "D) Infrequent",
+      "E) Hidden"
+    ],
+    "question": "Identify the synonym for \"ubiquitous\".",
+    "correct_answer": "Omnipresent",
+    "subcategory": "Vocabulary",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Omnipresent'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "A) Long",
+      "B) Sank",
+      "C) Exhausted",
+      "D) Chair",
+      "E) After"
+    ],
+    "question": "In the sentence \"After a long day, he sank into his chair exhausted,\" which term is used in a figurative sense?",
+    "correct_answer": "Sank",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Sank'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "A) I have a big test tomorrow; I can’t go out tonight.",
+      "B) I have a big test tomorrow, I can’t go out tonight.",
+      "C) I have a big test tomorrow; but I can’t go out tonight.",
+      "D) I have a big test tomorrow: I can’t go out tonight.",
+      "E) I have a big test tomorrow, so I can’t go out tonight."
+    ],
+    "question": "Which sentence correctly uses a semicolon?",
+    "correct_answer": "I have a big test tomorrow; I can’t go out tonight.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'I have a big test tomorrow; I can’t go out tonight.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "A) A subordinating conjunction",
+      "B) A preposition",
+      "C) An adverb",
+      "D) A coordinating conjunction",
+      "E) A pronoun"
+    ],
+    "question": "In the sentence \"Despite his wealth, he remains humble,\" what is the function of \"despite\"?",
+    "correct_answer": "A preposition",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'A preposition'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "A) She decided to leave immediately.",
+      "B) She decided leaving immediately.",
+      "C) She decided leave immediately.",
+      "D) She decided on leaving immediately.",
+      "E) She decided for leaving immediately."
+    ],
+    "question": "Which sentence correctly uses an infinitive phrase?",
+    "correct_answer": "She decided to leave immediately.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'She decided to leave immediately.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "A) A new bridge is being built.",
+      "B) A new bridge is built.",
+      "C) A new bridge was built.",
+      "D) A new bridge is building.",
+      "E) A new bridge was being built."
+    ],
+    "question": "Select the correct passive construction of \"They are building a new bridge.\"",
+    "correct_answer": "A new bridge is being built.",
+    "subcategory": "Active/Passive Voice",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'A new bridge is being built.'. This demonstrates the proper construction of active/passive voice."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "A) Indicative",
+      "B) Imperative",
+      "C) Subjunctive",
+      "D) Conditional",
+      "E) Infinitive"
+    ],
+    "question": "In the sentence \"I would rather you did not mention the incident,\" which mood is used?",
+    "correct_answer": "Subjunctive",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Subjunctive'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "A) Swimming is fun.",
+      "B) To swim is fun.",
+      "C) Swim is fun.",
+      "D) Swam is fun.",
+      "E) Swims is fun."
+    ],
+    "question": "Which sentence correctly uses a gerund?",
+    "correct_answer": "Swimming is fun.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Swimming is fun.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "A) Gooder",
+      "B) Better",
+      "C) Best",
+      "D) More good",
+      "E) Most good"
+    ],
+    "question": "Identify the correct comparative form of the adjective \"good\".",
+    "correct_answer": "Better",
+    "subcategory": "Adjectives and Adverbs",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Better'. This demonstrates correct usage of modifiers in English."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "A) She spilled the beans.",
+      "B) She removed the container.",
+      "C) She dropped the cup.",
+      "D) She shattered the glass.",
+      "E) She poured out the water."
+    ],
+    "question": "Which sentence contains an idiom?",
+    "correct_answer": "She spilled the beans.",
+    "subcategory": "Idioms and Expressions",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'She spilled the beans.'. This is a common English expression or idiom."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "A) He said: \"I am tired.\"",
+      "B) He said that he was tired.",
+      "C) He is tired, he said.",
+      "D) He said he is tired.",
+      "E) He said, \"I am tired.\""
+    ],
+    "question": "Select the sentence that correctly uses reported speech.",
+    "correct_answer": "He said that he was tired.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'He said that he was tired.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "A) A hidden curse",
+      "B) A deceptive appearance",
+      "C) A favorable turn of events",
+      "D) A sudden misfortune",
+      "E) A transparent lie"
+    ],
+    "question": "What is the meaning of the idiom \"a blessing in disguise\"?",
+    "correct_answer": "A favorable turn of events",
+    "subcategory": "Idioms and Expressions",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'A favorable turn of events'. This is a common English expression or idiom."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "A) The list of items are on the desk.",
+      "B) The list of items is on the desk.",
+      "C) The items on the list is on the desk.",
+      "D) The lists of items is on the desk.",
+      "E) The list of item are on the desk."
+    ],
+    "question": "Choose the sentence with correct subject–verb agreement.",
+    "correct_answer": "The list of items is on the desk.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'The list of items is on the desk.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "A) spellbound",
+      "B) spellbounded",
+      "C) spellbinding",
+      "D) spelled",
+      "E) spellboundly"
+    ],
+    "question": "Complete the sentence: \"The conference was so engaging that it left the audience completely __________.\"",
+    "correct_answer": "spellbound",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'spellbound'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "A) I had finished my work before you called.",
+      "B) I finished my work before you had called.",
+      "C) I have finished my work before you called.",
+      "D) I had finished my work before you call.",
+      "E) I finish my work before you called."
+    ],
+    "question": "Which sentence correctly uses the past perfect tense?",
+    "correct_answer": "I had finished my work before you called.",
+    "subcategory": "Verb Tenses",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'I had finished my work before you called.'. This question tests your understanding of English verb tenses and their proper usage in context."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "A) I went to the store, I bought apples.",
+      "B) I went to the store and bought apples.",
+      "C) Although I went to the store, I bought apples.",
+      "D) I went to the store although I bought apples.",
+      "E) I bought apples; I went to the store."
+    ],
+    "question": "Which sentence is a correctly formed complex sentence?",
+    "correct_answer": "Although I went to the store, I bought apples.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "hard",
+    "explanation": "The correct answer is 'Although I went to the store, I bought apples.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "A) My brother, a skilled guitarist, performed last night.",
+      "B) My brother a skilled guitarist performed last night.",
+      "C) My brother, a skilled guitarist performed last night.",
+      "D) My brother a skilled guitarist, performed last night.",
+      "E) My brother a skilled guitarist performed, last night."
+    ],
+    "question": "Select the sentence that correctly uses an appositive.",
+    "correct_answer": "My brother, a skilled guitarist, performed last night.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'My brother, a skilled guitarist, performed last night.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "A) She likes reading, writing, and to draw.",
+      "B) She likes to read, to write, and to draw.",
+      "C) She likes reading, writing, and drawing.",
+      "D) She likes to read, to write, and drawing.",
+      "E) She likes reading, to write, and to draw."
+    ],
+    "question": "Choose the sentence that best uses parallel structure.",
+    "correct_answer": "She likes reading, writing, and drawing.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'She likes reading, writing, and drawing.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "A) It costs money.",
+      "B) It yields results.",
+      "C) It requires payment.",
+      "D) It is over.",
+      "E) It is given as a bonus."
+    ],
+    "question": "In the sentence \"Hard work pays off,\" what does the idiom \"pays off\" mean?",
+    "correct_answer": "It yields results.",
+    "subcategory": "Idioms and Expressions",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'It yields results.'. This is a common English expression or idiom."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "A) I will have finished the report by tomorrow.",
+      "B) I will finish the report by tomorrow.",
+      "C) I finish the report by tomorrow.",
+      "D) I have finished the report by tomorrow.",
+      "E) I am finishing the report by tomorrow."
+    ],
+    "question": "Which sentence is written in the future perfect tense?",
+    "correct_answer": "I will have finished the report by tomorrow.",
+    "subcategory": "Verb Tenses",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'I will have finished the report by tomorrow.'. This question tests your understanding of English verb tenses and their proper usage in context."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "A) You can either go to the movies or stay at home.",
+      "B) You can go to either the movies or home.",
+      "C) Either you can go to the movies or you stay at home.",
+      "D) You can go to the movies or to home.",
+      "E) Either go to the movies or you can stay at home."
+    ],
+    "question": "Choose the sentence that correctly expresses an alternative using \"either/or.\"",
+    "correct_answer": "You can either go to the movies or stay at home.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'You can either go to the movies or stay at home.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "A) She is more tall than her brother.",
+      "B) She is the most tall in her class.",
+      "C) She is taller than her brother.",
+      "D) She is the tall of her class.",
+      "E) She is more taller than him."
+    ],
+    "question": "Which sentence best demonstrates correct use of comparatives?",
+    "correct_answer": "She is taller than her brother.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'She is taller than her brother.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "A) You must finish your work.",
+      "B) You might finish your work.",
+      "C) You can finish your work.",
+      "D) You should finish your work.",
+      "E) You would finish your work."
+    ],
+    "question": "Which sentence correctly uses a modal verb to express necessity?",
+    "correct_answer": "You must finish your work.",
+    "subcategory": "Modal Verbs",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'You must finish your work.'. This illustrates the proper use of modal verbs to express possibility, permission, or obligation."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "A) Adjective clause",
+      "B) Adverb clause",
+      "C) Noun clause",
+      "D) Prepositional phrase",
+      "E) Infinitive phrase"
+    ],
+    "question": "In the sentence \"The book, which was written by a famous author, is a bestseller,\" what is the function of the clause \"which was written by a famous author\"?",
+    "correct_answer": "Adjective clause",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Adjective clause'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "A) Careless",
+      "B) Thorough",
+      "C) Sloppy",
+      "D) Hasty",
+      "E) Brief"
+    ],
+    "question": "Which word is a synonym for \"meticulous\"?",
+    "correct_answer": "Thorough",
+    "subcategory": "Vocabulary",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Thorough'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "A) I only drink coffee in the morning.",
+      "B) Only I drink coffee in the morning.",
+      "C) I drink only coffee in the morning.",
+      "D) I drink coffee only in the morning.",
+      "E) I drink coffee in the only morning."
+    ],
+    "question": "Select the sentence that contains an error in word order.",
+    "correct_answer": "I drink coffee in the only morning.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'I drink coffee in the only morning.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "A) The movie, which I watched last night, was thrilling.",
+      "B) The movie which I watched last night was thrilling.",
+      "C) The movie, that I watched last night, was thrilling.",
+      "D) The movie, whom I watched last night, was thrilling.",
+      "E) The movie, whose I watched last night, was thrilling."
+    ],
+    "question": "Choose the sentence that correctly uses a relative pronoun.",
+    "correct_answer": "The movie, which I watched last night, was thrilling.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'The movie, which I watched last night, was thrilling.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "A) She went to the store for buying milk.",
+      "B) She went to the store to buy milk.",
+      "C) She went to the store for buy milk.",
+      "D) She went to the store so as buying milk.",
+      "E) She went to the store in order buying milk."
+    ],
+    "question": "Which sentence correctly expresses purpose?",
+    "correct_answer": "She went to the store to buy milk.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'She went to the store to buy milk.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "A) They will launch the new product next month.",
+      "B) The new product will be launched next month.",
+      "C) They launched the new product last month.",
+      "D) The new product launches next month.",
+      "E) They are launching the new product."
+    ],
+    "question": "Which of the following sentences is in the passive voice?",
+    "correct_answer": "The new product will be launched next month.",
+    "subcategory": "Active/Passive Voice",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'The new product will be launched next month.'. This demonstrates the proper construction of active/passive voice."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "A) That I arrived a long time before the show began",
+      "B) That I arrived after the show began",
+      "C) That I arrived immediately before the show began",
+      "D) That I arrived and the show began simultaneously",
+      "E) That I arrived without noticing the show"
+    ],
+    "question": "In the sentence \"No sooner had I arrived than the show began,\" what does \"no sooner\" imply?",
+    "correct_answer": "That I arrived immediately before the show began.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'That I arrived immediately before the show began.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "A) He said, \"I am tired.\"",
+      "B) He said that he was tired.",
+      "C) He is tired, he said.",
+      "D) He said he is tired.",
+      "E) He said, I am tired."
+    ],
+    "question": "Which of the following sentences is an example of indirect (reported) speech?",
+    "correct_answer": "He said that he was tired.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'He said that he was tired.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "A) unanimous",
+      "B) unanimity",
+      "C) unanimously",
+      "D) unanimousness",
+      "E) unanimou"
+    ],
+    "question": "Fill in the blank: \"The committee’s decision was met with _______ approval.\"",
+    "correct_answer": "unanimous",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'unanimous'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "A) If it rains tomorrow, we would cancel the picnic.",
+      "B) If it rained tomorrow, we cancel the picnic.",
+      "C) If it rains tomorrow, we will cancel the picnic.",
+      "D) If it would rain tomorrow, we cancel the picnic.",
+      "E) If it rains tomorrow, we cancel the picnic."
+    ],
+    "question": "Which sentence correctly expresses a condition?",
+    "correct_answer": "If it rains tomorrow, we will cancel the picnic.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'If it rains tomorrow, we will cancel the picnic.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "A) He likes swimming, biking, and to run.",
+      "B) He likes to swim, biking, and running.",
+      "C) He likes swimming, biking, and running.",
+      "D) He likes to swim, to bike, and running.",
+      "E) He likes swimming, to bike, and to run."
+    ],
+    "question": "Which sentence exhibits correct parallel structure?",
+    "correct_answer": "He likes swimming, biking, and running.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'He likes swimming, biking, and running.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "A) A misplaced modifier",
+      "B) Correct parallel structure",
+      "C) A fragment",
+      "D) A subject–verb agreement error",
+      "E) Misuse of an adverb"
+    ],
+    "question": "The sentence \"She not only sings but also dances beautifully\" demonstrates:",
+    "correct_answer": "Correct parallel structure",
+    "subcategory": "Conjunctions and Linking Words",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Correct parallel structure'. This shows how to properly connect ideas in English."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "A) She said that she is leaving now.",
+      "B) She said that she was leaving then.",
+      "C) She said that she was leaving now.",
+      "D) She said that she leaves now.",
+      "E) She said that she had left now."
+    ],
+    "question": "Choose the correct reported speech form for: \"She said, 'I am leaving now.'\"",
+    "correct_answer": "She said that she was leaving then.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'She said that she was leaving then.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "A) Because",
+      "B) Although",
+      "C) Therefore",
+      "D) In spite of",
+      "E) Even if"
+    ],
+    "question": "In the sentence \"Despite the fact that he was tired, he continued to work diligently,\" the phrase \"despite the fact that\" can best be replaced by:",
+    "correct_answer": "In spite of",
+    "subcategory": "Modal Verbs",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'In spite of'. This illustrates the proper use of modal verbs to express possibility, permission, or obligation."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "A) If I had known, I would have acted differently.",
+      "B) If I had known, I would act differently.",
+      "C) If I know, I would have acted differently.",
+      "D) If I had known, I would act differently.",
+      "E) If I had know, I would have acted differently."
+    ],
+    "question": "Select the sentence that correctly uses the conditional perfect.",
+    "correct_answer": "If I had known, I would have acted differently.",
+    "subcategory": "Verb Tenses",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'If I had known, I would have acted differently.'. This question tests your understanding of English verb tenses and their proper usage in context."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ I suggest that she goes to the meeting.",
+      "2/ I suggest that she go to the meeting.",
+      "3/ I suggest that she is going to the meeting.",
+      "4/ I suggest that she will go to the meeting.",
+      "5/ I suggest that she has gone to the meeting."
+    ],
+    "question": "Choose the sentence that correctly uses the subjunctive mood.",
+    "correct_answer": "I suggest that she go to the meeting.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'I suggest that she go to the meeting.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ He said he is tired.",
+      "2/ He said he was tired.",
+      "3/ He said that he is tired.",
+      "4/ He said that he was tired.",
+      "5/ He said that he had been tired."
+    ],
+    "question": "Select the correct reported speech form for: \"I am tired,\" he said.",
+    "correct_answer": "He said that he was tired.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'He said that he was tired.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ Simile",
+      "2/ Metaphor",
+      "3/ Hyperbole",
+      "4/ Personification",
+      "5/ Oxymoron"
+    ],
+    "question": "Identify the figure of speech in the sentence: \"The classroom was a zoo.\"",
+    "correct_answer": "Metaphor",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Metaphor'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ since",
+      "2/ for",
+      "3/ from",
+      "4/ during",
+      "5/ until"
+    ],
+    "question": "Fill in the blank: \"She has been working here ______ 2010.\"",
+    "correct_answer": "since",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'since'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ You must finish your work.",
+      "2/ You should finish your work.",
+      "3/ You might finish your work.",
+      "4/ You can finish your work.",
+      "5/ You would finish your work."
+    ],
+    "question": "Which sentence uses a modal verb to express possibility?",
+    "correct_answer": "You might finish your work.",
+    "subcategory": "Modal Verbs",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'You might finish your work.'. This illustrates the proper use of modal verbs to express possibility, permission, or obligation."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ They built the house.",
+      "2/ The house is built by them.",
+      "3/ The house was built by them.",
+      "4/ They are building the house.",
+      "5/ The house builds quickly."
+    ],
+    "question": "Which sentence is in the passive voice?",
+    "correct_answer": "The house was built by them.",
+    "subcategory": "Active/Passive Voice",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'The house was built by them.'. This demonstrates the proper construction of active/passive voice."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ Present simple",
+      "2/ Past simple",
+      "3/ Past perfect",
+      "4/ Future perfect",
+      "5/ Present perfect"
+    ],
+    "question": "In the sentence \"I would have helped if I had known,\" what tense is used in the conditional clause?",
+    "correct_answer": "Past perfect",
+    "subcategory": "Verb Tenses",
+    "difficulty": "hard",
+    "explanation": "The correct answer is 'Past perfect'. This question tests your understanding of English verb tenses and their proper usage in context."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ The team of experts are arriving.",
+      "2/ The team of experts is arriving.",
+      "3/ The teams of experts is arriving.",
+      "4/ The team of experts were arriving.",
+      "5/ The team of experts have arrived."
+    ],
+    "question": "Choose the sentence with correct subject–verb agreement.",
+    "correct_answer": "The team of experts is arriving.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'The team of experts is arriving.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ She is more taller than him.",
+      "2/ She is taller than him.",
+      "3/ She is most tall than him.",
+      "4/ She is taller than he.",
+      "5/ She is more tall than him."
+    ],
+    "question": "Which sentence uses a correct comparative form?",
+    "correct_answer": "She is taller than him.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'She is taller than him.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ Error in pronoun usage",
+      "2/ Error in verb agreement",
+      "3/ Error in word order",
+      "4/ Error in tense",
+      "5/ No error"
+    ],
+    "question": "Identify the error in the sentence: \"Neither the manager nor the employees was informed about the change.\"",
+    "correct_answer": "Error in verb agreement",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Error in verb agreement'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ Walking down the street, the trees were beautiful.",
+      "2/ While walking down the street, I noticed the trees were beautiful.",
+      "3/ Walking down the street, I saw many trees.",
+      "4/ The trees were beautiful as I walked down the street.",
+      "5/ I walked down the street and saw the trees."
+    ],
+    "question": "Which sentence contains a dangling modifier?",
+    "correct_answer": "Walking down the street, the trees were beautiful.",
+    "subcategory": "Adjectives and Adverbs",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Walking down the street, the trees were beautiful.'. This demonstrates correct usage of modifiers in English."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ She said \"I’m leaving now\".",
+      "2/ She said, \"I'm leaving now.\"",
+      "3/ She said \"I'm leaving now.\"",
+      "4/ She said, I’m leaving now.",
+      "5/ She said: \"I'm leaving now.\""
+    ],
+    "question": "Choose the correctly punctuated sentence.",
+    "correct_answer": "She said, \"I'm leaving now.\"",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'She said, \"I'm leaving now.\"'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ A",
+      "2/ An",
+      "3/ The",
+      "4/ No article needed",
+      "5/ Some"
+    ],
+    "question": "Fill in the blank with the correct article: \"___ elephant is a large animal.\"",
+    "correct_answer": "An",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'An'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ I wanted to go for a walk; however, it started raining.",
+      "2/ I wanted to go for a walk, however, it started raining.",
+      "3/ I wanted to go for a walk however; it started raining.",
+      "4/ I wanted to go for a walk, however; it started raining.",
+      "5/ I wanted to go for a walk; however it started raining."
+    ],
+    "question": "Which sentence demonstrates proper use of a semicolon?",
+    "correct_answer": "I wanted to go for a walk; however, it started raining.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'I wanted to go for a walk; however, it started raining.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ I bought apples, oranges and bananas.",
+      "2/ I bought apples, oranges, and bananas.",
+      "3/ I bought apples, oranges, and, bananas.",
+      "4/ I bought, apples, oranges and bananas.",
+      "5/ I bought apples, oranges, and bananas,"
+    ],
+    "question": "Select the sentence that correctly uses an Oxford comma.",
+    "correct_answer": "I bought apples, oranges, and bananas.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'I bought apples, oranges, and bananas.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ Bright",
+      "2/ Dull",
+      "3/ Colorful",
+      "4/ Lively",
+      "5/ Valiant"
+    ],
+    "question": "Which of the following is an antonym for \"vivid\"?",
+    "correct_answer": "Dull",
+    "subcategory": "Vocabulary",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Dull'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ By next week, I will finish the project.",
+      "2/ By next week, I will have finished the project.",
+      "3/ By next week, I finish the project.",
+      "4/ By next week, I had finished the project.",
+      "5/ By next week, I will be finishing the project."
+    ],
+    "question": "Choose the sentence that best uses the future perfect tense.",
+    "correct_answer": "By next week, I will have finished the project.",
+    "subcategory": "Verb Tenses",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'By next week, I will have finished the project.'. This question tests your understanding of English verb tenses and their proper usage in context."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ Indicative",
+      "2/ Subjunctive",
+      "3/ Conditional",
+      "4/ Imperative",
+      "5/ Infinitive"
+    ],
+    "question": "In the sentence \"If she had studied harder, she would have passed the exam,\" what is the mood of the verb \"had studied\"?",
+    "correct_answer": "Subjunctive",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "hard",
+    "explanation": "The correct answer is 'Subjunctive'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ The chef prepares the meal.",
+      "2/ The meal is prepared by the chef.",
+      "3/ The chef is preparing the meal.",
+      "4/ The meal prepares the chef.",
+      "5/ The chef has prepared the meal."
+    ],
+    "question": "Which sentence is written in the passive voice?",
+    "correct_answer": "The meal is prepared by the chef.",
+    "subcategory": "Active/Passive Voice",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'The meal is prepared by the chef.'. This demonstrates the proper construction of active/passive voice."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ will have eaten",
+      "2/ ate",
+      "3/ have eaten",
+      "4/ will eat",
+      "5/ are eating"
+    ],
+    "question": "Choose the correct form of the verb for the sentence: \"By the time you arrive, we ______ dinner.\"",
+    "correct_answer": "will have eaten",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'will have eaten'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ My brother, who lives in London, is a doctor.",
+      "2/ The man who lives in London is a doctor.",
+      "3/ The man that I met is a doctor.",
+      "4/ My brother that lives in London is a doctor.",
+      "5/ The man, whose I met last night, is a doctor."
+    ],
+    "question": "Which of the following sentences uses a non‑defining relative clause?",
+    "correct_answer": "My brother, who lives in London, is a doctor.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'My brother, who lives in London, is a doctor.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ because",
+      "2/ although",
+      "3/ despite",
+      "4/ since",
+      "5/ while"
+    ],
+    "question": "Fill in the blank: \"It rained heavily ______ we had to cancel the picnic.\"",
+    "correct_answer": "since",
+    "subcategory": "Modal Verbs",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'since'. This illustrates the proper use of modal verbs to express possibility, permission, or obligation."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ If you mix red and blue, you get purple.",
+      "2/ If you mixed red and blue, you would get purple.",
+      "3/ If you mix red and blue, you will get purple.",
+      "4/ If you mix red and blue, you get purples.",
+      "5/ If you mix red and blue, you got purple."
+    ],
+    "question": "Which sentence correctly demonstrates a general truth?",
+    "correct_answer": "If you mix red and blue, you get purple.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'If you mix red and blue, you get purple.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ Accomodate",
+      "2/ Acommodate",
+      "3/ Accommodate",
+      "4/ Acommadate",
+      "5/ Accomadate"
+    ],
+    "question": "Choose the correctly spelled word:",
+    "correct_answer": "Accommodate",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Accommodate'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ Alleviate",
+      "2/ Mitigate",
+      "3/ Intensify",
+      "4/ Diminish",
+      "5/ Soften"
+    ],
+    "question": "Identify the synonym for \"exacerbate.\"",
+    "correct_answer": "Intensify",
+    "subcategory": "Vocabulary",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Intensify'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ A conjunction introducing a comparative clause",
+      "2/ A preposition",
+      "3/ An adverb",
+      "4/ A noun",
+      "5/ An adjective"
+    ],
+    "question": "In the sentence \"She is as tall as her brother,\" what is the function of \"as\"?",
+    "correct_answer": "A conjunction introducing a comparative clause",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'A conjunction introducing a comparative clause'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ I was reading when the phone rang.",
+      "2/ I read when the phone rang.",
+      "3/ I have been reading when the phone rang.",
+      "4/ I was read when the phone rang.",
+      "5/ I had read when the phone rang."
+    ],
+    "question": "Which sentence best uses the past continuous tense?",
+    "correct_answer": "I was reading when the phone rang.",
+    "subcategory": "Verb Tenses",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'I was reading when the phone rang.'. This question tests your understanding of English verb tenses and their proper usage in context."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ She went to the store to buy milk.",
+      "2/ She went to the store for buying milk.",
+      "3/ She went to the store because of buying milk.",
+      "4/ She went to the store buying milk.",
+      "5/ She went to the store so buying milk."
+    ],
+    "question": "Select the sentence that correctly uses an infinitive of purpose.",
+    "correct_answer": "She went to the store to buy milk.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'She went to the store to buy milk.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ Omnipresent",
+      "2/ Rare",
+      "3/ Abundant",
+      "4/ Pervasive",
+      "5/ Prevalent"
+    ],
+    "question": "Which word is an antonym of \"ubiquitous\"?",
+    "correct_answer": "Rare",
+    "subcategory": "Vocabulary",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Rare'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ I have a big test tomorrow; I can’t go out tonight.",
+      "2/ I have a big test tomorrow, I can’t go out tonight.",
+      "3/ I have a big test tomorrow; but I can’t go out tonight.",
+      "4/ I have a big test tomorrow: I can’t go out tonight.",
+      "5/ I have a big test tomorrow, so I can’t go out tonight."
+    ],
+    "question": "Choose the sentence that best demonstrates correct use of a semicolon in a compound sentence.",
+    "correct_answer": "I have a big test tomorrow; I can’t go out tonight.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'I have a big test tomorrow; I can’t go out tonight.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ I like tea, and I like coffee too.",
+      "2/ I like tea, but I do not like coffee.",
+      "3/ I like tea, and coffee is also good.",
+      "4/ I like tea; coffee is my favorite.",
+      "5/ I like tea because I like coffee."
+    ],
+    "question": "Which sentence uses a linking word to indicate contrast?",
+    "correct_answer": "I like tea, but I do not like coffee.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'I like tea, but I do not like coffee.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ but also",
+      "2/ and also",
+      "3/ but as well as",
+      "4/ and",
+      "5/ besides"
+    ],
+    "question": "Complete the sentence: \"She is not only a talented singer, _______ a gifted dancer.\"",
+    "correct_answer": "but also",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'but also'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ The group of students are excited.",
+      "2/ The group of students is excited.",
+      "3/ The group of student is excited.",
+      "4/ The group of students have excited.",
+      "5/ The group of students were excited."
+    ],
+    "question": "Which sentence contains correct subject–verb agreement?",
+    "correct_answer": "The group of students is excited.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'The group of students is excited.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ Error in preposition.",
+      "2/ Error in verb form.",
+      "3/ Error in article usage.",
+      "4/ Error in word order.",
+      "5/ No error."
+    ],
+    "question": "Identify the error in the sentence: \"He enjoyed to read books in his free time.\"",
+    "correct_answer": "Error in verb form",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Error in verb form'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ To swim is fun.",
+      "2/ Swimming is fun.",
+      "3/ Swim is fun.",
+      "4/ Swam is fun.",
+      "5/ Swims is fun."
+    ],
+    "question": "Which sentence uses a gerund as a subject correctly?",
+    "correct_answer": "Swimming is fun.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Swimming is fun.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ I have seen that movie last week.",
+      "2/ I have seen that movie.",
+      "3/ I seen that movie.",
+      "4/ I have saw that movie.",
+      "5/ I have been seen that movie."
+    ],
+    "question": "Select the sentence that correctly uses the present perfect tense.",
+    "correct_answer": "I have seen that movie.",
+    "subcategory": "Verb Tenses",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'I have seen that movie.'. This question tests your understanding of English verb tenses and their proper usage in context."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ As soon as the bell rings, we leave.",
+      "2/ We leave as soon as the bell rings.",
+      "3/ As soon the bell rings, we leave.",
+      "4/ We leave as soon the bell rings.",
+      "5/ As soon as, the bell rings, we leave."
+    ],
+    "question": "Which sentence uses the phrase \"as soon as\" correctly?",
+    "correct_answer": "We leave as soon as the bell rings.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'We leave as soon as the bell rings.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ since",
+      "2/ for",
+      "3/ from",
+      "4/ during",
+      "5/ by"
+    ],
+    "question": "Fill in the blank: \"He has been working here ______ five years.\"",
+    "correct_answer": "for",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'for'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ She has a bright, cheerful smile.",
+      "2/ She has a bright cheerful smile.",
+      "3/ She has a bright, cheerful, smile.",
+      "4/ She has a bright cheerful, smile.",
+      "5/ She has a bright, cheerful smile."
+    ],
+    "question": "Which sentence correctly uses commas to separate adjectives?",
+    "correct_answer": "She has a bright, cheerful smile.",
+    "subcategory": "Adjectives and Adverbs",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'She has a bright, cheerful smile.'. This demonstrates correct usage of modifiers in English."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ You are coming to the party?",
+      "2/ Are you coming to the party?",
+      "3/ You coming to the party, are you?",
+      "4/ Coming to the party, are you?",
+      "5/ Are coming to the party, you?"
+    ],
+    "question": "Choose the sentence that demonstrates correct inversion in a question.",
+    "correct_answer": "Are you coming to the party?",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Are you coming to the party?'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ This book is more interesting than that one.",
+      "2/ This book is interestinger than that one.",
+      "3/ This book is more interestinger than that one.",
+      "4/ This book is most interesting than that one.",
+      "5/ This book is more tall than that one."
+    ],
+    "question": "Select the sentence that correctly uses a comparative structure with \"more...than.\"",
+    "correct_answer": "This book is more interesting than that one.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'This book is more interesting than that one.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ The car, which is red, is fast.",
+      "2/ The car which is red is fast.",
+      "3/ The car, that is red, is fast.",
+      "4/ The car, who is red, is fast.",
+      "5/ The car, whose is red, is fast."
+    ],
+    "question": "Which sentence uses a proper relative clause?",
+    "correct_answer": "The car, which is red, is fast.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'The car, which is red, is fast.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ go",
+      "2/ went",
+      "3/ will go",
+      "4/ have gone",
+      "5/ going"
+    ],
+    "question": "Complete the sentence: \"It is high time you ______ to bed.\"",
+    "correct_answer": "went",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'went'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ By the time he arrived, I had finished my work.",
+      "2/ By the time he arrived, I finished my work.",
+      "3/ By the time he arrived, I have finished my work.",
+      "4/ By the time he arrived, I had finish my work.",
+      "5/ By the time he arrived, I finish my work."
+    ],
+    "question": "Which sentence uses the past perfect tense correctly?",
+    "correct_answer": "By the time he arrived, I had finished my work.",
+    "subcategory": "Verb Tenses",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'By the time he arrived, I had finished my work.'. This question tests your understanding of English verb tenses and their proper usage in context."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ She is interested in art.",
+      "2/ She is interested about art.",
+      "3/ She is interested on art.",
+      "4/ She is interested at art.",
+      "5/ She is interested of art."
+    ],
+    "question": "Choose the sentence that uses the correct prepositional phrase.",
+    "correct_answer": "She is interested in art.",
+    "subcategory": "Prepositions",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'She is interested in art.'. This shows the correct use of prepositions in English."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ A simile",
+      "2/ A comparative degree of speed",
+      "3/ A subordinate clause",
+      "4/ An idiom meaning very slowly",
+      "5/ A causal relationship"
+    ],
+    "question": "In the sentence \"He ran as fast as he could,\" what does \"as fast as\" indicate?",
+    "correct_answer": "A comparative degree of speed",
+    "subcategory": "Modal Verbs",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'A comparative degree of speed'. This illustrates the proper use of modal verbs to express possibility, permission, or obligation."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ Look up",
+      "2/ Looker",
+      "3/ Looking",
+      "4/ Look out",
+      "5/ Both 1 and 4"
+    ],
+    "question": "Which of the following is an example of a phrasal verb?",
+    "correct_answer": "Both 1 and 4",
+    "subcategory": "Idioms and Expressions",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Both 1 and 4'. This is a common English expression or idiom."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ The project was completed on time.",
+      "2/ The project completed on time.",
+      "3/ The project is completed on time.",
+      "4/ The project was complete on time.",
+      "5/ The project had completed on time."
+    ],
+    "question": "Select the sentence with the correct passive voice in the past.",
+    "correct_answer": "The project was completed on time.",
+    "subcategory": "Verb Tenses",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'The project was completed on time.'. This question tests your understanding of English verb tenses and their proper usage in context."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ fluent",
+      "2/ fluently",
+      "3/ more fluent",
+      "4/ most fluent",
+      "5/ fluentely"
+    ],
+    "question": "Fill in the blank with the correct adverb: \"She speaks English ______.\"",
+    "correct_answer": "fluently",
+    "subcategory": "Adjectives and Adverbs",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'fluently'. This demonstrates correct usage of modifiers in English."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ If you mix red and blue, you get purple.",
+      "2/ If you mixed red and blue, you got purple.",
+      "3/ If you mix red and blue, you will got purple.",
+      "4/ If you mix red and blue, you get purples.",
+      "5/ If you mix red and blue, you got purples."
+    ],
+    "question": "Which sentence demonstrates correct use of a conditional clause?",
+    "correct_answer": "If you mix red and blue, you get purple.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'If you mix red and blue, you get purple.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ Weak",
+      "2/ Persistent",
+      "3/ Indifferent",
+      "4/ Passive",
+      "5/ Fragile"
+    ],
+    "question": "Which word is a synonym of \"tenacious\"?",
+    "correct_answer": "Persistent",
+    "subcategory": "Vocabulary",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Persistent'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ Error in article usage",
+      "2/ Error in subject–verb agreement",
+      "3/ Error in tense",
+      "4/ Error in preposition",
+      "5/ No error"
+    ],
+    "question": "Identify the error in the sentence: \"Each of the participants have submitted their essays.\"",
+    "correct_answer": "Error in subject–verb agreement",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Error in subject–verb agreement'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ She always goes to the gym.",
+      "2/ She goes always to the gym.",
+      "3/ She is always goes to the gym.",
+      "4/ Always she goes to the gym.",
+      "5/ She goes to the gym always."
+    ],
+    "question": "Choose the sentence that correctly uses an adverb of frequency.",
+    "correct_answer": "She always goes to the gym.",
+    "subcategory": "Adjectives and Adverbs",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'She always goes to the gym.'. This demonstrates correct usage of modifiers in English."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ He succeeded because he worked hard.",
+      "2/ He succeeded although he worked hard.",
+      "3/ He succeeded but he worked hard.",
+      "4/ He succeeded and he worked hard.",
+      "5/ He succeeded so he worked hard."
+    ],
+    "question": "Which sentence uses a proper conjunction to show cause?",
+    "correct_answer": "He succeeded because he worked hard.",
+    "subcategory": "Conjunctions and Linking Words",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'He succeeded because he worked hard.'. This shows how to properly connect ideas in English."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ A memory that is entirely happy.",
+      "2/ A memory that is entirely sad.",
+      "3/ A memory that combines both happiness and sadness.",
+      "4/ A memory that is confusing.",
+      "5/ A memory that is intense."
+    ],
+    "question": "In the phrase \"a bittersweet memory,\" what does the oxymoron \"bittersweet\" imply?",
+    "correct_answer": "A memory that combines both happiness and sadness.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'A memory that combines both happiness and sadness.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ I will be working at 5 PM.",
+      "2/ I will working at 5 PM.",
+      "3/ I am going to be work at 5 PM.",
+      "4/ I will work at 5 PM.",
+      "5/ I will be work at 5 PM."
+    ],
+    "question": "Which sentence correctly uses the future continuous tense?",
+    "correct_answer": "I will be working at 5 PM.",
+    "subcategory": "Verb Tenses",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'I will be working at 5 PM.'. This question tests your understanding of English verb tenses and their proper usage in context."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ athlete",
+      "2/ athletes",
+      "3/ athletic",
+      "4/ athleteic",
+      "5/ athletically"
+    ],
+    "question": "Fill in the blank: \"She is not only an excellent singer, but also an excellent ______.\"",
+    "correct_answer": "athlete",
+    "subcategory": "Conjunctions and Linking Words",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'athlete'. This shows how to properly connect ideas in English."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ To whom did you give the book?",
+      "2/ Whom did you give the book?",
+      "3/ Who did you give the book?",
+      "4/ To who did you give the book?",
+      "5/ Whom did you give the book to?"
+    ],
+    "question": "Which sentence uses \"whom\" correctly?",
+    "correct_answer": "To whom did you give the book?",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'To whom did you give the book?'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ She is as smart than her sister.",
+      "2/ She is as smart as her sister.",
+      "3/ She is smart as her sister.",
+      "4/ She is smart like her sister.",
+      "5/ She is as smarter as her sister."
+    ],
+    "question": "Which sentence contains the correct use of the \"as...as\" structure?",
+    "correct_answer": "She is as smart as her sister.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'She is as smart as her sister.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ You did see the movie?",
+      "2/ Did you see the movie?",
+      "3/ See you did the movie?",
+      "4/ The movie, did you see?",
+      "5/ Did see you the movie?"
+    ],
+    "question": "Choose the sentence with the correct word order in an interrogative sentence.",
+    "correct_answer": "Did you see the movie?",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Did you see the movie?'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ She said, \"I don't know...\"",
+      "2/ She said \"I don't know...\"",
+      "3/ She said, \"I don't know.\"",
+      "4/ She said... \"I don't know.\"",
+      "5/ She said, \"I don't know\""
+    ],
+    "question": "Select the sentence that correctly uses an ellipsis.",
+    "correct_answer": "She said, \"I don't know...\"",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'She said, \"I don't know...\"'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ Whenever he calls, I answer immediately.",
+      "2/ He calls whenever, I answer immediately.",
+      "3/ Whenever, he calls, I answer immediately.",
+      "4/ He calls whenever I answer immediately.",
+      "5/ I answer immediately whenever he calls."
+    ],
+    "question": "Which sentence uses \"whenever\" appropriately?",
+    "correct_answer": "I answer immediately whenever he calls.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'I answer immediately whenever he calls.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ I want to go, but I have to work.",
+      "2/ I want to go but, I have to work.",
+      "3/ I want, to go but I have to work.",
+      "4/ I want to go, so I have to work.",
+      "5/ I want to go, and I have to work."
+    ],
+    "question": "Choose the sentence that correctly uses a coordinating conjunction.",
+    "correct_answer": "I want to go, but I have to work.",
+    "subcategory": "Conjunctions and Linking Words",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'I want to go, but I have to work.'. This shows how to properly connect ideas in English."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ Independent clause",
+      "2/ Noun clause",
+      "3/ Adjective clause",
+      "4/ Adverb clause",
+      "5/ Prepositional phrase"
+    ],
+    "question": "In the sentence \"The teacher asked if anyone had any questions,\" what is the function of \"if anyone had any questions\"?",
+    "correct_answer": "Noun clause",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Noun clause'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ Neither the manager nor the assistant are available.",
+      "2/ Neither the manager nor the assistant is available.",
+      "3/ Neither the manager or the assistant is available.",
+      "4/ Neither the manager or the assistant are available.",
+      "5/ Neither the manager, nor the assistant are available."
+    ],
+    "question": "Which sentence correctly uses \"neither...nor\"?",
+    "correct_answer": "Neither the manager nor the assistant is available.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Neither the manager nor the assistant is available.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ unanimous",
+      "2/ unanimity",
+      "3/ unanimously",
+      "4/ unamused",
+      "5/ unanimousness"
+    ],
+    "question": "Fill in the blank: \"The committee has reached a ______ decision.\"",
+    "correct_answer": "unanimous",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'unanimous'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ I came, I saw, I conquered.",
+      "2/ I came and I saw and I conquered.",
+      "3/ I came; I saw; I conquered.",
+      "4/ I came, and I saw, and I conquered.",
+      "5/ I came, I saw and I conquered."
+    ],
+    "question": "Which of the following sentences is an example of asyndeton?",
+    "correct_answer": "I came, I saw, I conquered.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'I came, I saw, I conquered.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ Redundancy",
+      "2/ Double negative",
+      "3/ Misplaced modifier",
+      "4/ Incorrect tense",
+      "5/ No error"
+    ],
+    "question": "Identify the error in the sentence: \"He didn't know nothing about the issue.\"",
+    "correct_answer": "Double negative",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Double negative'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ While I was reading, the phone rang.",
+      "2/ While I read, the phone rang.",
+      "3/ While I had been reading, the phone rang.",
+      "4/ While I was reading, the phone ringed.",
+      "5/ While I reading, the phone rang."
+    ],
+    "question": "Which sentence demonstrates correct use of the past continuous tense?",
+    "correct_answer": "While I was reading, the phone rang.",
+    "subcategory": "Verb Tenses",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'While I was reading, the phone rang.'. This question tests your understanding of English verb tenses and their proper usage in context."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ overhaul",
+      "2/ overhauls",
+      "3/ overhauling",
+      "4/ overhauled",
+      "5/ overhaully"
+    ],
+    "question": "Which word best completes the sentence: \"The new policy will ______ the current procedures.\"",
+    "correct_answer": "overhaul",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'overhaul'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ Never have I seen such beauty.",
+      "2/ I have never seen such beauty.",
+      "3/ Never I have seen such beauty.",
+      "4/ I never have seen such beauty.",
+      "5/ Such beauty, never have I seen."
+    ],
+    "question": "Choose the sentence that best uses inversion for emphasis.",
+    "correct_answer": "Never have I seen such beauty.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Never have I seen such beauty.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ When the sun set, the sky turned orange.",
+      "2/ The sky turned orange, when the sun set.",
+      "3/ The sky turned orange when, the sun set.",
+      "4/ When, the sun set the sky turned orange.",
+      "5/ When the sun set the sky turned, orange."
+    ],
+    "question": "Which sentence correctly uses an adverbial clause of time?",
+    "correct_answer": "When the sun set, the sky turned orange.",
+    "subcategory": "Adjectives and Adverbs",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'When the sun set, the sky turned orange.'. This demonstrates correct usage of modifiers in English."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ She is the most beautiful of the group.",
+      "2/ She is the more beautiful of the group.",
+      "3/ She is the most beautiful of the groups.",
+      "4/ She is the beauty of the group.",
+      "5/ She is the best beautiful of the group."
+    ],
+    "question": "Select the sentence that uses the correct superlative form.",
+    "correct_answer": "She is the most beautiful of the group.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'She is the most beautiful of the group.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ Wow, that’s amazing!",
+      "2/ Wow that’s amazing!",
+      "3/ Wow; that’s amazing!",
+      "4/ Wow: that’s amazing!",
+      "5/ Wow - that’s amazing!"
+    ],
+    "question": "Which sentence contains a correctly used interjection?",
+    "correct_answer": "Wow, that’s amazing!",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Wow, that’s amazing!'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ Honestly",
+      "2/ Honest",
+      "3/ Honesty",
+      "4/ Honestly speaking",
+      "5/ Honorable"
+    ],
+    "question": "Fill in the blank: \"________, I can’t believe you did that!\"",
+    "correct_answer": "Honestly",
+    "subcategory": "Modal Verbs",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Honestly'. This illustrates the proper use of modal verbs to express possibility, permission, or obligation."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ They had been waiting for an hour when the bus arrived.",
+      "2/ They have been waiting for an hour when the bus arrived.",
+      "3/ They had waited for an hour when the bus arrived.",
+      "4/ They waited for an hour when the bus arrived.",
+      "5/ They are waiting for an hour when the bus arrived."
+    ],
+    "question": "Which sentence correctly uses the past perfect continuous tense?",
+    "correct_answer": "They had been waiting for an hour when the bus arrived.",
+    "subcategory": "Verb Tenses",
+    "difficulty": "hard",
+    "explanation": "The correct answer is 'They had been waiting for an hour when the bus arrived.'. This question tests your understanding of English verb tenses and their proper usage in context."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ Occurrence",
+      "2/ Occurence",
+      "3/ Occurence",
+      "4/ Ocurrence",
+      "5/ Occurrence"
+    ],
+    "question": "Identify the correctly spelled word.",
+    "correct_answer": "Occurrence",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Occurrence'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ You must leave now.",
+      "2/ You might leave now.",
+      "3/ You can leave now.",
+      "4/ You would leave now.",
+      "5/ You should leave now."
+    ],
+    "question": "Which sentence uses a modal verb to express permission?",
+    "correct_answer": "You can leave now.",
+    "subcategory": "Modal Verbs",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'You can leave now.'. This illustrates the proper use of modal verbs to express possibility, permission, or obligation."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ Future simple",
+      "2/ Future continuous",
+      "3/ Future perfect",
+      "4/ Present perfect",
+      "5/ Past perfect"
+    ],
+    "question": "In the sentence \"The project will be completed by next week,\" what tense is used?",
+    "correct_answer": "Future perfect",
+    "subcategory": "Verb Tenses",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Future perfect'. This question tests your understanding of English verb tenses and their proper usage in context."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ No sooner had I arrived than the meeting started.",
+      "2/ I had no sooner arrived than the meeting started.",
+      "3/ No sooner I arrived than the meeting started.",
+      "4/ No sooner did I arrive than the meeting started.",
+      "5/ No sooner had I arrived, than the meeting started."
+    ],
+    "question": "Choose the sentence that correctly uses the phrase \"no sooner...than.\"",
+    "correct_answer": "No sooner had I arrived than the meeting started.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'No sooner had I arrived than the meeting started.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ She likes to read, writing, and to draw.",
+      "2/ She likes reading, writing, and drawing.",
+      "3/ She likes to read, to write, and drawing.",
+      "4/ She likes reading, to write, and drawing.",
+      "5/ She likes reading, to bike, and to run."
+    ],
+    "question": "Which sentence demonstrates correct parallel structure?",
+    "correct_answer": "She likes reading, writing, and drawing.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'She likes reading, writing, and drawing.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ You're coming, aren't you?",
+      "2/ You're coming, don't you?",
+      "3/ You're coming, do you?",
+      "4/ You're coming, won't you?",
+      "5/ You're coming, have you?"
+    ],
+    "question": "Which of the following is a correctly formed question tag?",
+    "correct_answer": "You're coming, aren't you?",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'You're coming, aren't you?'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ She said, \"I am not sure...\"",
+      "2/ She said, \"I am not sure . . .\"",
+      "3/ She said... \"I am not sure\"",
+      "4/ She said, \"I am... not sure\"",
+      "5/ She said, \"I... am not sure\""
+    ],
+    "question": "Select the sentence that correctly uses an ellipsis for omission.",
+    "correct_answer": "She said, \"I am not sure . . .\"",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'She said, \"I am not sure . . .\"'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ He bought: apples, oranges, and bananas.",
+      "2/ He bought apples, oranges, and bananas.",
+      "3/ He bought the following: apples, oranges, and bananas.",
+      "4/ He bought the following items: apples, oranges, and bananas.",
+      "5/ He bought, apples, oranges, and bananas:"
+    ],
+    "question": "Which sentence correctly uses a colon to introduce a list?",
+    "correct_answer": "He bought the following items: apples, oranges, and bananas.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'He bought the following items: apples, oranges, and bananas.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ Both the manager and the employees are present.",
+      "2/ The manager and the employees are present.",
+      "3/ Either the manager or the employees are present.",
+      "4/ Neither the manager nor the employees are present.",
+      "5/ Both the manager but also the employees are present."
+    ],
+    "question": "Which sentence best demonstrates the use of a correlative conjunction?",
+    "correct_answer": "Both the manager and the employees are present.",
+    "subcategory": "Conjunctions and Linking Words",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Both the manager and the employees are present.'. This shows how to properly connect ideas in English."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ because",
+      "2/ although",
+      "3/ while",
+      "4/ since",
+      "5/ whereas"
+    ],
+    "question": "Fill in the blank: \"I cannot decide whether to attend the conference ______ the cost is too high.\"",
+    "correct_answer": "since",
+    "subcategory": "Modal Verbs",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'since'. This illustrates the proper use of modal verbs to express possibility, permission, or obligation."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ I'm so hungry I could eat a horse.",
+      "2/ I am hungry.",
+      "3/ I need food.",
+      "4/ I could use some food.",
+      "5/ I am famished."
+    ],
+    "question": "Which of the following is an example of a hyperbole?",
+    "correct_answer": "I'm so hungry I could eat a horse.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'I'm so hungry I could eat a horse.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ There are less people here today.",
+      "2/ There are fewer people here today.",
+      "3/ There are less persons here today.",
+      "4/ There are fewer persons here today.",
+      "5/ There are less of people here today."
+    ],
+    "question": "Which sentence uses \"fewer\" correctly?",
+    "correct_answer": "There are fewer people here today.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'There are fewer people here today.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ The car that he bought last week is red.",
+      "2/ The car, which he bought last week, is red.",
+      "3/ The car that he bought last week, is red.",
+      "4/ The car, who he bought last week, is red.",
+      "5/ The car, whose he bought last week, is red."
+    ],
+    "question": "Identify the sentence with a correctly used relative clause.",
+    "correct_answer": "The car, which he bought last week, is red.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'The car, which he bought last week, is red.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ She is extremely talented.",
+      "2/ She is extreme talented.",
+      "3/ She is most talentedly.",
+      "4/ She is very talent.",
+      "5/ She is quite talent."
+    ],
+    "question": "Which sentence correctly uses an adverb of degree?",
+    "correct_answer": "She is extremely talented.",
+    "subcategory": "Adjectives and Adverbs",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'She is extremely talented.'. This demonstrates correct usage of modifiers in English."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ Although it was raining, we went for a walk.",
+      "2/ Because it was raining, we went for a walk.",
+      "3/ Since it was raining, we went for a walk.",
+      "4/ Even if it was raining, we went for a walk.",
+      "5/ If it was raining, we went for a walk."
+    ],
+    "question": "Choose the sentence that correctly expresses a concession.",
+    "correct_answer": "Although it was raining, we went for a walk.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Although it was raining, we went for a walk.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ She bought a beautiful, small, old Italian car.",
+      "2/ She bought a small, old, beautiful Italian car.",
+      "3/ She bought a beautiful old small Italian car.",
+      "4/ She bought an old, small, beautiful Italian car.",
+      "5/ She bought a small, beautiful, old Italian car."
+    ],
+    "question": "Which sentence uses the correct order of adjectives?",
+    "correct_answer": "She bought a beautiful, small, old Italian car.",
+    "subcategory": "Adjectives and Adverbs",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'She bought a beautiful, small, old Italian car.'. This demonstrates correct usage of modifiers in English."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ strong",
+      "2/ stronger",
+      "3/ strongly",
+      "4/ most strong",
+      "5/ strongish"
+    ],
+    "question": "Fill in the blank: \"He is as ______ as his father.\"",
+    "correct_answer": "strong",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'strong'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ Whenever he calls, I answer immediately.",
+      "2/ He calls whenever, I answer immediately.",
+      "3/ Whenever, he calls, I answer immediately.",
+      "4/ He calls whenever I answer immediately.",
+      "5/ I answer immediately whenever he calls."
+    ],
+    "question": "Which sentence uses \"whenever\" correctly to express frequency?",
+    "correct_answer": "Whenever he calls, I answer immediately.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Whenever he calls, I answer immediately.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ She will visited Paris last year.",
+      "2/ She visited Paris last year.",
+      "3/ She has visited Paris last year.",
+      "4/ She visits Paris last year.",
+      "5/ She was visited Paris last year."
+    ],
+    "question": "Which sentence uses the past simple tense correctly?",
+    "correct_answer": "She visited Paris last year.",
+    "subcategory": "Verb Tenses",
+    "difficulty": "easy",
+    "explanation": "The correct answer is 'She visited Paris last year.'. This question tests your understanding of English verb tenses and their proper usage in context."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ Noun clause",
+      "2/ Adjective (relative) clause",
+      "3/ Adverb clause",
+      "4/ Independent clause",
+      "5/ Prepositional phrase"
+    ],
+    "question": "In the sentence \"The team, which had trained hard, won the match,\" what type of clause is \"which had trained hard\"?",
+    "correct_answer": "Adjective (relative) clause",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Adjective (relative) clause'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ Few students attended the lecture.",
+      "2/ A few students attended the lecture.",
+      "3/ The few students attended the lecture.",
+      "4/ Both 1 and 3.",
+      "5/ All of the above."
+    ],
+    "question": "Which sentence correctly uses \"few\" to indicate scarcity?",
+    "correct_answer": "Both 1 and 3.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Both 1 and 3.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ Accommodation",
+      "2/ Acommodation",
+      "3/ Accomodation",
+      "4/ Acommadation",
+      "5/ Accomadation"
+    ],
+    "question": "Select the correctly spelled word:",
+    "correct_answer": "Accommodation",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Accommodation'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ Walking down the street, the rain started.",
+      "2/ Walking down the street, I saw the rain.",
+      "3/ I saw the rain, walking down the street.",
+      "4/ The rain, walking down the street, started.",
+      "5/ Walking down the street, the rain started falling."
+    ],
+    "question": "Choose the sentence that correctly uses a participial phrase.",
+    "correct_answer": "Walking down the street, I saw the rain.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Walking down the street, I saw the rain.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ 5 + 3 × 2 = 16",
+      "2/ (5 + 3) × 2 = 16",
+      "3/ 5 + (3 × 2) = 11",
+      "4/ 5 + 3 × 2 = 11",
+      "5/ (5 × 3) + 2 = 17"
+    ],
+    "question": "Which sentence uses the correct order of operations in a mathematical expression?",
+    "correct_answer": "5 + (3 × 2) = 11",
+    "subcategory": "Idioms and Expressions",
+    "difficulty": "medium",
+    "explanation": "The correct answer is '5 + (3 × 2) = 11'. This is a common English expression or idiom."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ If I had known, I would have acted differently.",
+      "2/ If I had known, I would act differently.",
+      "3/ If I know, I would have acted differently.",
+      "4/ If I had known, I would act differently.",
+      "5/ If I had know, I would have acted differently."
+    ],
+    "question": "(Niveau IAE – Compréhension et Expression en Anglais)",
+    "correct_answer": "If I had known, I would have acted differently.",
+    "subcategory": "Idioms and Expressions",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'If I had known, I would have acted differently.'. This is a common English expression or idiom."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ He barely passed the exam.",
+      "2/ He hardly passed the exam.",
+      "3/ He scarcely passed the exam.",
+      "4/ He almost passed the exam.",
+      "5/ He nearly passed the exam."
+    ],
+    "question": "Which sentence best uses the adverb \"barely\" to indicate a minimal degree?",
+    "correct_answer": "He barely passed the exam.",
+    "subcategory": "Adjectives and Adverbs",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'He barely passed the exam.'. This demonstrates correct usage of modifiers in English."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ more beautifully",
+      "2/ most beautifully",
+      "3/ beautifuler",
+      "4/ beautifully",
+      "5/ more beautiful"
+    ],
+    "question": "Fill in the blank: \"She sings ______ than anyone I know.\"",
+    "correct_answer": "more beautifully",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'more beautifully'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ Although he was tired, he finished his work.",
+      "2/ Because he was tired, he finished his work.",
+      "3/ Since he was tired, he finished his work.",
+      "4/ If he was tired, he finished his work.",
+      "5/ While he was tired, he finished his work."
+    ],
+    "question": "Which sentence correctly uses an adverbial clause of concession?",
+    "correct_answer": "Although he was tired, he finished his work.",
+    "subcategory": "Adjectives and Adverbs",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Although he was tired, he finished his work.'. This demonstrates correct usage of modifiers in English."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ Never have I seen such a mess.",
+      "2/ I have never seen such a mess.",
+      "3/ Never I have seen such a mess.",
+      "4/ Such a mess, I have never seen.",
+      "5/ I never have seen such a mess."
+    ],
+    "question": "Select the sentence that demonstrates correct inversion in a negative adverbial phrase.",
+    "correct_answer": "Never have I seen such a mess.",
+    "subcategory": "Adjectives and Adverbs",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Never have I seen such a mess.'. This demonstrates correct usage of modifiers in English."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ She is reading a book now.",
+      "2/ She reads a book now.",
+      "3/ She is read a book now.",
+      "4/ She reading a book now.",
+      "5/ She has reading a book now."
+    ],
+    "question": "Which sentence correctly uses the present continuous tense?",
+    "correct_answer": "She is reading a book now.",
+    "subcategory": "Verb Tenses",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'She is reading a book now.'. This question tests your understanding of English verb tenses and their proper usage in context."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ Whilst I was working, he was watching TV.",
+      "2/ While I was working, he was watching TV.",
+      "3/ Whilst I work, he was watching TV.",
+      "4/ Whilst I was working, he watched TV.",
+      "5/ While I work, he is watching TV."
+    ],
+    "question": "Choose the sentence that correctly uses the word \"whilst\" in British English.",
+    "correct_answer": "Whilst I was working, he was watching TV.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Whilst I was working, he was watching TV.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ alone",
+      "2/ solo",
+      "3/ by himself",
+      "4/ unaccompanied",
+      "5/ individually"
+    ],
+    "question": "Fill in the blank: \"He couldn’t decide whether to join the team or work ______ independently.\"",
+    "correct_answer": "by himself",
+    "subcategory": "Modal Verbs",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'by himself'. This illustrates the proper use of modal verbs to express possibility, permission, or obligation."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ While the sun was setting, we enjoyed our dinner.",
+      "2/ While the sun set, we enjoyed our dinner.",
+      "3/ While the sun had set, we enjoyed our dinner.",
+      "4/ While the sun is setting, we enjoyed our dinner.",
+      "5/ While the sun sets, we enjoyed our dinner."
+    ],
+    "question": "Which sentence correctly uses the past continuous to describe background action?",
+    "correct_answer": "While the sun was setting, we enjoyed our dinner.",
+    "subcategory": "Verb Tenses",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'While the sun was setting, we enjoyed our dinner.'. This question tests your understanding of English verb tenses and their proper usage in context."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ mediocre",
+      "2/ astounding",
+      "3/ lackluster",
+      "4/ adequate",
+      "5/ pedestrian"
+    ],
+    "question": "Which word best completes the sentence: \"Her performance was ______, leaving the audience speechless.\"",
+    "correct_answer": "astounding",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'astounding'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ If I were you, I would reconsider the offer.",
+      "2/ If I was you, I would reconsider the offer.",
+      "3/ If I were you, I will reconsider the offer.",
+      "4/ If I was you, I will reconsider the offer.",
+      "5/ If I were you, I reconsider the offer."
+    ],
+    "question": "Choose the sentence that uses a correct conditional clause in the present unreal condition.",
+    "correct_answer": "If I were you, I would reconsider the offer.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'If I were you, I would reconsider the offer.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ He usually goes jogging in the morning.",
+      "2/ He goes usually jogging in the morning.",
+      "3/ He usually go jogging in the morning.",
+      "4/ He is usually going jogging in the morning.",
+      "5/ He usual goes jogging in the morning."
+    ],
+    "question": "Select the sentence that correctly uses an adverb of frequency.",
+    "correct_answer": "He usually goes jogging in the morning.",
+    "subcategory": "Adjectives and Adverbs",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'He usually goes jogging in the morning.'. This demonstrates correct usage of modifiers in English."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ She's feeling under the weather.",
+      "2/ She's feeling beneath the weather.",
+      "3/ She's feeling under weather.",
+      "4/ She's feeling over the weather.",
+      "5/ She's feeling at the weather."
+    ],
+    "question": "Which sentence contains a correctly used idiom?",
+    "correct_answer": "She's feeling under the weather.",
+    "subcategory": "Idioms and Expressions",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'She's feeling under the weather.'. This is a common English expression or idiom."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ promptly",
+      "2/ early",
+      "3/ late",
+      "4/ eventually",
+      "5/ suddenly"
+    ],
+    "question": "Fill in the blank: \"He arrived ______, just as the meeting was beginning.\"",
+    "correct_answer": "promptly",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'promptly'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ I have been studying for three hours.",
+      "2/ I have studied for three hours.",
+      "3/ I had been studying for three hours.",
+      "4/ I am studying for three hours.",
+      "5/ I was studying for three hours."
+    ],
+    "question": "Which sentence demonstrates correct use of the present perfect continuous tense?",
+    "correct_answer": "I have been studying for three hours.",
+    "subcategory": "Verb Tenses",
+    "difficulty": "hard",
+    "explanation": "The correct answer is 'I have been studying for three hours.'. This question tests your understanding of English verb tenses and their proper usage in context."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ Neither the teacher nor the students was happy.",
+      "2/ Neither the teacher nor the students were happy.",
+      "3/ Neither the teacher or the students were happy.",
+      "4/ Neither the teacher, nor the students was happy.",
+      "5/ Neither the teacher nor the students are happy."
+    ],
+    "question": "Choose the sentence that correctly uses \"neither...nor\" for two negative alternatives.",
+    "correct_answer": "Neither the teacher nor the students were happy.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Neither the teacher nor the students were happy.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ He is as tall than his brother.",
+      "2/ He is as tall as his brother.",
+      "3/ He is tall as his brother.",
+      "4/ He is tall like his brother.",
+      "5/ He is more tall than his brother."
+    ],
+    "question": "Which sentence uses a comparative correctly with \"as...as\"?",
+    "correct_answer": "He is as tall as his brother.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'He is as tall as his brother.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ Here comes the bus.",
+      "2/ Here come the bus.",
+      "3/ Here comes the buses.",
+      "4/ Here come the buses.",
+      "5/ Here is the buses."
+    ],
+    "question": "Select the sentence that employs correct subject–verb agreement in an inverted sentence.",
+    "correct_answer": "Here comes the bus.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Here comes the bus.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ forgot",
+      "2/ forgotten",
+      "3/ forget",
+      "4/ forgetting",
+      "5/ for get"
+    ],
+    "question": "Fill in the blank: \"He must have ______ his keys at home.\"",
+    "correct_answer": "forgotten",
+    "subcategory": "Modal Verbs",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'forgotten'. This illustrates the proper use of modal verbs to express possibility, permission, or obligation."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ This time tomorrow, I will be flying to New York.",
+      "2/ This time tomorrow, I will fly to New York.",
+      "3/ This time tomorrow, I am flying to New York.",
+      "4/ This time tomorrow, I will have flown to New York.",
+      "5/ This time tomorrow, I fly to New York."
+    ],
+    "question": "Which sentence correctly uses the future continuous tense?",
+    "correct_answer": "This time tomorrow, I will be flying to New York.",
+    "subcategory": "Verb Tenses",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'This time tomorrow, I will be flying to New York.'. This question tests your understanding of English verb tenses and their proper usage in context."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ She sang beautifully in the concert hall.",
+      "2/ She sang beautifully the concert hall.",
+      "3/ She sang beautifully at the concert hall.",
+      "4/ She sang beautifully on the concert hall.",
+      "5/ She sang beautifully by the concert hall."
+    ],
+    "question": "Choose the sentence that correctly uses a prepositional phrase as an adverbial modifier.",
+    "correct_answer": "She sang beautifully at the concert hall.",
+    "subcategory": "Prepositions",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'She sang beautifully at the concert hall.'. This shows the correct use of prepositions in English."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ Rarely have I seen such dedication.",
+      "2/ Rarely I have seen such dedication.",
+      "3/ I rarely have seen such dedication.",
+      "4/ Rarely have I seen such dedication, have I?",
+      "5/ I have rarely seen such dedication."
+    ],
+    "question": "Which sentence uses a correct negative inversion?",
+    "correct_answer": "Rarely have I seen such dedication.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Rarely have I seen such dedication.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ Both the director and the assistant were present.",
+      "2/ The director and the assistant were present.",
+      "3/ Either the director or the assistant were present.",
+      "4/ Neither the director nor the assistant was present.",
+      "5/ Both the director but also the assistant were present."
+    ],
+    "question": "Select the sentence that correctly uses a correlative conjunction.",
+    "correct_answer": "Both the director and the assistant were present.",
+    "subcategory": "Conjunctions and Linking Words",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Both the director and the assistant were present.'. This shows how to properly connect ideas in English."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ had known",
+      "2/ knew",
+      "3/ knows",
+      "4/ will know",
+      "5/ would know"
+    ],
+    "question": "Fill in the blank: \"He would have called you if he ______ your number.\"",
+    "correct_answer": "had known",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "hard",
+    "explanation": "The correct answer is 'had known'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ She is merely a student.",
+      "2/ She is only a student.",
+      "3/ She is merely student.",
+      "4/ She is just a student.",
+      "5/ She is merely the student."
+    ],
+    "question": "Which sentence correctly uses the adverb \"merely\" to indicate \"only\"?",
+    "correct_answer": "She is merely a student.",
+    "subcategory": "Adjectives and Adverbs",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'She is merely a student.'. This demonstrates correct usage of modifiers in English."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ They continued the project regardless the cost.",
+      "2/ They continued the project regardless of the cost.",
+      "3/ They continued the project regardless about the cost.",
+      "4/ They continued the project regardless to the cost.",
+      "5/ They continued the project regardless for the cost."
+    ],
+    "question": "Which sentence correctly uses the phrase \"regardless of\"?",
+    "correct_answer": "They continued the project regardless of the cost.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'They continued the project regardless of the cost.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ My brother (a talented musician) lives in Boston.",
+      "2/ My brother, a talented musician, lives in Boston.",
+      "3/ My brother a talented musician, lives in Boston.",
+      "4/ My brother (a talented musician, lives in Boston.",
+      "5/ My brother a talented musician) lives in Boston."
+    ],
+    "question": "Identify the correctly punctuated sentence using a parenthetical remark.",
+    "correct_answer": "My brother, a talented musician, lives in Boston.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'My brother, a talented musician, lives in Boston.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ The report has been written by the team.",
+      "2/ The report is written by the team.",
+      "3/ The report has written by the team.",
+      "4/ The report was written by the team.",
+      "5/ The report is being written by the team."
+    ],
+    "question": "Choose the sentence that correctly employs the passive voice in the present perfect.",
+    "correct_answer": "The report has been written by the team.",
+    "subcategory": "Verb Tenses",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'The report has been written by the team.'. This question tests your understanding of English verb tenses and their proper usage in context."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ is",
+      "2/ are",
+      "3/ was",
+      "4/ were",
+      "5/ be"
+    ],
+    "question": "Fill in the blank: \"It seems as though no one ______ responsible for the mistake.\"",
+    "correct_answer": "is",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'is'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ Choose whichever book you like best.",
+      "2/ Choose whatever book you like best.",
+      "3/ Choose whichever book you like bestly.",
+      "4/ Choose whichever books you like best.",
+      "5/ Choose whichever book, you like best."
+    ],
+    "question": "Which sentence correctly employs the use of \"whichever\"?",
+    "correct_answer": "Choose whichever book you like best.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Choose whichever book you like best.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ I have visited Japan three times.",
+      "2/ I visited Japan three times.",
+      "3/ I have visit Japan three times.",
+      "4/ I have been visited Japan three times.",
+      "5/ I have been visiting Japan three times."
+    ],
+    "question": "Which sentence correctly uses the present perfect to indicate life experience?",
+    "correct_answer": "I have visited Japan three times.",
+    "subcategory": "Verb Tenses",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'I have visited Japan three times.'. This question tests your understanding of English verb tenses and their proper usage in context."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ He invariably arrives early for meetings.",
+      "2/ He arrives invariably early for meetings.",
+      "3/ He invariably arrives early meetings.",
+      "4/ Invariably, he arrives early for meetings.",
+      "5/ Both 1 and 4 are correct."
+    ],
+    "question": "Select the sentence that uses the adverb \"invariably\" correctly.",
+    "correct_answer": "Both 1 and 4 are correct.",
+    "subcategory": "Adjectives and Adverbs",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Both 1 and 4 are correct.'. This demonstrates correct usage of modifiers in English."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ My car that is red is parked outside.",
+      "2/ My car, which is red, is parked outside.",
+      "3/ My car, that is red, is parked outside.",
+      "4/ My car which is red, is parked outside.",
+      "5/ My car that is red, is parked outside."
+    ],
+    "question": "Which sentence correctly uses a comma with a non‑restrictive clause?",
+    "correct_answer": "My car, which is red, is parked outside.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'My car, which is red, is parked outside.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ for",
+      "2/ so",
+      "3/ and",
+      "4/ but",
+      "5/ because"
+    ],
+    "question": "Fill in the blank: \"They will meet you at the station, _______ they will call you if there are any delays.\"",
+    "correct_answer": "and",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'and'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ He finished his homework last night.",
+      "2/ He finishes his homework last night.",
+      "3/ He has finished his homework last night.",
+      "4/ He finishing his homework last night.",
+      "5/ He finish his homework last night."
+    ],
+    "question": "Which sentence correctly uses the past simple for completed actions?",
+    "correct_answer": "He finished his homework last night.",
+    "subcategory": "Verb Tenses",
+    "difficulty": "easy",
+    "explanation": "The correct answer is 'He finished his homework last night.'. This question tests your understanding of English verb tenses and their proper usage in context."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ After the show, we went for dinner.",
+      "2/ After the show we went for dinner.",
+      "3/ After, the show, we went for dinner.",
+      "4/ After the show, we went, for dinner.",
+      "5/ After the show we went, for dinner."
+    ],
+    "question": "Identify the correctly punctuated sentence with an introductory phrase.",
+    "correct_answer": "After the show, we went for dinner.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'After the show, we went for dinner.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ Despite the rain, we continued our hike.",
+      "2/ Despite of the rain, we continued our hike.",
+      "3/ In spite the rain, we continued our hike.",
+      "4/ Despite the rain we continued our hike.",
+      "5/ Even though the rain, we continued our hike."
+    ],
+    "question": "Which sentence correctly uses \"despite\" to introduce a contrasting idea?",
+    "correct_answer": "Despite the rain, we continued our hike.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Despite the rain, we continued our hike.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ who",
+      "2/ which",
+      "3/ that",
+      "4/ whom",
+      "5/ whose"
+    ],
+    "question": "Fill in the blank: \"He is one of those people ______ always makes everyone smile.\"",
+    "correct_answer": "who",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'who'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ My friend Sarah is coming to dinner.",
+      "2/ My friend, Sarah, is coming to dinner.",
+      "3/ My friend, Sarah is coming to dinner.",
+      "4/ My friend Sarah, is coming to dinner.",
+      "5/ My friend; Sarah, is coming to dinner."
+    ],
+    "question": "Which sentence correctly employs a non‑restrictive appositive?",
+    "correct_answer": "My friend, Sarah, is coming to dinner.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'My friend, Sarah, is coming to dinner.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ Call me whenever you need help.",
+      "2/ Call me, whenever you need help.",
+      "3/ Call me whenever, you need help.",
+      "4/ Whenever call me you need help.",
+      "5/ Call me whenever you need helps."
+    ],
+    "question": "Choose the sentence that correctly uses \"whenever\" to indicate any time something happens.",
+    "correct_answer": "Call me whenever you need help.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Call me whenever you need help.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ By the time we arrived, the show had started.",
+      "2/ By the time we arrived, the show started.",
+      "3/ By the time we arrived, the show has started.",
+      "4/ By the time we arrived, the show will start.",
+      "5/ By the time we arrived, the show starts."
+    ],
+    "question": "Which sentence correctly uses the phrase \"by the time\"?",
+    "correct_answer": "By the time we arrived, the show had started.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'By the time we arrived, the show had started.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ reject",
+      "2/ to reject",
+      "3/ rejecting",
+      "4/ rejected",
+      "5/ rejects"
+    ],
+    "question": "Fill in the blank: \"He couldn't decide whether to accept the offer or ______ a counterproposal.\"",
+    "correct_answer": "reject",
+    "subcategory": "Modal Verbs",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'reject'. This illustrates the proper use of modal verbs to express possibility, permission, or obligation."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ This task is more easy than that one.",
+      "2/ This task is easier than that one.",
+      "3/ This task is more easier than that one.",
+      "4/ This task is most easy than that one.",
+      "5/ This task is easyer than that one."
+    ],
+    "question": "Which sentence correctly employs the comparative form \"more... than\" for adjectives with two syllables?",
+    "correct_answer": "This task is easier than that one.",
+    "subcategory": "Adjectives and Adverbs",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'This task is easier than that one.'. This demonstrates correct usage of modifiers in English."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ The teacher who teaches math is absent.",
+      "2/ The teacher which teaches math is absent.",
+      "3/ The teacher, who teaches math, is absent.",
+      "4/ The teacher, whom teaches math, is absent.",
+      "5/ The teacher that teaches math, is absent."
+    ],
+    "question": "Select the sentence that correctly uses a relative pronoun to refer to people.",
+    "correct_answer": "The teacher who teaches math is absent.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'The teacher who teaches math is absent.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ Where are you going?",
+      "2/ You are going where?",
+      "3/ Where you are going?",
+      "4/ Where do you going?",
+      "5/ Where is you going?"
+    ],
+    "question": "Which sentence best demonstrates correct inversion in a question?",
+    "correct_answer": "Where are you going?",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Where are you going?'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ since",
+      "2/ for",
+      "3/ during",
+      "4/ from",
+      "5/ by"
+    ],
+    "question": "Fill in the blank: \"He has worked here _______ 2005.\"",
+    "correct_answer": "since",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'since'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ Both the students and the teachers participated.",
+      "2/ Both the students, and the teachers participated.",
+      "3/ The students and also the teachers participated.",
+      "4/ Either the students or the teachers participated.",
+      "5/ Not only the students, but also the teachers participated."
+    ],
+    "question": "Which sentence correctly uses a correlative pair to show balance?",
+    "correct_answer": "Not only the students, but also the teachers participated.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Not only the students, but also the teachers participated.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ Incorrect use of comparative",
+      "2/ Incorrect subject–verb agreement",
+      "3/ Tense error",
+      "4/ Punctuation error",
+      "5/ No error"
+    ],
+    "question": "Identify the error in the sentence: \"She was more happier than her sister.\"",
+    "correct_answer": "Incorrect use of comparative",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Incorrect use of comparative'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ The movie was extremely interesting.",
+      "2/ The movie was extreme interesting.",
+      "3/ The movie was more interesting.",
+      "4/ The movie was interestingly.",
+      "5/ The movie was interestingly."
+    ],
+    "question": "Choose the sentence that correctly uses an adverb to modify an adjective.",
+    "correct_answer": "The movie was extremely interesting.",
+    "subcategory": "Adjectives and Adverbs",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'The movie was extremely interesting.'. This demonstrates correct usage of modifiers in English."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ You will fail unless you study hard.",
+      "2/ You will fail if you study hard.",
+      "3/ You will fail unless you studied hard.",
+      "4/ You will fail if you don't study hard.",
+      "5/ You will fail unless you study hardly."
+    ],
+    "question": "Which sentence correctly uses \"unless\" to express a condition?",
+    "correct_answer": "You will fail unless you study hard.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'You will fail unless you study hard.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ which",
+      "2/ that",
+      "3/ who",
+      "4/ where",
+      "5/ whom"
+    ],
+    "question": "Fill in the blank: \"The book, _______ was written in 1920, remains a classic.\"",
+    "correct_answer": "which",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'which'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ Tomorrow, I will be driving to work.",
+      "2/ Tomorrow, I drive to work.",
+      "3/ Tomorrow, I will drive to work.",
+      "4/ Tomorrow, I am driving to work.",
+      "5/ Tomorrow, I will have driven to work."
+    ],
+    "question": "Which sentence correctly uses a future continuous form?",
+    "correct_answer": "Tomorrow, I will be driving to work.",
+    "subcategory": "Verb Tenses",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Tomorrow, I will be driving to work.'. This question tests your understanding of English verb tenses and their proper usage in context."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ If I were rich, I would travel the world.",
+      "2/ If I am rich, I will travel the world.",
+      "3/ If I was rich, I would travel the world.",
+      "4/ If I had been rich, I would travel the world.",
+      "5/ If I were rich, I travel the world."
+    ],
+    "question": "Choose the sentence that best demonstrates correct use of a conditional clause (second conditional).",
+    "correct_answer": "If I were rich, I would travel the world.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'If I were rich, I would travel the world.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ I occasionally go to the cinema.",
+      "2/ I go occasionally to the cinema.",
+      "3/ Occasionally, I go to the cinema.",
+      "4/ Both 1 and 3.",
+      "5/ I occasionally goes to the cinema."
+    ],
+    "question": "Which sentence correctly employs the adverb \"occasionally\"?",
+    "correct_answer": "Both 1 and 3.",
+    "subcategory": "Adjectives and Adverbs",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Both 1 and 3.'. This demonstrates correct usage of modifiers in English."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ only if",
+      "2/ even if",
+      "3/ unless",
+      "4/ if only",
+      "5/ only than"
+    ],
+    "question": "Fill in the blank: \"He will attend the meeting, _______ he is invited.\"",
+    "correct_answer": "only if",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'only if'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ Seldom have I seen such talent.",
+      "2/ Seldom I have seen such talent.",
+      "3/ I seldom have seen such talent.",
+      "4/ Seldom have I seen such talents.",
+      "5/ I have seldom seen such talent."
+    ],
+    "question": "Which sentence uses correct inversion with a negative adverb?",
+    "correct_answer": "Seldom have I seen such talent.",
+    "subcategory": "Adjectives and Adverbs",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Seldom have I seen such talent.'. This demonstrates correct usage of modifiers in English."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ The car that is parked outside belongs to me.",
+      "2/ The car, that is parked outside, belongs to me.",
+      "3/ The car that, is parked outside, belongs to me.",
+      "4/ The car which is parked outside belongs to me.",
+      "5/ The car that is parked outside, belongs to me."
+    ],
+    "question": "Choose the sentence that correctly uses a relative clause with \"that.\"",
+    "correct_answer": "The car that is parked outside belongs to me.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'The car that is parked outside belongs to me.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ The report has been written by the committee.",
+      "2/ The report is written by the committee.",
+      "3/ The report has written by the committee.",
+      "4/ The report was written by the committee.",
+      "5/ The report is being written by the committee."
+    ],
+    "question": "Which sentence correctly uses the passive voice with the present perfect?",
+    "correct_answer": "The report has been written by the committee.",
+    "subcategory": "Verb Tenses",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'The report has been written by the committee.'. This question tests your understanding of English verb tenses and their proper usage in context."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ laugh",
+      "2/ laughing",
+      "3/ laughed",
+      "4/ to laugh",
+      "5/ laughs"
+    ],
+    "question": "Fill in the blank: \"I couldn’t help but ______ when I heard the news.\"",
+    "correct_answer": "laugh",
+    "subcategory": "Modal Verbs",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'laugh'. This illustrates the proper use of modal verbs to express possibility, permission, or obligation."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ We will go regardless of the weather.",
+      "2/ We will go regardless the weather.",
+      "3/ We will go regardless about the weather.",
+      "4/ We will go regardless to the weather.",
+      "5/ We will go regardless for the weather."
+    ],
+    "question": "Which sentence correctly uses \"regardless of\" to express indifference?",
+    "correct_answer": "We will go regardless of the weather.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'We will go regardless of the weather.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ They bought a new house last year.",
+      "2/ They buyed a new house last year.",
+      "3/ They have bought a new house last year.",
+      "4/ They were bought a new house last year.",
+      "5/ They buying a new house last year."
+    ],
+    "question": "Choose the sentence that uses the correct past simple form.",
+    "correct_answer": "They bought a new house last year.",
+    "subcategory": "Verb Tenses",
+    "difficulty": "easy",
+    "explanation": "The correct answer is 'They bought a new house last year.'. This question tests your understanding of English verb tenses and their proper usage in context."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ He was tired; nevertheless, he continued working.",
+      "2/ He was tired, nevertheless he continued working.",
+      "3/ He was tired nevertheless, he continued working.",
+      "4/ He was tired; nevertheless he continued working.",
+      "5/ He was tired, nevertheless, he continued working."
+    ],
+    "question": "Which sentence correctly uses \"nevertheless\" to indicate contrast?",
+    "correct_answer": "He was tired; nevertheless, he continued working.",
+    "subcategory": "Conjunctions and Linking Words",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'He was tired; nevertheless, he continued working.'. This shows how to properly connect ideas in English."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ magnificent",
+      "2/ magnifiscent",
+      "3/ magnific",
+      "4/ magnificently",
+      "5/ magnifient"
+    ],
+    "question": "Fill in the blank: \"I have never seen such a ______ performance.\"",
+    "correct_answer": "magnificent",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'magnificent'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ The road was closed; hence, we took a detour.",
+      "2/ The road was closed, hence we took a detour.",
+      "3/ The road was closed, hence; we took a detour.",
+      "4/ Hence, the road was closed, we took a detour.",
+      "5/ The road was closed; hence we took a detour."
+    ],
+    "question": "Which sentence uses the word \"hence\" correctly?",
+    "correct_answer": "The road was closed; hence, we took a detour.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'The road was closed; hence, we took a detour.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ I have been studying for hours.",
+      "2/ I have studied for hours.",
+      "3/ I study for hours.",
+      "4/ I had been studying for hours.",
+      "5/ I am studying for hours."
+    ],
+    "question": "Choose the sentence that best demonstrates correct use of the present perfect continuous.",
+    "correct_answer": "I have been studying for hours.",
+    "subcategory": "Verb Tenses",
+    "difficulty": "hard",
+    "explanation": "The correct answer is 'I have been studying for hours.'. This question tests your understanding of English verb tenses and their proper usage in context."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ although",
+      "2/ even though",
+      "3/ despite",
+      "4/ whereas",
+      "5/ because"
+    ],
+    "question": "Fill in the blank: \"They left the party ______ they had enjoyed themselves immensely.\"",
+    "correct_answer": "even though",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'even though'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ If I had known, I would have acted differently.",
+      "2/ If I know, I will act differently.",
+      "3/ If I had known, I would act differently.",
+      "4/ If I knew, I would have acted differently.",
+      "5/ If I had known, I act differently."
+    ],
+    "question": "Which sentence correctly employs a conditional clause of type 3?",
+    "correct_answer": "If I had known, I would have acted differently.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'If I had known, I would have acted differently.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ It was an inevitable mistake.",
+      "2/ It was an inevitability mistake.",
+      "3/ It was a inevitable mistake.",
+      "4/ It was a inevitability mistake.",
+      "5/ It was an inevitable error."
+    ],
+    "question": "Which sentence correctly uses the word \"inevitable\"?",
+    "correct_answer": "It was an inevitable mistake.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'It was an inevitable mistake.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ Because it was raining, we stayed indoors.",
+      "2/ Although it was raining, we stayed indoors.",
+      "3/ If it was raining, we stayed indoors.",
+      "4/ Since it was raining, we stayed indoors.",
+      "5/ While it was raining, we stayed indoors."
+    ],
+    "question": "Select the sentence that best uses an adverbial clause of reason.",
+    "correct_answer": "Since it was raining, we stayed indoors.",
+    "subcategory": "Adjectives and Adverbs",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Since it was raining, we stayed indoors.'. This demonstrates correct usage of modifiers in English."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ who",
+      "2/ whom",
+      "3/ which",
+      "4/ that",
+      "5/ where"
+    ],
+    "question": "Fill in the blank: \"He is the one ______ arrived first.\"",
+    "correct_answer": "who",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'who'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ He runs as if he were a cheetah.",
+      "2/ He runs as if he was a cheetah.",
+      "3/ He runs like he was a cheetah.",
+      "4/ He runs as though he is a cheetah.",
+      "5/ He runs as if he is a cheetah."
+    ],
+    "question": "Which sentence correctly uses \"as if\" to express a comparison?",
+    "correct_answer": "He runs as if he were a cheetah.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'He runs as if he were a cheetah.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ I should have studied more.",
+      "2/ I should study more.",
+      "3/ I ought to study more.",
+      "4/ I must have studied more.",
+      "5/ I could study more."
+    ],
+    "question": "Choose the sentence that best uses a past modal to express regret.",
+    "correct_answer": "I should have studied more.",
+    "subcategory": "Verb Tenses",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'I should have studied more.'. This question tests your understanding of English verb tenses and their proper usage in context."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ fell",
+      "2/ fall",
+      "3/ fallen",
+      "4/ falls",
+      "5/ falling"
+    ],
+    "question": "Fill in the blank: \"The lecture was so boring that several students ______ asleep.\"",
+    "correct_answer": "fell",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'fell'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ There is less water in the glass than in the bottle.",
+      "2/ There is fewer water in the glass than in the bottle.",
+      "3/ There is less waters in the glass than in the bottle.",
+      "4/ There is fewer waters in the glass than in the bottle.",
+      "5/ There is least water in the glass than in the bottle."
+    ],
+    "question": "Which sentence correctly employs the comparative \"less...than\" for uncountable nouns?",
+    "correct_answer": "There is less water in the glass than in the bottle.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'There is less water in the glass than in the bottle.'. This tests your understanding of English grammar and usage."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ She sings beautifully.",
+      "2/ She sings beautiful.",
+      "3/ She beautiful sings.",
+      "4/ She sings more beautiful.",
+      "5/ Beautiful she sings."
+    ],
+    "question": "Which sentence correctly uses an adverb to modify a verb?",
+    "correct_answer": "She sings beautifully.",
+    "subcategory": "Adjectives and Adverbs",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'She sings beautifully.'. This demonstrates correct usage of modifiers in English."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ They had been waiting for hours when the bus arrived.",
+      "2/ They waited for hours when the bus arrived.",
+      "3/ They had waited for hours when the bus arrived.",
+      "4/ They were waiting for hours when the bus arrived.",
+      "5/ They have been waiting for hours when the bus arrived."
+    ],
+    "question": "Choose the sentence that correctly uses the past perfect continuous tense.",
+    "correct_answer": "They had been waiting for hours when the bus arrived.",
+    "subcategory": "Verb Tenses",
+    "difficulty": "hard",
+    "explanation": "The correct answer is 'They had been waiting for hours when the bus arrived.'. This question tests your understanding of English verb tenses and their proper usage in context."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ live",
+      "2/ to live",
+      "3/ living",
+      "4/ lived",
+      "5/ lives"
+    ],
+    "question": "Fill in the blank: \"I cannot imagine ______ in a city so crowded.\"",
+    "correct_answer": "living",
+    "subcategory": "Modal Verbs",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'living'. This illustrates the proper use of modal verbs to express possibility, permission, or obligation."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ In the morning, we went jogging.",
+      "2/ In the morning we went jogging.",
+      "3/ We went jogging in the morning.",
+      "4/ Morning, we went jogging.",
+      "5/ In the morning we, went jogging."
+    ],
+    "question": "Which sentence correctly employs an introductory adverbial phrase?",
+    "correct_answer": "In the morning, we went jogging.",
+    "subcategory": "Adjectives and Adverbs",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'In the morning, we went jogging.'. This demonstrates correct usage of modifiers in English."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ She is young, yet very wise.",
+      "2/ She is young, but yet very wise.",
+      "3/ She is young yet very wise.",
+      "4/ She is young yet, very wise.",
+      "5/ She is young, and yet very wise."
+    ],
+    "question": "Select the sentence that uses \"yet\" as a conjunction correctly.",
+    "correct_answer": "She is young, and yet very wise.",
+    "subcategory": "Conjunctions and Linking Words",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'She is young, and yet very wise.'. This shows how to properly connect ideas in English."
+  },
+  {
+    "category": "Business English",
+    "incorrect_answers": [
+      "1/ Despite the heavy traffic, we arrived on time.",
+      "2/ Despite heavy traffic, we arrived on time.",
+      "3/ Despite the heavy traffic we arrived on time.",
+      "4/ Both 1 and 2 are correct.",
+      "5/ None of the above."
+    ],
+    "question": "Which sentence correctly uses \"despite\" with a noun phrase?",
+    "correct_answer": "Both 1 and 2 are correct.",
+    "subcategory": "Grammar and Usage",
+    "difficulty": "medium",
+    "explanation": "The correct answer is 'Both 1 and 2 are correct.'. This tests your understanding of English grammar and usage."
+  }
+]

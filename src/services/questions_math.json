@@ -1,0 +1,2329 @@
+[
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "16",
+      "20",
+      "25",
+      "28",
+      "32"
+    ],
+    "question": "Si PORTE‑MONNAIE vaut 35, ALLUME‑FEU vaut 18, ALLUME‑CIGARE vaut 36 et COW‑BOY vaut 9, combien vaut PARE‑BRISE ?",
+    "correct_answer": ": 20",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 20. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "1/8",
+      "3/16",
+      "3/32",
+      "5/64",
+      "25/256"
+    ],
+    "question": "Un robot se trouve sur une forme (voir figure ci‑dessous) et se déplace aléatoirement. Il se trouve initialement sur la case A. À chaque pas, il se déplace d’un carreau en haut, en bas, à gauche ou à droite de manière équiprobable. Quelle est la probabilité qu’au bout de trois pas, il ne soit jamais sorti de la forme sur laquelle il se trouve ?",
+    "correct_answer": ": 3/16",
+    "subcategory": "Probabilités",
+    "difficulty": "hard",
+    "explanation": "La réponse est : 3/16. Ce problème de probabilité nécessite de considérer tous les cas possibles et leurs probabilités respectives."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "6",
+      "9",
+      "27",
+      "38",
+      "40"
+    ],
+    "question": "Complétez la suite suivante : 7, 22, 11, 34, 17, 52, 26, 13, … ?",
+    "correct_answer": ": 9",
+    "subcategory": "Suites et Séries",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 9. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "VILLE (J)",
+      "ETAT (S)",
+      "FRANCE (F)",
+      "COMMUNE (M)",
+      "REFORME (F)"
+    ],
+    "question": "Quel mot complète cette liste de manière logique : CIRCONSCRIPTION (C), REGIONS (I), DEPARTEMENT (T) … ?",
+    "correct_answer": ": COMMUNE (M)",
+    "subcategory": "Logique",
+    "difficulty": "hard",
+    "explanation": "La réponse est : COMMUNE (M). Cette question de logique requiert d'identifier le pattern ou la règle sous-jacente."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [],
+    "question": "On laisse tomber un crayon sur le sol. Quelle est la probabilité que sa pointe soit dirigée vers le nord à 20° près (à gauche ou à droite) ?",
+    "correct_answer": ": 40°/360° = 1/9",
+    "subcategory": "Probabilités",
+    "difficulty": "hard",
+    "explanation": "La réponse est : 40°/360° = 1/9. Ce problème de probabilité nécessite de considérer tous les cas possibles et leurs probabilités respectives."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "10 %",
+      "20 %",
+      "25 %",
+      "env. 33 %",
+      "40 %"
+    ],
+    "question": "Une urne contient 90 jetons de loto, numérotés de 1 à 90. On tire un premier jeton ; s’il est divisible par 2 ou par 3, on l’écarte et on tire un nouveau jeton ; ce processus se répète jusqu’à obtenir un numéro non divisible ni par 2 ni par 3. Quelle est la probabilité que le numéro tiré en dernier soit divisible par 5 ?",
+    "correct_answer": ": 20 %",
+    "subcategory": "Probabilités",
+    "difficulty": "hard",
+    "explanation": "La réponse est : 20 %. Ce problème de probabilité nécessite de considérer tous les cas possibles et leurs probabilités respectives."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "75",
+      "80",
+      "85",
+      "100",
+      "128"
+    ],
+    "question": "La promotion TURING, composée à 80 % d’hommes, présente 40 % d’hommes gauchers et 60 % d’étudiantes droitières. Sachant que seules 6 étudiantes sont gauchers, combien de personnes composent cette promotion ?",
+    "correct_answer": ": 75",
+    "subcategory": "Pourcentages",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 75. Pour résoudre ce problème de pourcentage, il faut appliquer la formule appropriée et effectuer les calculs avec précision."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "2X",
+      "9F",
+      "5Q",
+      "6X",
+      "1U"
+    ],
+    "question": "Quel couple (chiffre‑lettre) est l’intrus dans la liste : 2X, 9F, 5Q, 6X, 1U ?",
+    "correct_answer": ": 5Q",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 5Q. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "X : 2, 7, 9",
+      "Y : 8, 7, 3",
+      "–16/3",
+      "–7/3",
+      "0",
+      "7/2",
+      "7/4"
+    ],
+    "question": "Calculer la covariance entre ces deux variables X et Y :",
+    "correct_answer": ": –16/3",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : –16/3. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "5",
+      "15",
+      "25",
+      "35",
+      "45"
+    ],
+    "question": "Calculer le plus grand diviseur commun de 90, 135 et 225.",
+    "correct_answer": ": 45",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 45. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [],
+    "question": "Soit tous les mots de 1 à 3 lettres formés avec les lettres X, Y et Z, classés dans l’ordre lexical (X, XX, XXX, XXY, XXZ, XY, …). Quel sera le onzième mot de cette liste ?",
+    "correct_answer": ": ZY",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : ZY. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "42 euros",
+      "44 euros",
+      "46 euros",
+      "48 euros",
+      "50 euros"
+    ],
+    "question": "Un ami a pris un abonnement « Pro » dans une salle de sport à 222 € pour un accès annuel illimité. La formule de base coûte 72 € (adhésion annuelle) + 8 € par jour. S’il n’est allé que 13 jours, combien aurait‑il économisé en choisissant la formule de base ?",
+    "correct_answer": ": 46 euros",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 46 euros. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "16",
+      "18",
+      "20",
+      "22",
+      "24"
+    ],
+    "question": "Ce monument de Colombey‑les‑Deux‑Églises, appelé « croix de Lorraine », compte combien de faces (y compris sa base) ?",
+    "correct_answer": ": 20",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 20. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "UI",
+      "VH",
+      "VJ",
+      "UH",
+      "VI"
+    ],
+    "question": "Quel couple de lettres complète ce schéma logique ?",
+    "correct_answer": ": VH",
+    "subcategory": "Logique",
+    "difficulty": "hard",
+    "explanation": "La réponse est : VH. Cette question de logique requiert d'identifier le pattern ou la règle sous-jacente."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [],
+    "question": "Un coureur de cross effectue 4 tours d’un parcours à des vitesses de 15 km/h, 12 km/h, 10 km/h et 6 km/h. Un second coureur réalise l’ensemble du parcours à vitesse constante et obtient le même temps total. Quelle est sa vitesse moyenne ?",
+    "correct_answer": ": 9,6 km/h",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 9,6 km/h. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "–5 g",
+      "–4 g",
+      "–3 g",
+      "–2 g",
+      "–1 g"
+    ],
+    "question": "Le relevé du poids de 1000 œufs sur une semaine indique des poids allant de 40 g à 90 g. Après vérification, 2 douzaines d’œufs annoncés à 70 g pèsent en réalité 60 g. Quel impact cette erreur a‑t‑elle sur la médiane de la série ?",
+    "correct_answer": ": –1 g",
+    "subcategory": "Suites et Séries",
+    "difficulty": "medium",
+    "explanation": "La réponse est : –1 g. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [],
+    "question": "Calculez : (5 – 5 × 2²)² / (–2 × 9 + 3²) – 5.",
+    "correct_answer": ": –30",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : –30. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [],
+    "question": "Retrouvez l’équation de la droite perpendiculaire à 4x – 5y = –10 qui passe par le point (2 ; –2).",
+    "correct_answer": ": y + 2 = –5/4 (x – 2)",
+    "subcategory": "Géométrie",
+    "difficulty": "medium",
+    "explanation": "La réponse est : y + 2 = –5/4 (x – 2). La résolution nécessite l'application des formules géométriques appropriées."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "4",
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "question": "Si A + B = 12 et A – B = 4, quelle est la valeur de A ?",
+    "correct_answer": ": 8",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 8. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "43",
+      "47",
+      "53",
+      "59",
+      "61"
+    ],
+    "question": "Quel est le nombre premier le plus proche de 50 ?",
+    "correct_answer": ": 47",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 47. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "18",
+      "20",
+      "24",
+      "32",
+      "64"
+    ],
+    "question": "Complétez la suite suivante : 2, 4, 8, 16, …",
+    "correct_answer": ": 32",
+    "subcategory": "Suites et Séries",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 32. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "7,60 €",
+      "8,00 €",
+      "7,20 €",
+      "8,40 €",
+      "9,00 €"
+    ],
+    "question": "Si le coût d’une pomme est de 0,80 € et celui d’une poire de 1,20 €, combien coûtent 5 pommes et 3 poires ?",
+    "correct_answer": ": 7,60 €",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 7,60 €. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "20",
+      "25",
+      "30",
+      "35",
+      "40"
+    ],
+    "question": "Quel est le résultat de 15 % de 200 ?",
+    "correct_answer": ": 30",
+    "subcategory": "Pourcentages",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 30. Pour résoudre ce problème de pourcentage, il faut appliquer la formule appropriée et effectuer les calculs avec précision."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "50 km/h",
+      "60 km/h",
+      "70 km/h",
+      "75 km/h",
+      "80 km/h"
+    ],
+    "question": "Si une voiture parcourt 150 km en 2 heures, quelle est sa vitesse moyenne ?",
+    "correct_answer": ": 75 km/h",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 75 km/h. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "196",
+      "1960",
+      "144",
+      "169",
+      "225"
+    ],
+    "question": "Quel est le carré de 14 ?",
+    "correct_answer": ": 196",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 196. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "question": "Résolvez l’équation : 3x – 7 = 11.",
+    "correct_answer": ": 6",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 6. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "0,25",
+      "0,50",
+      "0,75",
+      "1",
+      "0,85"
+    ],
+    "question": "Si la probabilité d’un événement est de 0,25, quelle est la probabilité qu’il ne se produise pas ?",
+    "correct_answer": ": 0,75",
+    "subcategory": "Probabilités",
+    "difficulty": "hard",
+    "explanation": "La réponse est : 0,75. Ce problème de probabilité nécessite de considérer tous les cas possibles et leurs probabilités respectives."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "16",
+      "18",
+      "20",
+      "22",
+      "24"
+    ],
+    "question": "Combien y a‑t‑il de diagonales dans un polygone à 8 côtés ?",
+    "correct_answer": ": 20",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 20. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "1000",
+      "1200",
+      "1250",
+      "2000",
+      "2500"
+    ],
+    "question": "Si 5 machines produisent 250 pièces en 4 heures, combien de pièces 10 machines produiront‑elles en 8 heures (production constante) ?",
+    "correct_answer": ": 1000",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 1000. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "10",
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    "question": "Quelle est la racine carrée de 144 ?",
+    "correct_answer": ": 12",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 12. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "35 €",
+      "40 €",
+      "45 €",
+      "50 €",
+      "55 €"
+    ],
+    "question": "Si une réduction de 20 % est appliquée à un article de 50 €, quel est son prix après réduction ?",
+    "correct_answer": ": 40 €",
+    "subcategory": "Pourcentages",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 40 €. Pour résoudre ce problème de pourcentage, il faut appliquer la formule appropriée et effectuer les calculs avec précision."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "54",
+      "55",
+      "56",
+      "57",
+      "58"
+    ],
+    "question": "Quel est le produit de 8 et 7 ?",
+    "correct_answer": ": 56",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 56. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "question": "Dans un triangle rectangle, si les côtés adjacents à l’angle droit mesurent 3 et 4, quelle est la longueur de l’hypoténuse ?",
+    "correct_answer": ": 5",
+    "subcategory": "Géométrie",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 5. La résolution nécessite l'application des formules géométriques appropriées."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "question": "Si 12 personnes partagent équitablement 96 bonbons, combien chacun reçoit‑il ?",
+    "correct_answer": ": 8",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 8. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "question": "Si x = 3, quelle est la valeur de 2x² – 4x + 1 ?",
+    "correct_answer": ": 7",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 7. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "720",
+      "5040",
+      "40320",
+      "504",
+      "362880"
+    ],
+    "question": "Quel est le résultat de 7! (7 factoriel) ?",
+    "correct_answer": ": 5040",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 5040. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "28 €",
+      "29 €",
+      "30 €",
+      "31 €",
+      "32 €"
+    ],
+    "question": "Si le prix d’un livre augmente de 10 % pour atteindre 33 €, quel était son prix initial ?",
+    "correct_answer": ": 30 €",
+    "subcategory": "Pourcentages",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 30 €. Pour résoudre ce problème de pourcentage, il faut appliquer la formule appropriée et effectuer les calculs avec précision."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "question": "Quel est le nombre de côtés d’un hexagone ?",
+    "correct_answer": ": 6",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 6. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "80 km/h",
+      "90 km/h",
+      "100 km/h",
+      "110 km/h",
+      "120 km/h"
+    ],
+    "question": "Si un train parcourt 300 km en 3 heures, quelle est sa vitesse moyenne ?",
+    "correct_answer": ": 100 km/h",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 100 km/h. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "21 cm",
+      "24 cm",
+      "28 cm",
+      "30 cm",
+      "35 cm"
+    ],
+    "question": "Quel est le périmètre d’un carré dont le côté mesure 7 cm ?",
+    "correct_answer": ": 28 cm",
+    "subcategory": "Géométrie",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 28 cm. La résolution nécessite l'application des formules géométriques appropriées."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "question": "Résolvez pour x : 2x + 3 = 11.",
+    "correct_answer": ": 4",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 4. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "15",
+      "18",
+      "20",
+      "21",
+      "24"
+    ],
+    "question": "Si le rapport entre deux nombres est de 3 : 4 et leur somme est 35, quel est le plus grand ?",
+    "correct_answer": ": 20",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 20. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "48",
+      "54",
+      "64",
+      "72",
+      "81"
+    ],
+    "question": "Quel est le résultat de 2³ × 3² ?",
+    "correct_answer": ": 72",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 72. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "question": "Combien y a‑t‑il de nombres premiers entre 1 et 20 ?",
+    "correct_answer": ": 8",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 8. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "50 cm²",
+      "55 cm²",
+      "60 cm²",
+      "65 cm²",
+      "70 cm²"
+    ],
+    "question": "Si un rectangle a une longueur de 12 cm et une largeur de 5 cm, quelle est sa surface ?",
+    "correct_answer": ": 60 cm²",
+    "subcategory": "Géométrie",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 60 cm². La résolution nécessite l'application des formules géométriques appropriées."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "10",
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    "question": "Quel est le nombre suivant dans la suite : 1, 1, 2, 3, 5, 8, … ?",
+    "correct_answer": ": 13",
+    "subcategory": "Suites et Séries",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 13. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "30",
+      "31",
+      "32",
+      "33",
+      "34"
+    ],
+    "question": "Résolvez : 9² – 7².",
+    "correct_answer": ": 32",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 32. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "65 €",
+      "66 €",
+      "67 €",
+      "68 €",
+      "69 €"
+    ],
+    "question": "Si un article coûte initialement 80 € et qu’il bénéficie d’une remise de 15 %, quel est son prix après remise ?",
+    "correct_answer": ": 68 €",
+    "subcategory": "Pourcentages",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 68 €. Pour résoudre ce problème de pourcentage, il faut appliquer la formule appropriée et effectuer les calculs avec précision."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "10",
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    "question": "Quel est le quotient de 144 divisé par 12 ?",
+    "correct_answer": ": 12",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 12. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "12",
+      "16",
+      "20",
+      "24",
+      "28"
+    ],
+    "question": "Combien y a‑t‑il de permutations possibles d’un ensemble de 4 objets distincts ?",
+    "correct_answer": ": 24",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 24. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "3 cm",
+      "4 cm",
+      "5 cm",
+      "6 cm",
+      "7 cm"
+    ],
+    "question": "Si le périmètre d’un cercle est de 31,4 cm, quelle est la valeur approximative de son rayon ?",
+    "correct_answer": ": 5 cm",
+    "subcategory": "Géométrie",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 5 cm. La résolution nécessite l'application des formules géométriques appropriées."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "16",
+      "32",
+      "48",
+      "64",
+      "81"
+    ],
+    "question": "Quel est le résultat de (3 + 5)² ?",
+    "correct_answer": ": 64",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 64. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "15 %",
+      "20 %",
+      "25 %",
+      "30 %",
+      "35 %"
+    ],
+    "question": "Si le prix d’un article est multiplié par 1,25, quelle augmentation en pourcentage représente‑t‑elle ?",
+    "correct_answer": ": 25 %",
+    "subcategory": "Pourcentages",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 25 %. Pour résoudre ce problème de pourcentage, il faut appliquer la formule appropriée et effectuer les calculs avec précision."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "16 cm³",
+      "32 cm³",
+      "48 cm³",
+      "64 cm³",
+      "80 cm³"
+    ],
+    "question": "Quel est le volume d’un cube dont l’arête mesure 4 cm ?",
+    "correct_answer": ": 64 cm³",
+    "subcategory": "Géométrie",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 64 cm³. La résolution nécessite l'application des formules géométriques appropriées."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "question": "Si 3x = 18, quelle est la valeur de x ?",
+    "correct_answer": ": 6",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 6. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "80",
+      "82",
+      "85",
+      "88",
+      "90"
+    ],
+    "question": "Quel est le résultat de 100 – 15 % de 100 ?",
+    "correct_answer": ": 85",
+    "subcategory": "Pourcentages",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 85. Pour résoudre ce problème de pourcentage, il faut appliquer la formule appropriée et effectuer les calculs avec précision."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "210",
+      "225",
+      "230",
+      "240",
+      "245"
+    ],
+    "question": "Combien de minutes y a‑t‑il dans 3 heures et 45 minutes ?",
+    "correct_answer": ": 225",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 225. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "54",
+      "55",
+      "56",
+      "57",
+      "58"
+    ],
+    "question": "Quel est le produit de 7 et 8 ?",
+    "correct_answer": ": 56",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 56. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "50 km/h",
+      "55 km/h",
+      "60 km/h",
+      "65 km/h",
+      "70 km/h"
+    ],
+    "question": "Si un train accélère de 20 km/h à 80 km/h, de combien sa vitesse augmente‑t‑elle ?",
+    "correct_answer": ": 60 km/h",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 60 km/h. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "36",
+      "40",
+      "42",
+      "48",
+      "50"
+    ],
+    "question": "Quel est le prochain nombre dans la suite : 3, 6, 12, 24, … ?",
+    "correct_answer": ": 48",
+    "subcategory": "Suites et Séries",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 48. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "question": "Si le produit de deux nombres est 48 et l’un des nombres est 6, quel est l’autre ?",
+    "correct_answer": ": 8",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 8. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "16",
+      "32",
+      "64",
+      "128",
+      "256"
+    ],
+    "question": "Quel est le résultat de 2⁵ ?",
+    "correct_answer": ": 32",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 32. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "50 % du nombre initial",
+      "60 % du nombre initial",
+      "70 % du nombre initial",
+      "75 % du nombre initial",
+      "80 % du nombre initial"
+    ],
+    "question": "Si on augmente un nombre de 50 % puis on le diminue de 50 %, quel est le résultat par rapport au nombre initial ?",
+    "correct_answer": ": 75 % du nombre initial",
+    "subcategory": "Pourcentages",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 75 % du nombre initial. Pour résoudre ce problème de pourcentage, il faut appliquer la formule appropriée et effectuer les calculs avec précision."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "12",
+      "15",
+      "18",
+      "20",
+      "22"
+    ],
+    "question": "Dans une classe de 30 élèves, si 40 % sont des filles, combien y a‑t‑il de garçons ?",
+    "correct_answer": ": 18",
+    "subcategory": "Pourcentages",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 18. Pour résoudre ce problème de pourcentage, il faut appliquer la formule appropriée et effectuer les calculs avec précision."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "36",
+      "40",
+      "42",
+      "44",
+      "48"
+    ],
+    "question": "Quel est le triple de 14 ?",
+    "correct_answer": ": 42",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 42. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "10 %",
+      "15 %",
+      "20 %",
+      "25 %",
+      "30 %"
+    ],
+    "question": "Si un objet coûte 50 € et subit une réduction de 10 €, quel est le pourcentage de réduction ?",
+    "correct_answer": ": 20 %",
+    "subcategory": "Pourcentages",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 20 %. Pour résoudre ce problème de pourcentage, il faut appliquer la formule appropriée et effectuer les calculs avec précision."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "question": "Quel est le reste de la division de 17 par 5 ?",
+    "correct_answer": ": 2",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 2. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "20",
+      "24",
+      "30",
+      "32",
+      "36"
+    ],
+    "question": "Si 3S = 18, quelle est la valeur de 5S ?",
+    "correct_answer": ": 30",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 30. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "150 cm²",
+      "160 cm²",
+      "180 cm²",
+      "200 cm²",
+      "220 cm²"
+    ],
+    "question": "Dans un rectangle, la longueur est le double de la largeur. Si le périmètre est de 60 cm, quelle est la surface ?",
+    "correct_answer": ": 200 cm²",
+    "subcategory": "Géométrie",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 200 cm². La résolution nécessite l'application des formules géométriques appropriées."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "30",
+      "32",
+      "35",
+      "36",
+      "40"
+    ],
+    "question": "Quel est le nombre de diagonales d’un polygone à 10 côtés ?",
+    "correct_answer": ": 35",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 35. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "question": "Si a et b sont des entiers tels que 4a + 3b = 25, quelle est la valeur maximale possible de a + b ?",
+    "correct_answer": ": 8",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 8. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "question": "Si x² – 5x + 6 = 0, quelle est la somme des solutions ?",
+    "correct_answer": ": 5",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 5. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "42",
+      "44",
+      "46",
+      "48",
+      "50"
+    ],
+    "question": "Calculez (2³ – 2) × (3² – 1).",
+    "correct_answer": ": 48",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 48. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "1200 €",
+      "1250 €",
+      "1260 €",
+      "1300 €",
+      "1350 €"
+    ],
+    "question": "Un investissement initial de 1000 € rapporte 8 % par an (intérêts composés annuellement). Quel sera le capital au bout de 3 ans ?",
+    "correct_answer": ": 1260 €",
+    "subcategory": "Pourcentages",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 1260 €. Pour résoudre ce problème de pourcentage, il faut appliquer la formule appropriée et effectuer les calculs avec précision."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "0,3",
+      "0,5",
+      "0,7",
+      "0,8",
+      "0,9"
+    ],
+    "question": "Si la probabilité qu’un événement se produise est de 0,3, quelle est celle qu’il ne se produise pas ?",
+    "correct_answer": ": 0,7",
+    "subcategory": "Probabilités",
+    "difficulty": "hard",
+    "explanation": "La réponse est : 0,7. Ce problème de probabilité nécessite de considérer tous les cas possibles et leurs probabilités respectives."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "16",
+      "20",
+      "24",
+      "28",
+      "32"
+    ],
+    "question": "Quel est le plus petit multiple commun de 8 et 12 ?",
+    "correct_answer": ": 24",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 24. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "question": "Si 5y = 20, quelle est la valeur de y ?",
+    "correct_answer": ": 4",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 4. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "7,8 cm",
+      "8 cm",
+      "8,5 cm",
+      "9 cm",
+      "9,5 cm"
+    ],
+    "question": "Dans un triangle équilatéral, si la longueur d’un côté est 9 cm, quelle est la hauteur ?",
+    "correct_answer": ": 7,8 cm",
+    "subcategory": "Géométrie",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 7,8 cm. La résolution nécessite l'application des formules géométriques appropriées."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "0",
+      "5",
+      "Le nombre initial",
+      "L’inverse du nombre",
+      "Indéterminé"
+    ],
+    "question": "Si on multiplie un nombre par 0 puis par 5, quel est le résultat final ?",
+    "correct_answer": ": 0",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 0. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "51",
+      "53",
+      "55",
+      "57",
+      "59"
+    ],
+    "question": "Lequel des nombres suivants est premier ?",
+    "correct_answer": ": 53",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 53. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "50",
+      "55",
+      "60",
+      "65",
+      "70"
+    ],
+    "question": "Si la moyenne de 5 nombres est 12, quelle est leur somme ?",
+    "correct_answer": ": 60",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 60. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "60 €",
+      "62 €",
+      "64 €",
+      "66 €",
+      "68 €"
+    ],
+    "question": "Un article coûte 80 € et bénéficie d’une remise de 20 %. Quel est son prix après réduction ?",
+    "correct_answer": ": 64 €",
+    "subcategory": "Pourcentages",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 64 €. Pour résoudre ce problème de pourcentage, il faut appliquer la formule appropriée et effectuer les calculs avec précision."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "question": "Résolvez pour x : 2(x – 3) = 10.",
+    "correct_answer": ": 8",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 8. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "question": "Si 7a + 2b = 35 et a = 3, quelle est la valeur de b ?",
+    "correct_answer": ": 7",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 7. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "21 cm",
+      "24 cm",
+      "28 cm",
+      "30 cm",
+      "35 cm"
+    ],
+    "question": "Quel est le périmètre d’un carré dont l’aire est 49 cm² ?",
+    "correct_answer": ": 28 cm",
+    "subcategory": "Géométrie",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 28 cm. La résolution nécessite l'application des formules géométriques appropriées."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "50 km/h",
+      "55 km/h",
+      "60 km/h",
+      "65 km/h",
+      "70 km/h"
+    ],
+    "question": "Si la distance entre deux villes est de 180 km et qu’un bus parcourt cette distance en 3 heures, quelle est sa vitesse moyenne ?",
+    "correct_answer": ": 60 km/h",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 60 km/h. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "81",
+      "82",
+      "83",
+      "84",
+      "85"
+    ],
+    "question": "Lequel de ces nombres est un multiple de 9 ?",
+    "correct_answer": ": 81",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 81. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "10",
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    "question": "Si f(x) = 2x + 3, quelle est la valeur de f(4) ?",
+    "correct_answer": ": 11",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 11. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "0,1",
+      "0,2",
+      "0,3",
+      "0,4",
+      "0,5"
+    ],
+    "question": "Quel est le produit de 0,5 et 0,4 ?",
+    "correct_answer": ": 0,2",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 0,2. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "question": "Quel est le logarithme en base 10 de 100 ?",
+    "correct_answer": ": 2",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 2. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "72 cm³",
+      "84 cm³",
+      "90 cm³",
+      "96 cm³",
+      "108 cm³"
+    ],
+    "question": "Dans une pyramide dont la base est un carré de côté 6 cm et la hauteur 8 cm, quel est le volume ?",
+    "correct_answer": ": 96 cm³",
+    "subcategory": "Géométrie",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 96 cm³. La résolution nécessite l'application des formules géométriques appropriées."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "question": "Quel est le reste de la division de 123 par 7 ?",
+    "correct_answer": ": 4",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 4. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "90 %",
+      "95 %",
+      "100 %",
+      "91 %",
+      "85 %"
+    ],
+    "question": "Si on augmente un nombre de 30 % puis on le réduit de 30 %, quel est le résultat en pourcentage du nombre initial ?",
+    "correct_answer": ": 91 % du nombre initial",
+    "subcategory": "Pourcentages",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 91 % du nombre initial. Pour résoudre ce problème de pourcentage, il faut appliquer la formule appropriée et effectuer les calculs avec précision."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "question": "Résolvez l’équation : 5(x + 2) = 3(2x + 1) + 4.",
+    "correct_answer": ": 3",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 3. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "50 000 €",
+      "75 000 €",
+      "100 000 €",
+      "125 000 €",
+      "150 000 €"
+    ],
+    "question": "Une entreprise réalise un bénéfice de 20 % sur des ventes de 500 000 €. Quel est le bénéfice ?",
+    "correct_answer": ": 100 000 €",
+    "subcategory": "Pourcentages",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 100 000 €. Pour résoudre ce problème de pourcentage, il faut appliquer la formule appropriée et effectuer les calculs avec précision."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "24",
+      "60",
+      "120",
+      "240",
+      "720"
+    ],
+    "question": "Combien y a-t-il de permutations possibles pour 5 objets distincts ?",
+    "correct_answer": ": 120",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 120. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "70 %",
+      "75 %",
+      "80 %",
+      "85 %",
+      "90 %"
+    ],
+    "question": "Dans un test, un candidat a répondu correctement à 45 questions sur 60. Quel est son pourcentage de réussite ?",
+    "correct_answer": ": 75 %",
+    "subcategory": "Pourcentages",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 75 %. Pour résoudre ce problème de pourcentage, il faut appliquer la formule appropriée et effectuer les calculs avec précision."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "30",
+      "31",
+      "32",
+      "33",
+      "34"
+    ],
+    "question": "Dans une suite arithmétique dont le premier terme est 5 et la raison est 3, quel est le 10ème terme ?",
+    "correct_answer": ": 32",
+    "subcategory": "Suites et Séries",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 32. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "question": "Une droite passe par les points (1, 2) et (4, 8). Quelle est sa pente ?",
+    "correct_answer": ": 2",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 2. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "10",
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    "question": "Si le produit de deux nombres est 84 et l’un des nombres est 7, quel est l’autre ?",
+    "correct_answer": ": 12",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 12. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "15",
+      "16",
+      "17",
+      "18",
+      "19"
+    ],
+    "question": "Quel est le résultat de 2³ + 3² ?",
+    "correct_answer": ": 17",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 17. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "120",
+      "125",
+      "130",
+      "135",
+      "140"
+    ],
+    "question": "Quel est le quotient de 1000 divisé par 8, arrondi à l’entier le plus proche ?",
+    "correct_answer": ": 125",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 125. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "question": "Quel est le reste de la division de 57 par 8 ?",
+    "correct_answer": ": 1",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 1. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "8 cm",
+      "9 cm",
+      "10 cm",
+      "11 cm",
+      "12 cm"
+    ],
+    "question": "Si le périmètre d’un rectangle est 50 cm et que sa longueur est de 15 cm, quelle est sa largeur ?",
+    "correct_answer": ": 10 cm",
+    "subcategory": "Géométrie",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 10 cm. La résolution nécessite l'application des formules géométriques appropriées."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "18",
+      "36",
+      "54",
+      "72",
+      "81"
+    ],
+    "question": "Dans une suite géométrique, si le premier terme est 2 et la raison est 3, quel est le 4ème terme ?",
+    "correct_answer": ": 54",
+    "subcategory": "Suites et Séries",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 54. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "24",
+      "30",
+      "40",
+      "50",
+      "60"
+    ],
+    "question": "Quel est le résultat de (7 + 3) × (7 – 3) ?",
+    "correct_answer": ": 40",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 40. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "14",
+      "15",
+      "16",
+      "17",
+      "18"
+    ],
+    "question": "Si x/2 = 8, quelle est la valeur de x ?",
+    "correct_answer": ": 16",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 16. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "45",
+      "50",
+      "55",
+      "60",
+      "65"
+    ],
+    "question": "Dans une série de 10 nombres consécutifs (de 1 à 10), quelle est la somme ?",
+    "correct_answer": ": 55",
+    "subcategory": "Suites et Séries",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 55. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "80 %",
+      "90 %",
+      "96 %",
+      "100 %",
+      "104 %"
+    ],
+    "question": "Si on augmente un nombre de 20 % puis on le réduit de 20 %, quel pourcentage du nombre initial obtient-on ?",
+    "correct_answer": ": 96 %",
+    "subcategory": "Pourcentages",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 96 %. Pour résoudre ce problème de pourcentage, il faut appliquer la formule appropriée et effectuer les calculs avec précision."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "400",
+      "440",
+      "460",
+      "480",
+      "500"
+    ],
+    "question": "Si 4 machines produisent 240 pièces en 6 heures, combien 6 machines produiront‑elles en 8 heures (production constante) ?",
+    "correct_answer": ": 480",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 480. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "20",
+      "22",
+      "23",
+      "24",
+      "25"
+    ],
+    "question": "Quel est le quotient de 100 divisé par 4 ?",
+    "correct_answer": ": 25",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 25. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "5 cm",
+      "6 cm",
+      "7 cm",
+      "8 cm",
+      "9 cm"
+    ],
+    "question": "Si le volume d’un cube est de 216 cm³, quelle est la longueur de son arête ?",
+    "correct_answer": ": 6 cm",
+    "subcategory": "Géométrie",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 6 cm. La résolution nécessite l'application des formules géométriques appropriées."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "question": "Résolvez pour x : 3x + 4 = 19.",
+    "correct_answer": ": 5",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 5. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "33",
+      "34",
+      "35",
+      "36",
+      "37"
+    ],
+    "question": "Dans une suite arithmétique de raison 4 dont le premier terme est 7, quel est le 8ème terme ?",
+    "correct_answer": ": 35",
+    "subcategory": "Suites et Séries",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 35. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "65",
+      "68",
+      "70",
+      "75",
+      "80"
+    ],
+    "question": "Que vaut 85 – 15 ?",
+    "correct_answer": ": 70",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 70. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "12",
+      "16",
+      "24",
+      "36",
+      "48"
+    ],
+    "question": "Quel est le plus petit entier positif divisible par 6, 8 et 12 ?",
+    "correct_answer": ": 24",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 24. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "10",
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    "question": "Si le produit de deux nombres est 144 et l’un d’eux est 12, quel est l’autre ?",
+    "correct_answer": ": 12",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 12. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "4",
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "question": "Si A + B = 12 et A – B = 4, quelle est la valeur de A ?",
+    "correct_answer": ": 8",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 8. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "43",
+      "47",
+      "53",
+      "59",
+      "61"
+    ],
+    "question": "Quel est le nombre premier le plus proche de 50 ?",
+    "correct_answer": ": 47",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 47. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "18",
+      "20",
+      "24",
+      "32",
+      "64"
+    ],
+    "question": "Complétez la suite suivante : 2, 4, 8, 16, …",
+    "correct_answer": ": 32",
+    "subcategory": "Suites et Séries",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 32. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "7,60 €",
+      "8,00 €",
+      "7,20 €",
+      "8,40 €",
+      "9,00 €"
+    ],
+    "question": "Si le coût d’une pomme est de 0,80 € et celui d’une poire de 1,20 €, combien coûtent 5 pommes et 3 poires ?",
+    "correct_answer": ": 7,60 €",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 7,60 €. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "20",
+      "25",
+      "30",
+      "35",
+      "40"
+    ],
+    "question": "Quel est le résultat de 15 % de 200 ?",
+    "correct_answer": ": 30",
+    "subcategory": "Pourcentages",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 30. Pour résoudre ce problème de pourcentage, il faut appliquer la formule appropriée et effectuer les calculs avec précision."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "50 km/h",
+      "60 km/h",
+      "70 km/h",
+      "75 km/h",
+      "80 km/h"
+    ],
+    "question": "Si une voiture parcourt 150 km en 2 heures, quelle est sa vitesse moyenne ?",
+    "correct_answer": ": 75 km/h",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 75 km/h. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "196",
+      "1960",
+      "144",
+      "169",
+      "225"
+    ],
+    "question": "Quel est le carré de 14 ?",
+    "correct_answer": ": 196",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 196. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "question": "Résolvez l’équation : 3x – 7 = 11.",
+    "correct_answer": ": 6",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 6. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "0,25",
+      "0,50",
+      "0,75",
+      "1",
+      "0,85"
+    ],
+    "question": "Si la probabilité d’un événement est 0,25, quelle est celle qu’il ne se produise pas ?",
+    "correct_answer": ": 0,75",
+    "subcategory": "Probabilités",
+    "difficulty": "hard",
+    "explanation": "La réponse est : 0,75. Ce problème de probabilité nécessite de considérer tous les cas possibles et leurs probabilités respectives."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "16",
+      "18",
+      "20",
+      "22",
+      "24"
+    ],
+    "question": "Combien de diagonales possède un polygone à 8 côtés ?",
+    "correct_answer": ": 20",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 20. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "1000",
+      "1200",
+      "1250",
+      "2000",
+      "2500"
+    ],
+    "question": "Si 5 machines produisent 250 pièces en 4 heures, combien produiront 10 machines en 8 heures ?",
+    "correct_answer": ": 1000",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 1000. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "10",
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    "question": "Quelle est la racine carrée de 144 ?",
+    "correct_answer": ": 12",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 12. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "35 €",
+      "40 €",
+      "45 €",
+      "50 €",
+      "55 €"
+    ],
+    "question": "Si une réduction de 20 % est appliquée à un article de 50 €, quel est son prix après réduction ?",
+    "correct_answer": ": 40 €",
+    "subcategory": "Pourcentages",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 40 €. Pour résoudre ce problème de pourcentage, il faut appliquer la formule appropriée et effectuer les calculs avec précision."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "54",
+      "55",
+      "56",
+      "57",
+      "58"
+    ],
+    "question": "Quel est le produit de 8 et 7 ?",
+    "correct_answer": ": 56",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 56. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "question": "Dans un triangle rectangle, si les côtés adjacents à l’angle droit mesurent 3 et 4, quelle est la longueur de l’hypoténuse ?",
+    "correct_answer": ": 5",
+    "subcategory": "Géométrie",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 5. La résolution nécessite l'application des formules géométriques appropriées."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "question": "Si 12 personnes partagent équitablement 96 bonbons, combien chacun reçoit‑il ?",
+    "correct_answer": ": 8",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 8. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "question": "Si x = 3, quelle est la valeur de 2x² – 4x + 1 ?",
+    "correct_answer": ": 7",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 7. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "720",
+      "5040",
+      "40320",
+      "504",
+      "362880"
+    ],
+    "question": "Quel est le résultat de 7! (7 factoriel) ?",
+    "correct_answer": ": 5040",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 5040. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "28 €",
+      "29 €",
+      "30 €",
+      "31 €",
+      "32 €"
+    ],
+    "question": "Si le prix d’un livre augmente de 10 % pour atteindre 33 €, quel était son prix initial ?",
+    "correct_answer": ": 30 €",
+    "subcategory": "Pourcentages",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 30 €. Pour résoudre ce problème de pourcentage, il faut appliquer la formule appropriée et effectuer les calculs avec précision."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "question": "Combien de côtés possède un hexagone ?",
+    "correct_answer": ": 6",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 6. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "80 km/h",
+      "90 km/h",
+      "100 km/h",
+      "110 km/h",
+      "120 km/h"
+    ],
+    "question": "Si un train parcourt 300 km en 3 heures, quelle est sa vitesse moyenne ?",
+    "correct_answer": ": 100 km/h",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 100 km/h. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "question": "Résolvez pour x : 2x + 3 = 11.",
+    "correct_answer": ": 4",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 4. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "15",
+      "18",
+      "20",
+      "21",
+      "24"
+    ],
+    "question": "Si le rapport entre deux nombres est 3 : 4 et leur somme est 35, quel est le plus grand ?",
+    "correct_answer": ": 20",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 20. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "48",
+      "54",
+      "64",
+      "72",
+      "81"
+    ],
+    "question": "Quel est le résultat de 2³ × 3² ?",
+    "correct_answer": ": 72",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 72. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "question": "Combien de nombres premiers y a-t-il entre 1 et 20 ?",
+    "correct_answer": ": 8",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 8. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "50 cm²",
+      "55 cm²",
+      "60 cm²",
+      "65 cm²",
+      "70 cm²"
+    ],
+    "question": "Si un rectangle a une longueur de 12 cm et une largeur de 5 cm, quelle est sa surface ?",
+    "correct_answer": ": 60 cm²",
+    "subcategory": "Géométrie",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 60 cm². La résolution nécessite l'application des formules géométriques appropriées."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "10",
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    "question": "Quel est le nombre suivant dans la suite : 1, 1, 2, 3, 5, 8, … ?",
+    "correct_answer": ": 13",
+    "subcategory": "Suites et Séries",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 13. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "30",
+      "31",
+      "32",
+      "33",
+      "34"
+    ],
+    "question": "Résolvez : 9² – 7².",
+    "correct_answer": ": 32",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 32. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "65 €",
+      "66 €",
+      "67 €",
+      "68 €",
+      "69 €"
+    ],
+    "question": "Si un article coûte initialement 80 € et bénéficie d’une remise de 15 %, quel est son prix après remise ?",
+    "correct_answer": ": 68 €",
+    "subcategory": "Pourcentages",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 68 €. Pour résoudre ce problème de pourcentage, il faut appliquer la formule appropriée et effectuer les calculs avec précision."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "10",
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    "question": "Quel est le quotient de 144 divisé par 12 ?",
+    "correct_answer": ": 12",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 12. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "12",
+      "16",
+      "20",
+      "24",
+      "28"
+    ],
+    "question": "Combien de permutations possibles pour un ensemble de 4 objets distincts ?",
+    "correct_answer": ": 24",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 24. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "3 cm",
+      "4 cm",
+      "5 cm",
+      "6 cm",
+      "7 cm"
+    ],
+    "question": "Si un cercle a un périmètre de 31,4 cm, quelle est la valeur approximative de son rayon ?",
+    "correct_answer": ": 5 cm",
+    "subcategory": "Géométrie",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 5 cm. La résolution nécessite l'application des formules géométriques appropriées."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "16",
+      "32",
+      "48",
+      "64",
+      "81"
+    ],
+    "question": "Quel est le résultat de (3 + 5)² ?",
+    "correct_answer": ": 64",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 64. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "15 %",
+      "20 %",
+      "25 %",
+      "30 %",
+      "35 %"
+    ],
+    "question": "Si le prix d’un article est multiplié par 1,25, quelle augmentation en pourcentage cela représente-t-il ?",
+    "correct_answer": ": 25 %",
+    "subcategory": "Pourcentages",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 25 %. Pour résoudre ce problème de pourcentage, il faut appliquer la formule appropriée et effectuer les calculs avec précision."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "16 cm³",
+      "32 cm³",
+      "48 cm³",
+      "64 cm³",
+      "80 cm³"
+    ],
+    "question": "Quel est le volume d’un cube dont l’arête mesure 4 cm ?",
+    "correct_answer": ": 64 cm³",
+    "subcategory": "Géométrie",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 64 cm³. La résolution nécessite l'application des formules géométriques appropriées."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "question": "Si 3x = 18, quelle est la valeur de x ?",
+    "correct_answer": ": 6",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 6. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "36",
+      "40",
+      "42",
+      "44",
+      "48"
+    ],
+    "question": "Quel est le triple de 14 ?",
+    "correct_answer": ": 42",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 42. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "10 %",
+      "15 %",
+      "20 %",
+      "25 %",
+      "30 %"
+    ],
+    "question": "Si un objet coûte 50 € et subit une réduction de 10 €, quel est le pourcentage de réduction ?",
+    "correct_answer": ": 20 %",
+    "subcategory": "Pourcentages",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 20 %. Pour résoudre ce problème de pourcentage, il faut appliquer la formule appropriée et effectuer les calculs avec précision."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "question": "Quel est le reste de la division de 17 par 5 ?",
+    "correct_answer": ": 2",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 2. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  },
+  {
+    "category": "Raisonnement logique",
+    "incorrect_answers": [
+      "60°",
+      "65°",
+      "70°",
+      "75°",
+      "80°"
+    ],
+    "question": "Si la somme des angles d’un triangle est 180° et que deux angles mesurent 50° et 60°, quel est le troisième angle ?",
+    "correct_answer": ": 70°",
+    "subcategory": "Calcul et Arithmétique",
+    "difficulty": "medium",
+    "explanation": "La réponse est : 70°. La résolution nécessite une bonne compréhension des opérations mathématiques de base."
+  }
+]
