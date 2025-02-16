@@ -1,0 +1,383 @@
+.v-application {
+  min-height: 100vh;
+  background: var(--theme-color);
+  color: #000;
+  position: relative;
+}
+
+.question-container {
+  position: relative;
+  z-index: 2;
+}
+
+.background-image {
+  position: fixed;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 150px;
+  height: 150px;
+  z-index: 1;
+  opacity: 0.8;
+  filter: invert(1);
+}
+
+.v-application::before {
+  content: "";
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 200px;
+  height: 200px;
+  background-image: url('https://assets.quipoquiz.com/production/shapes/art_01.svg');
+  background-size: contain;
+  background-position: center;
+  opacity: 0.5;
+  pointer-events: none;
+  z-index: 1;
+}
+
+.header.in-game {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem 2rem;
+  background: var(--header-color);
+  border-bottom: 1px solid #000;
+  position: relative;
+  z-index: 2;
+}
+
+.header .main {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex: 1;
+}
+
+.title-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.title-wrapper .icon {
+  width: 24px;
+  height: 24px;
+}
+
+.title-wrapper .icon img {
+  width: 100%;
+  height: 100%;
+  filter: brightness(0);
+}
+
+.title-wrapper h1 {
+  font-size: 1.25rem;
+  font-weight: 500;
+  margin: 0;
+  color: #000;
+}
+
+.questions-counter {
+  font-size: 1.1rem;
+  font-weight: 500;
+  color: #000;
+}
+
+.close-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0.5rem;
+}
+
+.close-btn svg {
+  width: 32px;
+  height: 32px;
+}
+
+.v-main.in-game {
+  height: calc(100vh - 64px);
+  background: var(--theme-color);
+}
+
+.game-question {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  background: var(--theme-color);
+}
+
+.question-data {
+  flex: 5;
+  display: flex;
+  position: relative;
+  z-index: 1;
+  background: var(--theme-color);
+}
+
+.question-data::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: -20px;
+  right: -20px;
+  height: 1px;
+  background: #000;
+}
+
+.image-wrapper {
+  flex: 1;
+  position: relative;
+  display: flex;
+  align-items: stretch;
+  justify-content: stretch;
+  margin: 0;
+  padding: 0;
+}
+
+.image-wrapper::after {
+  content: '';
+  position: absolute;
+  top: -17px;
+  bottom: 0;
+  right: 0;
+  width: 0.2px;
+  background: #000;
+  z-index: 1;
+}
+
+.image {
+  width: calc(100% + 20px);
+  height: calc(100% + 16px);
+  object-fit: cover;
+  display: block;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  top: -16px;
+  left: -20px;
+}
+
+.content-wrapper {
+  flex: 2;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+  text-align: center;
+}
+
+.quiz-type {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  background: rgba(255, 255, 255, 0.1);
+  color: #000;
+  border-radius: 20px;
+  font-size: 0.9rem;
+  margin-bottom: 1rem;
+}
+
+.title-3 {
+  font-size: 1.8rem;
+  font-weight: 500;
+  margin: 0;
+  line-height: 1.4;
+  color: #000;
+}
+
+.question-answers {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  background: var(--theme-color);
+}
+
+.radio-button-group {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  align-items: stretch;
+}
+
+/* Style pour 2 réponses */
+.radio-button-group[data-answers="2"] .radio-button {
+  flex: 1;
+  font-size: 1.5rem;
+}
+
+.radio-button-group[data-answers="2"] .radio-button:not(:last-child)::after {
+  content: '';
+  position: absolute;
+  top: -20px;
+  bottom: -20px;
+  right: 0;
+  width: 0.3px;
+  background: #000;
+}
+
+/* Style pour 3 réponses */
+.radio-button-group[data-answers="3"] .radio-button {
+  flex: 1;
+  font-size: 1.3rem;
+}
+
+.radio-button-group[data-answers="3"] .radio-button:not(:last-child)::after {
+  content: '';
+  position: absolute;
+  top: -20px;
+  bottom: -20px;
+  right: 0;
+  width: 0.3px;
+  background: #000;
+}
+
+/* Style pour 4 réponses */
+.radio-button-group[data-answers="4"] .radio-button {
+  flex: 1;
+  font-size: 1.2rem;
+}
+
+.radio-button-group[data-answers="4"] .radio-button:not(:last-child)::after {
+  content: '';
+  position: absolute;
+  top: -20px;
+  bottom: -20px;
+  right: 0;
+  width: 0.3px;
+  background: #000;
+}
+
+/* Style pour 5 réponses */
+.radio-button-group[data-answers="5"] .radio-button {
+  flex: 1;
+  font-size: 1rem;
+}
+
+.radio-button-group[data-answers="5"] .radio-button:not(:last-child)::after {
+  content: '';
+  position: absolute;
+  top: -20px;
+  bottom: -20px;
+  right: 0;
+  width: 0.3px;
+  background: #000;
+}
+
+/* Style pour 6 réponses */
+.radio-button-group[data-answers="6"] .radio-button {
+  flex: 1;
+  font-size: 0.9rem;
+}
+
+.radio-button-group[data-answers="6"] .radio-button:not(:last-child)::after {
+  content: '';
+  position: absolute;
+  top: -20px;
+  bottom: -20px;
+  right: 0;
+  width: 0.3px;
+  background: #000;
+}
+
+.radio-button {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.radio-button-wrapper {
+  height: 100%;
+  width: 100%;
+}
+
+.radio-button input[type="radio"] {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  width: 100%;
+  height: 100%;
+}
+
+.radio-button label {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+  cursor: pointer;
+  font-weight: 500;
+  transition: all 0.2s ease;
+  color: #000;
+  padding: 1rem;
+}
+
+.radio-button input[type="radio"]:checked + label {
+  background: white;
+  color: var(--theme-color);
+}
+
+.radio-button:hover {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.feedback-container {
+  text-align: center;
+  padding: 2rem;
+}
+
+.feedback-container h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  font-weight: bold;
+}
+
+.correct-answer h2 {
+  color: #2e7d32;
+}
+
+.wrong-answer h2 {
+  color: #c62828;
+}
+
+.feedback-container p {
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+  color: #666;
+}
+
+.next-button {
+  background-color: #000;
+  color: white;
+  border: none;
+  padding: 1rem 2rem;
+  font-size: 1.1rem;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.next-button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+.radio-button.correct input[type="radio"] + label {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.radio-button.incorrect input[type="radio"] + label {
+  background-color: #f44336;
+  color: white;
+}
+
+.radio-button input[type="radio"]:disabled + label {
+  cursor: not-allowed;
+  opacity: 0.7;
+}

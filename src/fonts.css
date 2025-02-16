@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'PP Agrandir';
+  src: url('./assets/PP Agrandir - Free for personal use v4.1/PPAgrandir-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PP Agrandir';
+  src: url('./assets/PP Agrandir - Free for personal use v4.1/PPAgrandirText-Bold.otf') format('opentype');
+  font-weight: bold;
+  font-style: normal;
+}
