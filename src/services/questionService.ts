@@ -1,7 +1,7 @@
-import culturegQuestions from '../../../backend/questions_culture_g.json';
-import mathQuestions from '../../../backend/questions_math.json';
-import anglaisQuestions from '../../../backend/questions_anglais.json';
-import francaisQuestions from '../../../backend/questions_francais.json';
+import cultureGQuestions from './questions_culture_g.json';
+import mathQuestions from './questions_math.json';
+import anglaisQuestions from './questions_anglais.json';
+import francaisQuestions from './questions_francais.json';
 
 export interface QuizQuestion {
   title: string;
@@ -66,7 +66,7 @@ const getIconForCategory = (category: string): string => {
 export const getQuestionsByCategory = (categoryId: string): QuizQuestion[] => {
   switch (categoryId) {
     case 'culture_eco':
-      return culturegQuestions.map(convertToQuizQuestion);
+      return cultureGQuestions.map(convertToQuizQuestion);
     case 'logique':
       return mathQuestions.map(convertToQuizQuestion);
     case 'francais':
