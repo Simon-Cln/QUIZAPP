@@ -113,8 +113,8 @@ function App() {
       {!showQuiz ? (
         <>
           <HeroBanner
-            title="❤️ Quiz spécial Saint-Valentin pour Elisa ❤️"
-            description="Mon amour, j'ai préparé ces quiz pour t'aider à réussir ton concours. Chaque question a été choisie avec amour pour te faire progresser. Je crois en toi ! 💝"
+            title="❤️ ElisaQuiz - Préparation Score IAE  ❤️"
+            description="Ma chérie, j'ai créé cette application spécialement pour toi. Je sais que tu vas briller à l'IAE! Je suis fier et je crois en toi! 💫"
             category="IAE"
             icons={[
               cultureIcon,
