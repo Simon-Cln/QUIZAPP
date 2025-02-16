@@ -22,13 +22,21 @@ const HeroBanner: React.FC<HeroBannerProps> = ({
   color,
   onPlay
 }) => {
+  const handleClick = () => {
+    const categoriesSection = document.querySelector('.quiz-categories');
+    if (categoriesSection) {
+      categoriesSection.scrollIntoView({ behavior: 'smooth' });
+    }
+    onPlay();
+  };
+
   return (
     <div className="hero-banner" style={{'--banner-color': color} as React.CSSProperties}>
       <div className="content">
         <div className="content-main">
           <h1>{title}</h1>
           <div className="description-wrapper">{description}</div>
-          <button className="play-button" onClick={onPlay}>
+          <button className="play-button" onClick={handleClick}>
             Commencer le quiz
             <svg viewBox="0 0 18 18" fill="none" stroke="black" xmlns="http://www.w3.org/2000/svg">
               <path d="M17.0005 2.88235V17H2.88281" strokeWidth="1.75"/>
