@@ -3,6 +3,7 @@
   background: var(--theme-color);
   color: #000;
   position: relative;
+  font-family: 'Cabinet Grotesk', sans-serif;
 }
 
 .question-container {
@@ -182,12 +183,11 @@
   margin-bottom: 1rem;
 }
 
-.title-3 {
-  font-size: 1.8rem;
-  font-weight: 500;
-  margin: 0;
-  line-height: 1.4;
-  color: #000;
+.question-title {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 2rem;
+  text-align: center;
 }
 
 .question-answers {
@@ -284,6 +284,11 @@
   background: #000;
 }
 
+.answer-option {
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+
 .radio-button {
   position: relative;
   display: flex;
@@ -331,10 +336,11 @@
   padding: 2rem;
 }
 
-.feedback-container h2 {
-  font-size: 2rem;
-  margin-bottom: 1rem;
-  font-weight: bold;
+.feedback-message {
+  font-size: 1.4rem;
+  font-weight: 700;
+  margin-top: 1.5rem;
+  text-align: center;
 }
 
 .correct-answer h2 {
@@ -360,6 +366,9 @@
   border-radius: 8px;
   cursor: pointer;
   transition: all 0.2s ease;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
 }
 
 .next-button:hover {
