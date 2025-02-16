@@ -113,9 +113,9 @@ function App() {
       {!showQuiz ? (
         <>
           <HeroBanner
-            title="Pour toi mon cœur ❤️"
-            description="Ma chérie, j'ai créé cette petite plateforme rien que pour toi. Tu vas tout déchirer au Score IAE Message, j'en suis sûr. Je t'aime fort ! 🥰"
-            category="Quiz IAE"
+            title="❤️ Quiz spécial Saint-Valentin pour Elisa ❤️"
+            description="Mon amour, j'ai préparé ces quiz pour t'aider à réussir ton concours. Chaque question a été choisie avec amour pour te faire progresser. Je crois en toi ! 💝"
+            category="IAE"
             icons={[
               cultureIcon,
               'https://assets.quipoquiz.com/production/icons/icon_art.svg',
@@ -124,22 +124,62 @@ function App() {
             ]}
             type="Quiz"
             image="https://assets.quipoquiz.com/production/shapes/art_01.svg"
-            color="#fc5252"
-            maskShape="https://assets.quipoquiz.com/production/shapes/art_01.svg"
+            color="#FF69B4"
             onPlay={() => {}}
+            maskShape="https://assets.quipoquiz.com/production/shapes/art_01.svg"
           />
           
           <section className="quiz-categories">
-            <h2>Choisissez votre catégorie</h2>
+            <h2>Les quiz disponibles</h2>
             <div className="categories-grid">
-              {categories.map(cat => (
-                <QuizCard
-                  key={cat.id}
-                  {...cat}
-                  maskShape="https://assets.quipoquiz.com/production/shapes/art_01.svg"
-                  onPlay={() => handleStartQuiz(cat.id)}
-                />
-              ))}
+              <QuizCard
+                id="culture_eco"
+                title="Culture Économique"
+                subtitle="Questions sur l'économie et le management"
+                icon="📈"
+                type="Quiz"
+                image="https://assets.quipoquiz.com/production/shapes/art_01.svg"
+                color="#FF1493"
+                key="culture_eco"
+                onPlay={() => handleStartQuiz('culture_eco')}
+                maskShape="https://assets.quipoquiz.com/production/shapes/art_01.svg"
+              />
+              <QuizCard
+                id="logique"
+                title="Logique"
+                subtitle="Questions de raisonnement et logique"
+                icon="🧮"
+                type="Quiz"
+                image="https://assets.quipoquiz.com/production/shapes/art_02.svg"
+                color="#FF69B4"
+                key="logique"
+                onPlay={() => handleStartQuiz('logique')}
+                maskShape="https://assets.quipoquiz.com/production/shapes/art_02.svg"
+              />
+              <QuizCard
+                id="francais"
+                title="Français"
+                subtitle="Questions de compréhension et expression"
+                icon="📝"
+                type="Quiz"
+                image="https://assets.quipoquiz.com/production/shapes/art_03.svg"
+                color="#FFB6C1"
+                key="francais"
+                onPlay={() => handleStartQuiz('francais')}
+                maskShape="https://assets.quipoquiz.com/production/shapes/art_03.svg"
+              />
+              <QuizCard
+                id="anglais"
+                title="Anglais"
+                subtitle="Questions d'anglais et compréhension"
+                icon="🌍"
+                type="Quiz"
+                image="https://assets.quipoquiz.com/production/shapes/art_04.svg"
+                color="#DB7093"
+                key="anglais"
+                onPlay={() => handleStartQuiz('anglais')}
+                maskShape="https://assets.quipoquiz.com/production/shapes/art_04.svg"
+              />
             </div>
           </section>
         </>
